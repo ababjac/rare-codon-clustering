@@ -1,0 +1,177 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+GO:0042597	CC	e	periplasmic space             	3/59	4/6440	2.9e-06	2	3	0	YLR155C, YLR157C, YLR158C
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+

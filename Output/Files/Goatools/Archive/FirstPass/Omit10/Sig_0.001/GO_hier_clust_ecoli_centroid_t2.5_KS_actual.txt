@@ -1,0 +1,53 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+GO:0006310	BP	e	DNA recombination             	11/363	28/3912	1.9e-05	7	11	0	P03014, P0ADH7, P0ADI0, P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12, P31665, P77170
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+

@@ -1,0 +1,184 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/693	124/6440	2.17e-06	6	0	0	               
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+GO:0005829	CC	p	cytosol                       	21/1237	262/6440	2.82e-06	2	21	0	YBR149W, YCR054C, YDR009W, YDR142C, YDR380W, YDR425W, YER098W, YER132C, YGL091C, YGR120C, YJL070C, YJL098W, YKR080W, YLR410W, YMR259C, YMR261C, YNR043W, YOL011W, YOR018W, YOR209C, YOR241W
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/1237	124/6440	1.32e-06	6	0	0	               
+GO:0003729	MF	p	mRNA binding                  	7/1237	151/6440	1.61e-06	5	7	0	YDL224C, YDR228C, YFR001W, YMR061W, YNL197C, YOL149W, YOR319W
+GO:0060090	MF	p	molecular adaptor activity    	5/1237	140/6440	1.92e-06	1	5	0	YBR200W, YDR138W, YHL030W, YNL172W, YPR030W
+GO:0003723	MF	p	RNA binding                   	13/1237	238/6440	2.04e-06	4	13	0	YDL224C, YDR117C, YDR228C, YFR001W, YKR084C, YLR430W, YMR061W, YNL054W-A, YNL197C, YOL149W, YOR319W, YPL257W-A, YPR158C-C
+GO:1901363	MF	p	heterocyclic compound binding 	28/1237	351/6440	2.57e-06	2	28	0	YCR042C, YDL002C, YDL175C, YDL224C, YDR117C, YDR228C, YDR314C, YFR001W, YGL205W, YHR120W, YKR084C, YLR014C, YLR430W, YML081W, YMR061W, YMR072W, YMR078C, YNL027W, YNL054W-A, YNL197C, YNL261W, YOL094C, YOL149W, YOR144C, YOR319W, YPL147W, YPL257W-A, YPR158C-C
+GO:0003676	MF	p	nucleic acid binding          	26/1237	313/6440	2.97e-06	3	26	0	YCR042C, YDL002C, YDL175C, YDL224C, YDR117C, YDR228C, YDR314C, YFR001W, YHR120W, YKR084C, YLR014C, YLR430W, YML081W, YMR061W, YMR072W, YMR078C, YNL027W, YNL054W-A, YNL197C, YNL261W, YOL094C, YOL149W, YOR144C, YOR319W, YPL257W-A, YPR158C-C
+GO:0097159	MF	p	organic cyclic compound binding	28/1237	353/6440	3.84e-06	2	28	0	YCR042C, YDL002C, YDL175C, YDL224C, YDR117C, YDR228C, YDR314C, YFR001W, YGL205W, YHR120W, YKR084C, YLR014C, YLR430W, YML081W, YMR061W, YMR072W, YMR078C, YNL027W, YNL054W-A, YNL197C, YNL261W, YOL094C, YOL149W, YOR144C, YOR319W, YPL147W, YPL257W-A, YPR158C-C
+GO:0005488	MF	p	binding                       	54/1237	518/6440	3.9e-06	1	54	0	YCR033W, YCR042C, YCR090C, YDL002C, YDL175C, YDL224C, YDR098C, YDR117C, YDR228C, YDR314C, YFL058W, YFR001W, YFR013W, YGL205W, YGL244W, YGR054W, YGR241C, YHR079C, YHR120W, YJL041W, YJL179W, YJR004C, YKL073W, YKR084C, YLR014C, YLR430W, YML081W, YML104C, YMR021C, YMR028W, YMR061W, YMR072W, YMR078C, YMR136W, YNL027W, YNL054W-A, YNL197C, YNL206C, YNL261W, YNR006W, YOL094C, YOL149W, YOR144C, YOR178C, YOR319W, YPL147W, YPL243W, YPL253C, YPL257W-A, YPR086W, YPR089W, YPR091C, YPR135W, YPR158C-C
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+

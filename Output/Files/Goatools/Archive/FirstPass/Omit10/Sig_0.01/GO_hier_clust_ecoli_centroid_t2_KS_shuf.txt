@@ -1,0 +1,104 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:0003735	MF	e	structural constituent of ribosome	2/4	16/3912	9.37e-05	2	2	0.004	 P0A7R5, P0AG63
+GO:0005198	MF	e	structural molecule activity  	2/4	18/3912	0.000119	1	2	0.004	 P0A7R5, P0AG63
+
+Cluster 12 - 
+GO:0140358	MF	e	P-type transmembrane transporter activity	1/1	1/3912	0.000256	9	1	0	         Q59385
+GO:0043682	MF	e	P-type divalent copper transporter activity	1/1	1/3912	0.000256	10	1	0	         Q59385
+GO:0005375	MF	e	copper ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         Q59385
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+GO:0006448	BP	e	regulation of translational elongation	2/32	2/3912	6.48e-05	8	2	0.008	 P0AD49, P0AFX0
+GO:0045900	BP	e	negative regulation of translational elongation	2/32	2/3912	6.48e-05	9	2	0.008	 P0AD49, P0AFX0
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+GO:0006310	BP	e	DNA recombination             	6/103	28/3912	6.77e-05	7	6	0	P03014, P0ADH7, P0ADI0, P0CF10, P19767, P31665
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+

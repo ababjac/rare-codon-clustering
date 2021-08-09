@@ -1,0 +1,188 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+GO:0003676	MF	p	nucleic acid binding          	18/924	175/3912	6.43e-06	3	18	0	P06846, P0A8P6, P0AAR8, P0ACK2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0AGD7, P0CF83, P16684, P33919, P37007, P37641, P39376, P67660, P76071, P77615
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+GO:0003700	MF	e	DNA-binding transcription factor activity	12/208	48/3912	4.75e-06	2	12	0	P0ACS5, P0ACS7, P0AEV1, P23890, P27111, P33234, P39343, P39404, P75836, P75989, P77333, Q47129
+GO:0140110	MF	e	transcription regulator activity	12/208	53/3912	1.43e-05	1	12	0	P0ACS5, P0ACS7, P0AEV1, P23890, P27111, P33234, P39343, P39404, P75836, P75989, P77333, Q47129
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD1, Q6BF87
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD1, Q6BF87
+
+Cluster 39 - 
+
+Cluster 40 - 
+GO:0032026	BP	e	response to magnesium ion     	1/1	1/3912	0.000256	5	1	0	         P64512
+GO:0071286	BP	e	cellular response to magnesium ion	1/1	1/3912	0.000256	6	1	0	         P64512
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+GO:0015643	MF	e	toxic substance binding       	1/1	1/3912	0.000256	2	1	0	         P69346
+
+Cluster 90 - 
+

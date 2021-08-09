@@ -1,0 +1,263 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0032196	BP	e	transposition                 	1/1	1/6440	0.000155	2	1	0.004	        YCL019W
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+GO:0003729	MF	p	mRNA binding                  	0/443	151/6440	2.88e-05	5	0	0.006	               
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/675	124/6440	3.58e-06	6	0	0	               
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+GO:0008150	BP	e	biological_process            	122/334	1685/6440	2.23e-05	0	122	0.002	YAL017W, YAL040C, YAL051W, YAR002W, YAR009C, YBL040C, YBL085W, YBL088C, YBL106C, YBR028C, YBR043C, YBR136W, YBR290W, YCL014W, YCR057C, YCR102C, YDL030W, YDL112W, YDL133W, YDL141W, YDL206W, YDL237W, YDL240W, YDR093W, YDR120C, YDR160W, YDR191W, YDR208W, YDR245W, YDR295C, YDR307W, YDR358W, YDR400W, YDR422C, YEL002C, YEL032W, YER023W, YER048C, YER129W, YER151C, YFL003C, YFL007W, YGL002W, YGL060W, YGL143C, YGL147C, YGR003W, YGR110W, YGR166W, YGR217W, YHR056C, YHR080C, YIL044C, YIL073C, YIL076W, YIL088C, YJL046W, YJL053W, YJL105W, YJL132W, YJL180C, YJL206C, YJL207C, YJR031C, YJR086W, YJR159W, YKL050C, YKL100C, YKL161C, YKL189W, YKL194C, YKR088C, YKR103W, YLL007C, YLL041C, YLR103C, YLR266C, YLR272C, YLR320W, YLR394W, YLR429W, YLR433C, YML071C, YML124C, YMR087W, YMR163C, YMR207C, YNL037C, YNL167C, YNL175C, YNL218W, YNL308C, YNR030W, YOL081W, YOL136C, YOR019W, YOR030W, YOR033C, YOR067C, YOR098C, YOR099W, YOR132W, YOR141C, YOR155C, YOR260W, YOR321W, YOR371C, YOR381W, YPL083C, YPL130W, YPL139C, YPL202C, YPL209C, YPL262W, YPR007C, YPR008W, YPR026W, YPR032W, YPR047W, YPR088C, YPR175W, YPR176C
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+
+Cluster 96 - 
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+
+Cluster 102 - 
+
+Cluster 103 - 
+
+Cluster 104 - 
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+
+Cluster 112 - 
+
+Cluster 113 - 
+
+Cluster 114 - 
+
+Cluster 115 - 
+
+Cluster 116 - 
+
+Cluster 117 - 
+
+Cluster 118 - 
+
+Cluster 119 - 
+
+Cluster 120 - 
+
+Cluster 121 - 
+
+Cluster 122 - 
+
+Cluster 123 - 
+GO:0071933	MF	e	Arp2/3 complex binding        	1/1	1/6440	0.000155	3	1	0.004	        YDR063W
+
+Cluster 124 - 
+
+Cluster 125 - 
+
+Cluster 126 - 
+
+Cluster 127 - 
+
+Cluster 128 - 
+
+Cluster 129 - 
+

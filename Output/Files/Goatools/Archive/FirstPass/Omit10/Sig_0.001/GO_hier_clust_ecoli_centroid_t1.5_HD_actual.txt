@@ -1,0 +1,1065 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+GO:0072524	BP	e	pyridine-containing compound metabolic process	4/123	6/3912	1.33e-05	4	4	0	P0A7B3, P18133, P19624, P30011
+
+Cluster 8 - 
+
+Cluster 9 - 
+GO:0016799	MF	e	hydrolase activity, hydrolyzing N-glycosyl compounds	5/239	6/3912	4.66e-06	4	5	0	P04395, P05523, P0AE12, P0AF12, P41409
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+GO:2000105	BP	e	positive regulation of DNA-dependent DNA replication	1/1	1/3912	0.000256	9	1	0	         P28905
+GO:0051054	BP	e	positive regulation of DNA metabolic process	1/1	1/3912	0.000256	7	1	0	         P28905
+GO:0032298	BP	e	positive regulation of DNA-dependent DNA replication initiation	1/1	1/3912	0.000256	10	1	0	         P28905
+GO:0045740	BP	e	positive regulation of DNA replication	1/1	1/3912	0.000256	8	1	0	         P28905
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+GO:0046656	BP	e	folic acid biosynthetic process	1/1	1/3912	0.000256	8	1	0	         P26281
+GO:0046655	BP	e	folic acid metabolic process  	1/1	1/3912	0.000256	7	1	0	         P26281
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+GO:0005576	CC	e	extracellular region          	1/1	1/3912	0.000256	2	1	0	         P33219
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+
+Cluster 96 - 
+GO:0006313	BP	e	transposition, DNA-mediated   	6/21	11/3912	1.98e-07	8	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0006310	BP	e	DNA recombination             	6/21	28/3912	2.43e-07	7	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0032196	BP	e	transposition                 	6/21	14/3912	5.94e-07	2	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0006259	BP	e	DNA metabolic process         	6/21	65/3912	7.43e-07	6	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0090304	BP	e	nucleic acid metabolic process	8/21	167/3912	1.18e-06	5	8	0	P0ACH1, P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12, Q47150
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+GO:0015643	MF	e	toxic substance binding       	1/1	1/3912	0.000256	2	1	0	         P69346
+
+Cluster 102 - 
+
+Cluster 103 - 
+
+Cluster 104 - 
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+
+Cluster 112 - 
+GO:0010911	BP	e	regulation of isomerase activity	1/1	1/3912	0.000256	4	1	0	         Q2EEU2
+
+Cluster 113 - 
+
+Cluster 114 - 
+
+Cluster 115 - 
+
+Cluster 116 - 
+
+Cluster 117 - 
+
+Cluster 118 - 
+
+Cluster 119 - 
+
+Cluster 120 - 
+
+Cluster 121 - 
+
+Cluster 122 - 
+
+Cluster 123 - 
+GO:0031106	BP	e	septin ring organization      	1/1	1/3912	0.000256	7	1	0	         P0ADS2
+GO:0032185	BP	e	septin cytoskeleton organization	1/1	1/3912	0.000256	6	1	0	         P0ADS2
+GO:0000921	BP	e	septin ring assembly          	1/1	1/3912	0.000256	8	1	0	         P0ADS2
+GO:0007010	BP	e	cytoskeleton organization     	1/1	1/3912	0.000256	5	1	0	         P0ADS2
+
+Cluster 124 - 
+
+Cluster 125 - 
+
+Cluster 126 - 
+
+Cluster 127 - 
+
+Cluster 128 - 
+
+Cluster 129 - 
+
+Cluster 130 - 
+
+Cluster 131 - 
+
+Cluster 132 - 
+
+Cluster 133 - 
+
+Cluster 134 - 
+
+Cluster 135 - 
+
+Cluster 136 - 
+
+Cluster 137 - 
+GO:0043530	MF	e	adenosine 5'-monophosphoramidase activity	1/1	1/3912	0.000256	5	1	0	         P0ACE7
+
+Cluster 138 - 
+
+Cluster 139 - 
+
+Cluster 140 - 
+
+Cluster 141 - 
+
+Cluster 142 - 
+
+Cluster 143 - 
+
+Cluster 144 - 
+
+Cluster 145 - 
+
+Cluster 146 - 
+
+Cluster 147 - 
+
+Cluster 148 - 
+
+Cluster 149 - 
+
+Cluster 150 - 
+
+Cluster 151 - 
+
+Cluster 152 - 
+
+Cluster 153 - 
+
+Cluster 154 - 
+
+Cluster 155 - 
+
+Cluster 156 - 
+
+Cluster 157 - 
+
+Cluster 158 - 
+
+Cluster 159 - 
+
+Cluster 160 - 
+
+Cluster 161 - 
+
+Cluster 162 - 
+
+Cluster 163 - 
+
+Cluster 164 - 
+
+Cluster 165 - 
+
+Cluster 166 - 
+
+Cluster 167 - 
+
+Cluster 168 - 
+
+Cluster 169 - 
+
+Cluster 170 - 
+
+Cluster 171 - 
+
+Cluster 172 - 
+GO:0008877	MF	e	glucose-1-phosphatase activity	1/1	1/3912	0.000256	8	1	0	         P0A8Y3
+
+Cluster 173 - 
+
+Cluster 174 - 
+
+Cluster 175 - 
+
+Cluster 176 - 
+
+Cluster 177 - 
+
+Cluster 178 - 
+
+Cluster 179 - 
+
+Cluster 180 - 
+
+Cluster 181 - 
+
+Cluster 182 - 
+
+Cluster 183 - 
+GO:0006413	BP	e	translational initiation      	1/1	1/3912	0.000256	3	1	0	         P08245
+GO:0002183	BP	e	cytoplasmic translational initiation	1/1	1/3912	0.000256	4	1	0	         P08245
+GO:0002188	BP	e	translation reinitiation      	1/1	1/3912	0.000256	5	1	0	         P08245
+
+Cluster 184 - 
+
+Cluster 185 - 
+
+Cluster 186 - 
+
+Cluster 187 - 
+
+Cluster 188 - 
+
+Cluster 189 - 
+
+Cluster 190 - 
+
+Cluster 191 - 
+
+Cluster 192 - 
+
+Cluster 193 - 
+
+Cluster 194 - 
+GO:0009221	BP	e	pyrimidine deoxyribonucleotide biosynthetic process	1/1	1/3912	0.000256	11	1	0	         P06968
+GO:0009162	BP	e	deoxyribonucleoside monophosphate metabolic process	1/1	1/3912	0.000256	8	1	0	         P06968
+GO:0009177	BP	e	pyrimidine deoxyribonucleoside monophosphate biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P06968
+GO:0009157	BP	e	deoxyribonucleoside monophosphate biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P06968
+GO:0009129	BP	e	pyrimidine nucleoside monophosphate metabolic process	1/1	1/3912	0.000256	8	1	0	         P06968
+GO:0009265	BP	e	2'-deoxyribonucleotide biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P06968
+GO:0006226	BP	e	dUMP biosynthetic process     	1/1	1/3912	0.000256	12	1	0	         P06968
+GO:0046385	BP	e	deoxyribose phosphate biosynthetic process	1/1	1/3912	0.000256	6	1	0	         P06968
+GO:0009176	BP	e	pyrimidine deoxyribonucleoside monophosphate metabolic process	1/1	1/3912	0.000256	9	1	0	         P06968
+GO:0046078	BP	e	dUMP metabolic process        	1/1	1/3912	0.000256	11	1	0	         P06968
+GO:0009130	BP	e	pyrimidine nucleoside monophosphate biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P06968
+
+Cluster 195 - 
+GO:0008813	MF	e	chorismate lyase activity     	1/1	1/3912	0.000256	5	1	0	         P26602
+
+Cluster 196 - 
+
+Cluster 197 - 
+
+Cluster 198 - 
+
+Cluster 199 - 
+
+Cluster 200 - 
+
+Cluster 201 - 
+
+Cluster 202 - 
+
+Cluster 203 - 
+
+Cluster 204 - 
+
+Cluster 205 - 
+
+Cluster 206 - 
+
+Cluster 207 - 
+
+Cluster 208 - 
+
+Cluster 209 - 
+
+Cluster 210 - 
+
+Cluster 211 - 
+GO:0000967	BP	e	rRNA 5'-end processing        	1/1	1/3912	0.000256	10	1	0	         P0A8I1
+GO:0000966	BP	e	RNA 5'-end processing         	1/1	1/3912	0.000256	8	1	0	         P0A8I1
+GO:0034471	BP	e	ncRNA 5'-end processing       	1/1	1/3912	0.000256	9	1	0	         P0A8I1
+
+Cluster 212 - 
+
+Cluster 213 - 
+
+Cluster 214 - 
+
+Cluster 215 - 
+
+Cluster 216 - 
+
+Cluster 217 - 
+GO:0043952	BP	e	protein transport by the Sec complex	1/1	1/3912	0.000256	10	1	0	         P0AG99
+
+Cluster 218 - 
+
+Cluster 219 - 
+
+Cluster 220 - 
+
+Cluster 221 - 
+
+Cluster 222 - 
+
+Cluster 223 - 
+
+Cluster 224 - 
+
+Cluster 225 - 
+
+Cluster 226 - 
+
+Cluster 227 - 
+
+Cluster 228 - 
+
+Cluster 229 - 
+GO:0052738	MF	e	oxidoreductase activity, acting on the aldehyde or oxo group of donors, with a quinone or similar compound as acceptor	1/1	1/3912	0.000256	4	1	0	         P0AEK7
+GO:0036397	MF	e	formate dehydrogenase (quinone) activity	1/1	1/3912	0.000256	5	1	0	         P0AEK7
+
+Cluster 230 - 
+
+Cluster 231 - 
+GO:0051050	BP	e	positive regulation of transport	1/1	1/3912	0.000256	5	1	0	         P0A754
+GO:0034764	BP	e	positive regulation of transmembrane transport	1/1	1/3912	0.000256	6	1	0	         P0A754
+GO:0034767	BP	e	positive regulation of ion transmembrane transport	1/1	1/3912	0.000256	7	1	0	         P0A754
+GO:0032411	BP	e	positive regulation of transporter activity	1/1	1/3912	0.000256	6	1	0	         P0A754
+GO:0043270	BP	e	positive regulation of ion transport	1/1	1/3912	0.000256	6	1	0	         P0A754
+GO:0032414	BP	e	positive regulation of ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         P0A754
+
+Cluster 232 - 
+
+Cluster 233 - 
+
+Cluster 234 - 
+
+Cluster 235 - 
+
+Cluster 236 - 
+
+Cluster 237 - 
+
+Cluster 238 - 
+
+Cluster 239 - 
+
+Cluster 240 - 
+
+Cluster 241 - 
+
+Cluster 242 - 
+
+Cluster 243 - 
+
+Cluster 244 - 
+
+Cluster 245 - 
+
+Cluster 246 - 
+
+Cluster 247 - 
+
+Cluster 248 - 
+
+Cluster 249 - 
+
+Cluster 250 - 
+
+Cluster 251 - 
+
+Cluster 252 - 
+
+Cluster 253 - 
+
+Cluster 254 - 
+GO:0031246	CC	e	intrinsic component of periplasmic side of cell outer membrane	1/1	1/3912	0.000256	4	1	0	         P0AB31
+
+Cluster 255 - 
+
+Cluster 256 - 
+
+Cluster 257 - 
+
+Cluster 258 - 
+
+Cluster 259 - 
+GO:0015606	MF	e	spermidine transmembrane transporter activity	1/1	1/3912	0.000256	6	1	0	         P69212
+
+Cluster 260 - 
+
+Cluster 261 - 
+
+Cluster 262 - 
+
+Cluster 263 - 
+
+Cluster 264 - 
+
+Cluster 265 - 
+
+Cluster 266 - 
+
+Cluster 267 - 
+GO:0043455	BP	e	regulation of secondary metabolic process	1/1	1/3912	0.000256	4	1	0	         P41039
+GO:1900378	BP	e	positive regulation of secondary metabolite biosynthetic process	1/1	1/3912	0.000256	6	1	0	         P41039
+GO:1900376	BP	e	regulation of secondary metabolite biosynthetic process	1/1	1/3912	0.000256	5	1	0	         P41039
+
+Cluster 268 - 
+
+Cluster 269 - 
+
+Cluster 270 - 
+
+Cluster 271 - 
+
+Cluster 272 - 
+
+Cluster 273 - 
+
+Cluster 274 - 
+
+Cluster 275 - 
+
+Cluster 276 - 
+
+Cluster 277 - 
+
+Cluster 278 - 
+
+Cluster 279 - 
+
+Cluster 280 - 
+GO:0000918	BP	e	division septum site selection	1/1	1/3912	0.000256	4	1	0	         P0A734
+
+Cluster 281 - 
+
+Cluster 282 - 
+
+Cluster 283 - 
+
+Cluster 284 - 
+
+Cluster 285 - 
+
+Cluster 286 - 
+
+Cluster 287 - 
+
+Cluster 288 - 
+
+Cluster 289 - 
+
+Cluster 290 - 
+
+Cluster 291 - 
+
+Cluster 292 - 
+
+Cluster 293 - 
+
+Cluster 294 - 
+
+Cluster 295 - 
+
+Cluster 296 - 
+
+Cluster 297 - 
+
+Cluster 298 - 
+
+Cluster 299 - 
+
+Cluster 300 - 
+
+Cluster 301 - 
+
+Cluster 302 - 
+
+Cluster 303 - 
+
+Cluster 304 - 
+
+Cluster 305 - 
+
+Cluster 306 - 
+
+Cluster 307 - 
+
+Cluster 308 - 
+
+Cluster 309 - 
+
+Cluster 310 - 
+
+Cluster 311 - 
+
+Cluster 312 - 
+
+Cluster 313 - 
+
+Cluster 314 - 
+
+Cluster 315 - 
+
+Cluster 316 - 
+
+Cluster 317 - 
+
+Cluster 318 - 
+
+Cluster 319 - 
+
+Cluster 320 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 321 - 
+
+Cluster 322 - 
+
+Cluster 323 - 
+
+Cluster 324 - 
+
+Cluster 325 - 
+
+Cluster 326 - 
+
+Cluster 327 - 
+
+Cluster 328 - 
+
+Cluster 329 - 
+
+Cluster 330 - 
+
+Cluster 331 - 
+
+Cluster 332 - 
+
+Cluster 333 - 
+
+Cluster 334 - 
+
+Cluster 335 - 
+
+Cluster 336 - 
+
+Cluster 337 - 
+
+Cluster 338 - 
+
+Cluster 339 - 
+
+Cluster 340 - 
+
+Cluster 341 - 
+
+Cluster 342 - 
+GO:0031342	BP	e	negative regulation of cell killing	1/1	1/3912	0.000256	5	1	0	         P76364
+GO:0031341	BP	e	regulation of cell killing    	1/1	1/3912	0.000256	4	1	0	         P76364
+
+Cluster 343 - 
+
+Cluster 344 - 
+
+Cluster 345 - 
+GO:0005375	MF	e	copper ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         Q59385
+GO:0140358	MF	e	P-type transmembrane transporter activity	1/1	1/3912	0.000256	9	1	0	         Q59385
+GO:0043682	MF	e	P-type divalent copper transporter activity	1/1	1/3912	0.000256	10	1	0	         Q59385
+
+Cluster 346 - 
+
+Cluster 347 - 
+
+Cluster 348 - 
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+
+Cluster 349 - 
+
+Cluster 350 - 
+
+Cluster 351 - 
+
+Cluster 352 - 
+GO:0060187	CC	e	cell pole                     	1/1	1/3912	0.000256	2	1	0	         P64581
+
+Cluster 353 - 
+
+Cluster 354 - 
+
+Cluster 355 - 
+
+Cluster 356 - 
+
+Cluster 357 - 
+
+Cluster 358 - 
+
+Cluster 359 - 
+
+Cluster 360 - 
+
+Cluster 361 - 
+
+Cluster 362 - 
+
+Cluster 363 - 
+
+Cluster 364 - 
+
+Cluster 365 - 
+
+Cluster 366 - 
+
+Cluster 367 - 
+
+Cluster 368 - 
+
+Cluster 369 - 
+
+Cluster 370 - 
+
+Cluster 371 - 
+
+Cluster 372 - 
+
+Cluster 373 - 
+
+Cluster 374 - 
+
+Cluster 375 - 
+
+Cluster 376 - 
+
+Cluster 377 - 
+
+Cluster 378 - 
+
+Cluster 379 - 
+
+Cluster 380 - 
+GO:1902208	BP	e	regulation of bacterial-type flagellum assembly	1/1	1/3912	0.000256	7	1	0	         P76127
+GO:1902117	BP	e	positive regulation of organelle assembly	1/1	1/3912	0.000256	7	1	0	         P76127
+GO:0060491	BP	e	regulation of cell projection assembly	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:0031344	BP	e	regulation of cell projection organization	1/1	1/3912	0.000256	5	1	0	         P76127
+GO:0031346	BP	e	positive regulation of cell projection organization	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:1902115	BP	e	regulation of organelle assembly	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:1902210	BP	e	positive regulation of bacterial-type flagellum assembly	1/1	1/3912	0.000256	8	1	0	         P76127
+GO:0044089	BP	e	positive regulation of cellular component biogenesis	1/1	1/3912	0.000256	5	1	0	         P76127
+
+Cluster 381 - 
+
+Cluster 382 - 
+
+Cluster 383 - 
+GO:0071287	BP	e	cellular response to manganese ion	1/1	1/3912	0.000256	6	1	0	         P0DKB3
+GO:0010042	BP	e	response to manganese ion     	1/1	1/3912	0.000256	5	1	0	         P0DKB3
+
+Cluster 384 - 
+
+Cluster 385 - 
+
+Cluster 386 - 
+
+Cluster 387 - 
+
+Cluster 388 - 
+
+Cluster 389 - 
+
+Cluster 390 - 
+
+Cluster 391 - 
+
+Cluster 392 - 
+
+Cluster 393 - 
+
+Cluster 394 - 
+
+Cluster 395 - 
+
+Cluster 396 - 
+
+Cluster 397 - 
+
+Cluster 398 - 
+
+Cluster 399 - 
+
+Cluster 400 - 
+
+Cluster 401 - 
+
+Cluster 402 - 
+
+Cluster 403 - 
+
+Cluster 404 - 
+
+Cluster 405 - 
+
+Cluster 406 - 
+
+Cluster 407 - 
+
+Cluster 408 - 
+
+Cluster 409 - 
+
+Cluster 410 - 
+
+Cluster 411 - 
+
+Cluster 412 - 
+GO:0046316	MF	e	gluconokinase activity        	1/1	1/3912	0.000256	5	1	0	         P39208
+
+Cluster 413 - 
+
+Cluster 414 - 
+
+Cluster 415 - 
+
+Cluster 416 - 
+
+Cluster 417 - 
+
+Cluster 418 - 
+
+Cluster 419 - 
+
+Cluster 420 - 
+
+Cluster 421 - 
+
+Cluster 422 - 
+
+Cluster 423 - 
+
+Cluster 424 - 
+
+Cluster 425 - 
+
+Cluster 426 - 
+
+Cluster 427 - 
+
+Cluster 428 - 
+
+Cluster 429 - 
+
+Cluster 430 - 
+
+Cluster 431 - 
+
+Cluster 432 - 
+
+Cluster 433 - 
+
+Cluster 434 - 
+
+Cluster 435 - 
+
+Cluster 436 - 
+
+Cluster 437 - 
+
+Cluster 438 - 
+
+Cluster 439 - 
+
+Cluster 440 - 
+
+Cluster 441 - 
+
+Cluster 442 - 
+
+Cluster 443 - 
+
+Cluster 444 - 
+
+Cluster 445 - 
+
+Cluster 446 - 
+GO:0019835	BP	e	cytolysis                     	1/1	1/3912	0.000256	2	1	0	         P77237
+
+Cluster 447 - 
+
+Cluster 448 - 
+GO:0032074	BP	e	negative regulation of nuclease activity	1/1	1/3912	0.000256	7	1	0	         P52130
+GO:0043086	BP	e	negative regulation of catalytic activity	1/1	1/3912	0.000256	4	1	0	         P52130
+GO:0051346	BP	e	negative regulation of hydrolase activity	1/1	1/3912	0.000256	5	1	0	         P52130
+GO:0060700	BP	e	regulation of ribonuclease activity	1/1	1/3912	0.000256	7	1	0	         P52130
+GO:0060699	BP	e	regulation of endoribonuclease activity	1/1	1/3912	0.000256	8	1	0	         P52130
+GO:0032069	BP	e	regulation of nuclease activity	1/1	1/3912	0.000256	5	1	0	         P52130
+GO:0060702	BP	e	negative regulation of endoribonuclease activity	1/1	1/3912	0.000256	9	1	0	         P52130
+GO:0060701	BP	e	negative regulation of ribonuclease activity	1/1	1/3912	0.000256	8	1	0	         P52130
+
+Cluster 449 - 
+
+Cluster 450 - 
+GO:0010676	BP	e	positive regulation of cellular carbohydrate metabolic process	1/1	1/3912	0.000256	7	1	0	         P26649
+GO:0045913	BP	e	positive regulation of carbohydrate metabolic process	1/1	1/3912	0.000256	6	1	0	         P26649
+
+Cluster 451 - 
+
+Cluster 452 - 
+
+Cluster 453 - 
+
+Cluster 454 - 
+
+Cluster 455 - 
+
+Cluster 456 - 
+
+Cluster 457 - 
+
+Cluster 458 - 
+
+Cluster 459 - 
+GO:0070987	BP	e	error-free translesion synthesis	1/1	1/3912	0.000256	10	1	0	         P62672
+
+Cluster 460 - 
+
+Cluster 461 - 
+
+Cluster 462 - 
+
+Cluster 463 - 
+
+Cluster 464 - 
+
+Cluster 465 - 
+
+Cluster 466 - 
+GO:0090540	BP	e	bacterial cellulose biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P0ADJ3
+
+Cluster 467 - 
+
+Cluster 468 - 
+
+Cluster 469 - 
+
+Cluster 470 - 
+
+Cluster 471 - 
+
+Cluster 472 - 
+GO:0071276	BP	e	cellular response to cadmium ion	1/1	1/3912	0.000256	6	1	0	         P0AB49
+GO:0046686	BP	e	response to cadmium ion       	1/1	1/3912	0.000256	5	1	0	         P0AB49
+
+Cluster 473 - 
+
+Cluster 474 - 
+
+Cluster 475 - 
+
+Cluster 476 - 
+
+Cluster 477 - 
+
+Cluster 478 - 
+
+Cluster 479 - 
+
+Cluster 480 - 
+
+Cluster 481 - 
+
+Cluster 482 - 
+
+Cluster 483 - 
+
+Cluster 484 - 
+
+Cluster 485 - 
+
+Cluster 486 - 
+
+Cluster 487 - 
+

@@ -1,0 +1,35 @@
+Cluster 1 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+GO:0003677	MF	e	DNA binding                   	9/9	136/3912	1.22e-07	4	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0005488	MF	e	binding                       	9/9	452/3912	2.43e-07	1	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0097159	MF	e	organic cyclic compound binding	9/9	303/3912	4.92e-07	2	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:1901363	MF	e	heterocyclic compound binding 	9/9	303/3912	4.92e-07	2	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0003676	MF	e	nucleic acid binding          	9/9	175/3912	5.53e-07	3	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+

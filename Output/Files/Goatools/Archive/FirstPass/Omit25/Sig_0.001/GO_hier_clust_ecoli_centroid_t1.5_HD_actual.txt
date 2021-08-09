@@ -1,0 +1,141 @@
+Cluster 1 - 
+GO:1901265	MF	e	nucleoside phosphate binding  	61/1329	107/3912	2.26e-06	3	61	0	P03817, P07023, P0A756, P0A894, P0A8A4, P0A9A6, P0A9J4, P0A9T8, P0A9U1, P0AAF3, P0AAG8, P0AAH4, P0AAV4, P0ABY4, P0AD12, P0AF03, P0AFY6, P13458, P14175, P23878, P27254, P27306, P30015, P31456, P31473, P31548, P32721, P33348, P33360, P36879, P37013, P37024, P37624, P37657, P37774, P38038, P38135, P41407, P42597, P46889, P52097, P63386, P64572, P75796, P76014, P76027, P76046, P77257, P77268, P77279, P77324, P77509, P77570, P77622, P77649, P77737, P77795, Q46844, Q46889, Q47538, Q6BEX0
+GO:0000166	MF	e	nucleotide binding            	61/1329	107/3912	2.26e-06	4	61	0	P03817, P07023, P0A756, P0A894, P0A8A4, P0A9A6, P0A9J4, P0A9T8, P0A9U1, P0AAF3, P0AAG8, P0AAH4, P0AAV4, P0ABY4, P0AD12, P0AF03, P0AFY6, P13458, P14175, P23878, P27254, P27306, P30015, P31456, P31473, P31548, P32721, P33348, P33360, P36879, P37013, P37024, P37624, P37657, P37774, P38038, P38135, P41407, P42597, P46889, P52097, P63386, P64572, P75796, P76014, P76027, P76046, P77257, P77268, P77279, P77324, P77509, P77570, P77622, P77649, P77737, P77795, Q46844, Q46889, Q47538, Q6BEX0
+GO:0036094	MF	e	small molecule binding        	67/1329	123/3912	4.08e-06	2	67	0	P03817, P07023, P0A756, P0A894, P0A8A4, P0A9A6, P0A9J4, P0A9T8, P0A9U1, P0AAF3, P0AAG8, P0AAH4, P0AAV4, P0ABY4, P0AD12, P0AD70, P0AF03, P0AFY6, P13458, P14175, P23721, P23878, P24169, P27254, P27306, P30015, P31456, P31473, P31548, P31550, P32721, P33348, P33360, P36879, P37013, P37024, P37624, P37657, P37774, P38038, P38135, P41407, P42597, P46889, P52097, P63386, P64572, P67080, P75796, P76014, P76027, P76046, P76577, P77257, P77268, P77279, P77324, P77509, P77570, P77622, P77649, P77737, P77795, Q46844, Q46889, Q47538, Q6BEX0
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+GO:0000967	BP	e	rRNA 5'-end processing        	1/1	1/3912	0.000256	10	1	0	         P0A8I1
+GO:0034471	BP	e	ncRNA 5'-end processing       	1/1	1/3912	0.000256	9	1	0	         P0A8I1
+GO:0000966	BP	e	RNA 5'-end processing         	1/1	1/3912	0.000256	8	1	0	         P0A8I1
+
+Cluster 16 - 
+GO:0008690	MF	e	3-deoxy-manno-octulosonate cytidylyltransferase activity	1/1	1/3912	0.000256	6	1	0	         P04951
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+GO:0070987	BP	e	error-free translesion synthesis	1/1	1/3912	0.000256	10	1	0	         P62672
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+GO:0043952	BP	e	protein transport by the Sec complex	1/1	1/3912	0.000256	10	1	0	         P0AG99
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+

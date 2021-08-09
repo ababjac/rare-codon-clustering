@@ -1,0 +1,346 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+GO:0009424	CC	e	bacterial-type flagellum hook 	4/76	5/3912	6.49e-07	2	4	0	P0ABW9, P75936, P75937, P75938
+
+Cluster 5 - 
+GO:0000162	BP	e	tryptophan biosynthetic process	4/48	6/3912	2.94e-07	9	4	0	P00895, P00909, P0A879, P0AD92
+GO:0042435	BP	e	indole-containing compound biosynthetic process	4/48	6/3912	2.94e-07	5	4	0	P00895, P00909, P0A879, P0AD92
+GO:0046219	BP	e	indolalkylamine biosynthetic process	4/48	6/3912	2.94e-07	8	4	0	P00895, P00909, P0A879, P0AD92
+GO:0006568	BP	e	tryptophan metabolic process  	4/48	7/3912	6.8e-07	8	4	0	P00895, P00909, P0A879, P0AD92
+GO:0006586	BP	e	indolalkylamine metabolic process	4/48	7/3912	6.8e-07	7	4	0	P00895, P00909, P0A879, P0AD92
+GO:0042430	BP	e	indole-containing compound metabolic process	4/48	7/3912	6.8e-07	4	4	0	P00895, P00909, P0A879, P0AD92
+GO:0042401	BP	e	cellular biogenic amine biosynthetic process	4/48	7/3912	6.8e-07	7	4	0	P00895, P00909, P0A879, P0AD92
+GO:0009309	BP	e	amine biosynthetic process    	4/48	7/3912	6.8e-07	5	4	0	P00895, P00909, P0A879, P0AD92
+GO:1901607	BP	e	alpha-amino acid biosynthetic process	6/48	31/3912	1.45e-06	8	6	0	P00895, P00909, P0A879, P0A9F3, P0AD92, P78061
+GO:0009073	BP	e	aromatic amino acid family biosynthetic process	4/48	9/3912	2.4e-06	5	4	0	P00895, P00909, P0A879, P0AD92
+GO:0008652	BP	e	cellular amino acid biosynthetic process	6/48	35/3912	3.07e-06	7	6	0	P00895, P00909, P0A879, P0A9F3, P0AD92, P78061
+GO:0009072	BP	e	aromatic amino acid family metabolic process	4/48	10/3912	3.97e-06	4	4	0	P00895, P00909, P0A879, P0AD92
+GO:1901605	BP	e	alpha-amino acid metabolic process	6/48	47/3912	1.82e-05	7	6	0.002	P00895, P00909, P0A879, P0A9F3, P0AD92, P78061
+GO:0046394	BP	e	carboxylic acid biosynthetic process	6/48	49/3912	2.32e-05	6	6	0.004	P00895, P00909, P0A879, P0A9F3, P0AD92, P78061
+GO:0009308	BP	e	amine metabolic process       	4/48	15/3912	2.47e-05	4	4	0.004	P00895, P00909, P0A879, P0AD92
+GO:0044106	BP	e	cellular amine metabolic process	4/48	15/3912	2.47e-05	5	4	0.004	P00895, P00909, P0A879, P0AD92
+GO:0006576	BP	e	cellular biogenic amine metabolic process	4/48	15/3912	2.47e-05	6	4	0.004	P00895, P00909, P0A879, P0AD92
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+GO:0004300	MF	e	enoyl-CoA hydratase activity  	3/50	3/3912	1.97e-06	5	3	0.002	P76082, P77455, P77467
+
+Cluster 10 - 
+GO:0006551	BP	e	leucine metabolic process     	3/41	3/3912	1.07e-06	7	3	0	P0A6A6, P0AD79, P30126
+GO:0009098	BP	e	leucine biosynthetic process  	3/41	3/3912	1.07e-06	8	3	0	P0A6A6, P0AD79, P30126
+GO:1901566	BP	e	organonitrogen compound biosynthetic process	8/41	120/3912	2.54e-05	4	8	0	P00894, P0A6A6, P0A6I9, P0AD79, P17443, P17952, P22188, P30126
+GO:0030203	BP	e	glycosaminoglycan metabolic process	4/41	18/3912	2.86e-05	5	4	0	P13016, P17443, P17952, P22188
+GO:0006022	BP	e	aminoglycan metabolic process 	4/41	18/3912	2.86e-05	4	4	0	P13016, P17443, P17952, P22188
+GO:0000270	BP	e	peptidoglycan metabolic process	4/41	18/3912	2.86e-05	6	4	0	P13016, P17443, P17952, P22188
+GO:0032153	CC	e	cell division site            	2/41	2/3912	0.000107	2	2	0.008	 P0AEN4, P36680
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+GO:0009439	BP	e	cyanate metabolic process     	3/53	3/3912	2.35e-06	4	3	0	P00816, P0ABE9, P17583
+GO:0009440	BP	e	cyanate catabolic process     	3/53	3/3912	2.35e-06	5	3	0	P00816, P0ABE9, P17583
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+GO:0044550	BP	e	secondary metabolite biosynthetic process	4/61	5/3912	2.65e-07	3	4	0	P0AEJ2, P10378, P11454, P15047
+GO:0019748	BP	e	secondary metabolic process   	4/61	6/3912	7.85e-07	2	4	0	P0AEJ2, P10378, P11454, P15047
+GO:0046189	BP	e	phenol-containing compound biosynthetic process	3/61	3/3912	3.61e-06	5	3	0	P0AEJ2, P10378, P15047
+GO:0017144	BP	e	drug metabolic process        	3/61	3/3912	3.61e-06	3	3	0	P0AEJ2, P10378, P15047
+GO:1901336	BP	e	lactone biosynthetic process  	3/61	3/3912	3.61e-06	5	3	0	P0AEJ2, P10378, P15047
+GO:0009239	BP	e	enterobactin biosynthetic process	3/61	3/3912	3.61e-06	10	3	0	P0AEJ2, P10378, P15047
+GO:0019290	BP	e	siderophore biosynthetic process	3/61	3/3912	3.61e-06	8	3	0	P0AEJ2, P10378, P15047
+GO:0030639	BP	e	polyketide biosynthetic process	3/61	3/3912	3.61e-06	4	3	0	P0AEJ2, P10378, P15047
+GO:0009713	BP	e	catechol-containing compound biosynthetic process	3/61	3/3912	3.61e-06	6	3	0	P0AEJ2, P10378, P15047
+GO:1901334	BP	e	lactone metabolic process     	3/61	3/3912	3.61e-06	4	3	0	P0AEJ2, P10378, P15047
+GO:0019540	BP	e	siderophore biosynthetic process from catechol	3/61	3/3912	3.61e-06	9	3	0	P0AEJ2, P10378, P15047
+GO:0009237	BP	e	siderophore metabolic process 	3/61	3/3912	3.61e-06	3	3	0	P0AEJ2, P10378, P15047
+GO:0033067	BP	e	macrolide metabolic process   	3/61	3/3912	3.61e-06	5	3	0	P0AEJ2, P10378, P15047
+GO:0009238	BP	e	enterobactin metabolic process	3/61	3/3912	3.61e-06	6	3	0	P0AEJ2, P10378, P15047
+GO:0018958	BP	e	phenol-containing compound metabolic process	3/61	3/3912	3.61e-06	4	3	0	P0AEJ2, P10378, P15047
+GO:0019184	BP	e	nonribosomal peptide biosynthetic process	3/61	3/3912	3.61e-06	7	3	0	P0AEJ2, P10378, P15047
+GO:0017000	BP	e	antibiotic biosynthetic process	3/61	3/3912	3.61e-06	5	3	0	P0AEJ2, P10378, P15047
+GO:0033068	BP	e	macrolide biosynthetic process	3/61	3/3912	3.61e-06	6	3	0	P0AEJ2, P10378, P15047
+GO:0030638	BP	e	polyketide metabolic process  	3/61	3/3912	3.61e-06	3	3	0	P0AEJ2, P10378, P15047
+GO:0009712	BP	e	catechol-containing compound metabolic process	3/61	3/3912	3.61e-06	5	3	0	P0AEJ2, P10378, P15047
+GO:0016999	BP	e	antibiotic metabolic process  	3/61	3/3912	3.61e-06	4	3	0	P0AEJ2, P10378, P15047
+GO:1901617	BP	e	organic hydroxy compound biosynthetic process	3/61	5/3912	3.53e-05	4	3	0.008	P0AEJ2, P10378, P15047
+GO:0043043	BP	e	peptide biosynthetic process  	3/61	5/3912	3.53e-05	6	3	0.008	P0AEJ2, P10378, P15047
+
+Cluster 17 - 
+GO:0000256	BP	e	allantoin catabolic process   	3/47	3/3912	1.63e-06	6	3	0	P77161, P77425, P77555
+GO:0043605	BP	e	cellular amide catabolic process	3/47	3/3912	1.63e-06	5	3	0	P77161, P77425, P77555
+GO:0000255	BP	e	allantoin metabolic process   	3/47	3/3912	1.63e-06	5	3	0	P77161, P77425, P77555
+GO:0009442	BP	e	allantoin assimilation pathway	3/47	3/3912	1.63e-06	7	3	0	P77161, P77425, P77555
+
+Cluster 18 - 
+GO:0015002	MF	e	heme-copper terminal oxidase activity	3/71	3/3912	5.73e-06	3	3	0.002	P0ABI8, P0ABJ1, P0ABJ6
+
+Cluster 19 - 
+
+Cluster 20 - 
+GO:0015079	MF	e	potassium ion transmembrane transporter activity	3/85	3/3912	9.91e-06	7	3	0.002	P03960, P03961, P36937
+GO:0008556	MF	e	potassium transmembrane transporter activity, phosphorylative mechanism	3/85	3/3912	9.91e-06	8	3	0.002	P03960, P03961, P36937
+GO:0019829	MF	e	ATPase-coupled cation transmembrane transporter activity	3/85	4/3912	3.9e-05	6	3	0.006	P03960, P03961, P36937
+GO:0015662	MF	e	ion transmembrane transporter activity, phosphorylative mechanism	3/85	4/3912	3.9e-05	5	3	0.006	P03960, P03961, P36937
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+GO:0019720	BP	e	Mo-molybdopterin cofactor metabolic process	3/42	4/3912	4.57e-06	6	3	0	P0A738, P30745, P30748
+GO:0006777	BP	e	Mo-molybdopterin cofactor biosynthetic process	3/42	4/3912	4.57e-06	7	3	0	P0A738, P30745, P30748
+GO:0043545	BP	e	molybdopterin cofactor metabolic process	3/42	4/3912	4.57e-06	5	3	0	P0A738, P30745, P30748
+GO:0051189	BP	e	prosthetic group metabolic process	3/42	5/3912	1.13e-05	2	3	0	P0A738, P30745, P30748
+
+Cluster 24 - 
+GO:0005975	BP	e	carbohydrate metabolic process	13/77	75/3912	1.48e-07	3	13	0	P09099, P09424, P25741, P27126, P27127, P27128, P27240, P27241, P27242, P37678, P37679, P37689, P67910
+GO:0046401	BP	e	lipopolysaccharide core region metabolic process	5/77	9/3912	3.07e-07	5	5	0	P25741, P27126, P27241, P27242, P67910
+GO:0009244	BP	e	lipopolysaccharide core region biosynthetic process	5/77	9/3912	3.07e-07	6	5	0	P25741, P27126, P27241, P27242, P67910
+GO:0016051	BP	e	carbohydrate biosynthetic process	8/77	42/3912	1.07e-06	4	8	0.002	P25741, P27126, P27127, P27128, P27240, P27241, P27242, P67910
+GO:0009312	BP	e	oligosaccharide biosynthetic process	5/77	13/3912	2.95e-06	5	5	0.002	P25741, P27126, P27241, P27242, P67910
+GO:0009311	BP	e	oligosaccharide metabolic process	5/77	15/3912	6.67e-06	4	5	0.002	P25741, P27126, P27241, P27242, P67910
+
+Cluster 25 - 
+
+Cluster 26 - 
+GO:0006817	BP	e	phosphate ion transport       	4/61	4/3912	5.36e-08	7	4	0	P07654, P0A9K7, P0AG82, P0AGH8
+GO:0015698	BP	e	inorganic anion transport     	4/61	6/3912	7.85e-07	6	4	0	P07654, P0A9K7, P0AG82, P0AGH8
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+GO:0098776	BP	e	protein transport across the cell outer membrane	3/48	5/3912	1.7e-05	10	3	0.004	P41441, P45760, P45761
+GO:0015628	BP	e	protein secretion by the type II secretion system	3/48	5/3912	1.7e-05	11	3	0.004	P41441, P45760, P45761
+GO:0071692	BP	e	protein localization to extracellular region	3/48	6/3912	3.38e-05	4	3	0.004	P41441, P45760, P45761
+GO:0009306	BP	e	protein secretion             	3/48	6/3912	3.38e-05	9	3	0.004	P41441, P45760, P45761
+GO:0035592	BP	e	establishment of protein localization to extracellular region	3/48	6/3912	3.38e-05	5	3	0.004	P41441, P45760, P45761
+GO:0002790	BP	e	peptide secretion             	3/48	6/3912	3.38e-05	8	3	0.004	P41441, P45760, P45761
+GO:0046903	BP	e	secretion                     	3/48	6/3912	3.38e-05	4	3	0.004	P41441, P45760, P45761
+GO:0032940	BP	e	secretion by cell             	3/48	6/3912	3.38e-05	5	3	0.004	P41441, P45760, P45761
+GO:0071806	BP	e	protein transmembrane transport	3/48	7/3912	5.86e-05	9	3	0.008	P41441, P45760, P45761
+GO:0015627	CC	e	type II protein secretion system complex	3/48	3/3912	1.73e-06	2	3	0.002	P41442, P41443, P45758
+
+Cluster 30 - 
+GO:0015976	BP	e	carbon utilization            	3/60	4/3912	1.36e-05	1	3	0.002	P45750, P45751, P45753
+
+Cluster 31 - 
+
+Cluster 32 - 
+GO:0046378	BP	e	enterobacterial common antigen metabolic process	3/70	3/3912	5.49e-06	6	3	0.002	P27829, P27835, P56258
+GO:0009246	BP	e	enterobacterial common antigen biosynthetic process	3/70	3/3912	5.49e-06	7	3	0.002	P27829, P27835, P56258
+
+Cluster 33 - 
+GO:0046379	BP	e	extracellular polysaccharide metabolic process	3/58	4/3912	1.22e-05	6	3	0.002	P32687, P32688, P32689
+GO:0045226	BP	e	extracellular polysaccharide biosynthetic process	3/58	4/3912	1.22e-05	7	3	0.002	P32687, P32688, P32689
+
+Cluster 34 - 
+GO:0009228	BP	e	thiamine biosynthetic process 	4/43	6/3912	1.87e-07	7	4	0	P30136, P30137, P30139, P30140
+GO:0006772	BP	e	thiamine metabolic process    	4/43	6/3912	1.87e-07	6	4	0	P30136, P30137, P30139, P30140
+GO:0042723	BP	e	thiamine-containing compound metabolic process	4/43	6/3912	1.87e-07	5	4	0	P30136, P30137, P30139, P30140
+GO:0042724	BP	e	thiamine-containing compound biosynthetic process	4/43	6/3912	1.87e-07	6	4	0	P30136, P30137, P30139, P30140
+GO:0006526	BP	e	arginine biosynthetic process 	3/43	3/3912	1.24e-06	10	3	0	P0A6C8, P11446, P23908
+GO:0072528	BP	e	pyrimidine-containing compound biosynthetic process	4/43	12/3912	5.88e-06	5	4	0	P30136, P30137, P30139, P30140
+GO:0044272	BP	e	sulfur compound biosynthetic process	4/43	12/3912	5.88e-06	4	4	0	P30136, P30137, P30139, P30140
+GO:0006525	BP	e	arginine metabolic process    	3/43	5/3912	1.22e-05	9	3	0.002	P0A6C8, P11446, P23908
+GO:0072527	BP	e	pyrimidine-containing compound metabolic process	4/43	15/3912	1.58e-05	4	4	0.002	P30136, P30137, P30139, P30140
+GO:0042364	BP	e	water-soluble vitamin biosynthetic process	4/43	17/3912	2.72e-05	5	4	0.002	P30136, P30137, P30139, P30140
+GO:0009110	BP	e	vitamin biosynthetic process  	4/43	17/3912	2.72e-05	4	4	0.002	P30136, P30137, P30139, P30140
+GO:0044283	BP	e	small molecule biosynthetic process	7/43	86/3912	3.29e-05	3	7	0.002	P0A6C8, P11446, P23908, P30136, P30137, P30139, P30140
+GO:1901566	BP	e	organonitrogen compound biosynthetic process	8/43	120/3912	3.66e-05	4	8	0.002	P0A6C8, P0A6I3, P11446, P23908, P30136, P30137, P30139, P30140
+GO:0009084	BP	e	glutamine family amino acid biosynthetic process	3/43	7/3912	4.2e-05	9	3	0.002	P0A6C8, P11446, P23908
+GO:0006766	BP	e	vitamin metabolic process     	4/43	20/3912	5.4e-05	3	4	0.004	P30136, P30137, P30139, P30140
+GO:0006767	BP	e	water-soluble vitamin metabolic process	4/43	20/3912	5.4e-05	4	4	0.004	P30136, P30137, P30139, P30140
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+GO:0019700	BP	e	organic phosphonate catabolic process	6/83	6/3912	2.25e-08	6	6	0	P16678, P16686, P16687, P16688, P16689, P16692
+GO:0019634	BP	e	organic phosphonate metabolic process	6/83	6/3912	2.25e-08	5	6	0	P16678, P16686, P16687, P16688, P16689, P16692
+GO:0046434	BP	e	organophosphate catabolic process	6/83	10/3912	8.83e-07	5	6	0	P16678, P16686, P16687, P16688, P16689, P16692
+
+Cluster 38 - 
+GO:0098542	BP	e	defense response to other organism	5/69	6/3912	8.73e-09	5	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0051707	BP	e	response to other organism    	5/69	6/3912	8.73e-09	4	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0043207	BP	e	response to external biotic stimulus	5/69	6/3912	8.73e-09	3	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0009307	BP	e	DNA restriction-modification system	5/69	6/3912	8.73e-09	8	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0044355	BP	e	clearance of foreign intracellular DNA	5/69	6/3912	8.73e-09	7	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0099046	BP	e	clearance of foreign intracellular nucleic acids	5/69	6/3912	8.73e-09	6	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0006952	BP	e	defense response              	5/69	6/3912	8.73e-09	3	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0006304	BP	e	DNA modification              	5/69	7/3912	3.02e-08	7	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0009607	BP	e	response to biotic stimulus   	5/69	7/3912	3.02e-08	2	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0044419	BP	e	biological process involved in interspecies interaction between organisms	5/69	11/3912	6.28e-07	1	5	0	P05719, P08956, P08957, P15005, P15006
+GO:0009605	BP	e	response to external stimulus 	5/69	20/3912	1.86e-05	2	5	0.002	P05719, P08956, P08957, P15005, P15006
+
+Cluster 39 - 
+GO:0043709	BP	e	cell adhesion involved in single-species biofilm formation	4/49	10/3912	4.32e-06	5	4	0	P08189, P08190, P08191, P39264
+GO:0043708	BP	e	cell adhesion involved in biofilm formation	4/49	11/3912	6.73e-06	4	4	0	P08189, P08190, P08191, P39264
+GO:0031589	BP	e	cell-substrate adhesion       	4/49	11/3912	6.73e-06	3	4	0	P08189, P08190, P08191, P39264
+GO:0022610	BP	e	biological adhesion           	4/49	14/3912	1.98e-05	1	4	0	P08189, P08190, P08191, P39264
+GO:0007155	BP	e	cell adhesion                 	4/49	14/3912	1.98e-05	2	4	0	P08189, P08190, P08191, P39264
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+GO:0043169	MF	e	cation binding                	8/81	52/3912	8.57e-06	3	8	0	P0A6W9, P0A700, P0AAK4, P0ADE6, P16431, P24192, P30131, P76621
+GO:0046872	MF	e	metal ion binding             	8/81	52/3912	8.57e-06	4	8	0	P0A6W9, P0A700, P0AAK4, P0ADE6, P16431, P24192, P30131, P76621
+
+Cluster 45 - 
+GO:0032991	CC	e	protein-containing complex    	14/86	72/3912	3.07e-07	1	14	0	P02413, P0A7M6, P0A7S9, P0A7U3, P0A7V3, P0A7W1, P0A7W7, P0ADY7, P0ADZ0, P0AG44, P0AG51, P60422, P60624, P61175
+GO:0022625	CC	e	cytosolic large ribosomal subunit	9/86	15/3912	4.05e-07	5	9	0	P02413, P0A7M6, P0ADY7, P0ADZ0, P0AG44, P0AG51, P60422, P60624, P61175
+GO:0015935	CC	e	small ribosomal subunit       	5/86	9/3912	5.37e-07	4	5	0	P0A7S9, P0A7U3, P0A7V3, P0A7W1, P0A7W7
+GO:0015934	CC	e	large ribosomal subunit       	9/86	16/3912	6.36e-07	4	9	0	P02413, P0A7M6, P0ADY7, P0ADZ0, P0AG44, P0AG51, P60422, P60624, P61175
+GO:1990904	CC	e	ribonucleoprotein complex     	14/86	25/3912	6.77e-07	2	14	0	P02413, P0A7M6, P0A7S9, P0A7U3, P0A7V3, P0A7W1, P0A7W7, P0ADY7, P0ADZ0, P0AG44, P0AG51, P60422, P60624, P61175
+GO:0044391	CC	e	ribosomal subunit             	14/86	25/3912	6.77e-07	3	14	0	P02413, P0A7M6, P0A7S9, P0A7U3, P0A7V3, P0A7W1, P0A7W7, P0ADY7, P0ADZ0, P0AG44, P0AG51, P60422, P60624, P61175
+GO:0022627	CC	e	cytosolic small ribosomal subunit	4/86	7/3912	7.25e-06	5	4	0	P0A7U3, P0A7V3, P0A7W1, P0A7W7
+GO:0005198	MF	e	structural molecule activity  	9/86	18/3912	5.08e-08	1	9	0	P0A7R5, P0A7X3, P0AA10, P0ADY3, P0AG55, P0AG59, P0AG63, P60438, P60723
+GO:0003735	MF	e	structural constituent of ribosome	9/86	16/3912	6.36e-07	2	9	0	P0A7R5, P0A7X3, P0AA10, P0ADY3, P0AG55, P0AG59, P0AG63, P60438, P60723
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+GO:1901161	BP	e	primary amino compound catabolic process	4/44	4/3912	1.39e-08	5	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0046336	BP	e	ethanolamine catabolic process	4/44	4/3912	1.39e-08	9	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:1901160	BP	e	primary amino compound metabolic process	4/44	4/3912	1.39e-08	4	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0006580	BP	e	ethanolamine metabolic process	4/44	4/3912	1.39e-08	8	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0042439	BP	e	ethanolamine-containing compound metabolic process	4/44	4/3912	1.39e-08	7	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0034310	BP	e	primary alcohol catabolic process	4/44	5/3912	6.91e-08	6	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0034308	BP	e	primary alcohol metabolic process	4/44	6/3912	2.06e-07	5	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0042402	BP	e	cellular biogenic amine catabolic process	4/44	8/3912	9.44e-07	7	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0009310	BP	e	amine catabolic process       	4/44	8/3912	9.44e-07	5	4	0	P0AEJ6, P0AEJ8, P76555, P77277
+GO:1901616	BP	e	organic hydroxy compound catabolic process	4/44	10/3912	2.79e-06	4	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0046164	BP	e	alcohol catabolic process     	4/44	10/3912	2.79e-06	5	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0006066	BP	e	alcohol metabolic process     	4/44	11/3912	4.34e-06	4	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0009308	BP	e	amine metabolic process       	4/44	15/3912	1.74e-05	4	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0044106	BP	e	cellular amine metabolic process	4/44	15/3912	1.74e-05	5	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0006576	BP	e	cellular biogenic amine metabolic process	4/44	15/3912	1.74e-05	6	4	0.004	P0AEJ6, P0AEJ8, P76555, P77277
+GO:1901615	BP	e	organic hydroxy compound metabolic process	4/44	19/3912	4.77e-05	3	4	0.008	P0AEJ6, P0AEJ8, P76555, P77277
+GO:0031469	CC	e	polyhedral organelle          	3/44	3/3912	1.33e-06	5	3	0	P0ABF4, P63746, P76541
+GO:0031471	CC	e	ethanolamine degradation polyhedral organelle	3/44	3/3912	1.33e-06	6	3	0	P0ABF4, P63746, P76541
+GO:0005622	CC	e	intracellular anatomical structure	4/44	15/3912	1.74e-05	2	4	0.004	P0A867, P0ABF4, P63746, P76541
+
+Cluster 53 - 
+GO:0031163	BP	e	metallo-sulfur cluster assembly	3/61	4/3912	1.43e-05	5	3	0.002	P0A6L9, P0AAC8, P0C0L9
+GO:0016226	BP	e	iron-sulfur cluster assembly  	3/61	4/3912	1.43e-05	6	3	0.002	P0A6L9, P0AAC8, P0C0L9
+
+Cluster 54 - 
+
+Cluster 55 - 
+GO:1901663	BP	e	quinone biosynthetic process  	4/51	7/3912	8.72e-07	5	4	0	P17109, P17993, P29208, P37355
+GO:1901661	BP	e	quinone metabolic process     	4/51	7/3912	8.72e-07	4	4	0	P17109, P17993, P29208, P37355
+GO:0042181	BP	e	ketone biosynthetic process   	4/51	7/3912	8.72e-07	4	4	0	P17109, P17993, P29208, P37355
+GO:0009234	BP	e	menaquinone biosynthetic process	3/51	3/3912	2.09e-06	6	3	0	P17109, P29208, P37355
+GO:0009233	BP	e	menaquinone metabolic process 	3/51	3/3912	2.09e-06	5	3	0	P17109, P29208, P37355
+GO:0042180	BP	e	cellular ketone metabolic process	4/51	9/3912	3.08e-06	3	4	0	P17109, P17993, P29208, P37355
+GO:0098797	CC	e	plasma membrane protein complex	5/51	13/3912	3.67e-07	3	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0045271	CC	e	respiratory chain complex I   	5/51	6/3912	3.77e-07	5	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0045272	CC	e	plasma membrane respiratory chain complex I	5/51	6/3912	3.77e-07	6	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0030964	CC	e	NADH dehydrogenase complex    	5/51	6/3912	3.77e-07	4	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0098803	CC	e	respiratory chain complex     	5/51	7/3912	8.72e-07	3	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:1990204	CC	e	oxidoreductase complex        	5/51	7/3912	8.72e-07	3	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:1902494	CC	e	catalytic complex             	5/51	22/3912	6.87e-06	2	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0098796	CC	e	membrane protein complex      	5/51	22/3912	6.87e-06	2	5	0	P0AFD1, P0AFD6, P0AFE8, P31979, P33607
+GO:0008137	MF	e	NADH dehydrogenase (ubiquinone) activity	4/51	4/3912	2.56e-08	7	4	0	P0AFC3, P0AFE0, P0AFE4, P33599
+GO:0050136	MF	e	NADH dehydrogenase (quinone) activity	4/51	4/3912	2.56e-08	6	4	0	P0AFC3, P0AFE0, P0AFE4, P33599
+GO:0016651	MF	e	oxidoreductase activity, acting on NAD(P)H	5/51	12/3912	2.28e-07	3	5	0	P0AFC3, P0AFD4, P0AFE0, P0AFE4, P33599
+GO:0003955	MF	e	NAD(P)H dehydrogenase (quinone) activity	4/51	6/3912	3.77e-07	5	4	0	P0AFC3, P0AFE0, P0AFE4, P33599
+GO:0003954	MF	e	NADH dehydrogenase activity   	5/51	7/3912	8.72e-07	4	5	0	P0AFC3, P0AFD4, P0AFE0, P0AFE4, P33599
+GO:0016655	MF	e	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	4/51	7/3912	8.72e-07	4	4	0	P0AFC3, P0AFE0, P0AFE4, P33599
+GO:0009055	MF	e	electron transfer activity    	4/51	18/3912	6.86e-05	3	4	0.008	P0AFC3, P0AFE0, P0AFE4, P33599
+
+Cluster 56 - 
+GO:0017004	BP	e	cytochrome complex assembly   	4/62	6/3912	8.39e-07	7	4	0	P0AA86, P33927, P33931, P69490
+GO:0042884	BP	e	microcin transport            	3/62	3/3912	3.79e-06	8	3	0	P0AFU0, P33913, P33915
+
+Cluster 57 - 
+
+Cluster 58 - 
+GO:0040011	BP	e	locomotion                    	11/70	23/3912	8.46e-08	1	11	0	P06974, P07018, P0A964, P0ABX8, P0ABZ1, P0AF06, P15070, P22586, P24216, P26608, P52613
+GO:0042330	BP	e	taxis                         	7/70	11/3912	6.75e-07	2	7	0	P06974, P07018, P0A964, P0AF06, P15070, P22586, P52613
+GO:0006935	BP	e	chemotaxis                    	7/70	11/3912	6.75e-07	3	7	0	P06974, P07018, P0A964, P0AF06, P15070, P22586, P52613
+GO:0097588	BP	e	archaeal or bacterial-type flagellum-dependent cell motility	4/70	11/3912	2.82e-05	5	4	0.006	P0ABX8, P0ABZ1, P24216, P26608
+GO:0001539	BP	e	cilium or flagellum-dependent cell motility	4/70	11/3912	2.82e-05	4	4	0.006	P0ABX8, P0ABZ1, P24216, P26608
+GO:0071973	BP	e	bacterial-type flagellum-dependent cell motility	4/70	11/3912	2.82e-05	6	4	0.006	P0ABX8, P0ABZ1, P24216, P26608
+GO:0048870	BP	e	cell motility                 	4/70	12/3912	4.18e-05	3	4	0.008	P0ABX8, P0ABZ1, P24216, P26608
+GO:0009288	CC	e	bacterial-type flagellum      	3/70	4/3912	2.17e-05	4	3	0.006	P04949, P0A8T5, P76297
+
+Cluster 59 - 
+GO:0009236	BP	e	cobalamin biosynthetic process	3/43	3/3912	1.24e-06	6	3	0	P0AE76, P36561, P36562
+GO:0009235	BP	e	cobalamin metabolic process   	3/43	3/3912	1.24e-06	5	3	0	P0AE76, P36561, P36562
+
+Cluster 60 - 
+GO:1903509	BP	e	liposaccharide metabolic process	7/61	14/3912	3.05e-08	4	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:0008610	BP	e	lipid biosynthetic process    	7/61	24/3912	4.44e-08	4	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:0000271	BP	e	polysaccharide biosynthetic process	11/61	26/3912	8.23e-08	5	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0034637	BP	e	cellular carbohydrate biosynthetic process	11/61	26/3912	8.23e-08	5	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0033692	BP	e	cellular polysaccharide biosynthetic process	11/61	26/3912	8.23e-08	6	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0044264	BP	e	cellular polysaccharide metabolic process	11/61	26/3912	8.23e-08	5	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0005976	BP	e	polysaccharide metabolic process	11/61	27/3912	1.1e-07	4	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0005975	BP	e	carbohydrate metabolic process	11/61	75/3912	1.5e-07	3	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0016051	BP	e	carbohydrate biosynthetic process	11/61	42/3912	1.7e-07	4	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0009103	BP	e	lipopolysaccharide biosynthetic process	7/61	10/3912	1.85e-07	7	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:0008653	BP	e	lipopolysaccharide metabolic process	7/61	10/3912	1.85e-07	6	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:0034645	BP	e	cellular macromolecule biosynthetic process	11/61	102/3912	3.11e-07	5	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:1901135	BP	e	carbohydrate derivative metabolic process	10/61	82/3912	3.55e-07	3	10	0	P00350, P32057, P37748, P37759, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0009059	BP	e	macromolecule biosynthetic process	11/61	106/3912	4.63e-07	4	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0044255	BP	e	cellular lipid metabolic process	7/61	33/3912	4.91e-07	4	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:0044249	BP	e	cellular biosynthetic process 	16/61	246/3912	5.79e-07	3	16	0	P06986, P06989, P10371, P32057, P37744, P37745, P37748, P37759, P37760, P60995, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0006629	BP	e	lipid metabolic process       	7/61	34/3912	6.1e-07	3	7	0	P32057, P37748, P71237, P71238, P71242, P71244, P77377
+GO:1901137	BP	e	carbohydrate derivative biosynthetic process	9/61	51/3912	8.23e-07	4	9	0	P32057, P37748, P37759, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0044262	BP	e	cellular carbohydrate metabolic process	11/61	36/3912	9.25e-07	4	11	0	P32057, P37744, P37745, P37748, P37760, P71237, P71238, P71242, P71244, P76373, P77377
+GO:1901576	BP	e	organic substance biosynthetic process	16/61	256/3912	9.97e-07	3	16	0	P06986, P06989, P10371, P32057, P37744, P37745, P37748, P37759, P37760, P60995, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0009058	BP	e	biosynthetic process          	16/61	260/3912	1.23e-06	2	16	0	P06986, P06989, P10371, P32057, P37744, P37745, P37748, P37759, P37760, P60995, P71237, P71238, P71242, P71244, P76373, P77377
+GO:0000105	BP	e	histidine biosynthetic process	3/61	3/3912	3.61e-06	8	3	0	P06986, P06989, P60995
+GO:0006547	BP	e	histidine metabolic process   	3/61	3/3912	3.61e-06	7	3	0	P06986, P06989, P60995
+GO:0016757	MF	e	transferase activity, transferring glycosyl groups	8/61	27/3912	1.1e-07	3	8	0	P37749, P37751, P60595, P60664, P60757, P71239, P71243, P77414
+GO:0016740	MF	e	transferase activity          	17/61	228/3912	1.22e-06	2	17	0	P0AAB6, P0ACD2, P24174, P30847, P37749, P37750, P37751, P38097, P60595, P60664, P60757, P71239, P71241, P71243, P76372, P76393, P77414
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+

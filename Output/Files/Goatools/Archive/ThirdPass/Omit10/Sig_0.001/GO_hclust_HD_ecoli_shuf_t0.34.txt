@@ -1,0 +1,148 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:1902115	BP	e	regulation of organelle assembly	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:1902117	BP	e	positive regulation of organelle assembly	1/1	1/3912	0.000256	7	1	0	         P76127
+GO:0060491	BP	e	regulation of cell projection assembly	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:1902210	BP	e	positive regulation of bacterial-type flagellum assembly	1/1	1/3912	0.000256	8	1	0	         P76127
+GO:0031346	BP	e	positive regulation of cell projection organization	1/1	1/3912	0.000256	6	1	0	         P76127
+GO:1902208	BP	e	regulation of bacterial-type flagellum assembly	1/1	1/3912	0.000256	7	1	0	         P76127
+GO:0031344	BP	e	regulation of cell projection organization	1/1	1/3912	0.000256	5	1	0	         P76127
+GO:0044089	BP	e	positive regulation of cellular component biogenesis	1/1	1/3912	0.000256	5	1	0	         P76127
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+GO:0032026	BP	e	response to magnesium ion     	1/1	1/3912	0.000256	5	1	0	         P64512
+GO:0071286	BP	e	cellular response to magnesium ion	1/1	1/3912	0.000256	6	1	0	         P64512
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+

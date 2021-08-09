@@ -1,0 +1,64 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0006448	BP	e	regulation of translational elongation	2/23	2/3912	3.31e-05	8	2	0.004	 P0AD49, P0AFX0
+GO:0045900	BP	e	negative regulation of translational elongation	2/23	2/3912	3.31e-05	9	2	0.004	 P0AD49, P0AFX0
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+

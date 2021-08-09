@@ -1,0 +1,198 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+GO:0016887	MF	e	ATPase activity               	25/1352	37/6440	3.66e-07	7	25	0	YAL029C, YDL185W, YDR038C, YDR135C, YDR270W, YDR334W, YER047C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YOR304W, YPL008W, YPL082C, YPL119C
+GO:0017111	MF	e	nucleoside-triphosphatase activity	29/1352	51/6440	4.55e-07	6	29	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YER047C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C
+GO:0016817	MF	e	hydrolase activity, acting on acid anhydrides	31/1352	58/6440	8.32e-07	3	31	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C
+GO:0016462	MF	e	pyrophosphatase activity      	31/1352	58/6440	8.32e-07	5	31	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C
+GO:0016818	MF	e	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	31/1352	58/6440	8.32e-07	4	31	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/1352	124/6440	9.48e-07	6	0	0	               
+GO:0060090	MF	p	molecular adaptor activity    	6/1352	140/6440	1.55e-06	1	6	0	YDR138W, YGL098W, YHR107C, YKR021W, YLR148W, YNL172W
+GO:0003735	MF	p	structural constituent of ribosome	0/1352	54/6440	4.8e-06	2	0	0	               
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+

@@ -1,0 +1,176 @@
+Cluster 1 - 
+GO:0071897	BP	e	DNA biosynthetic process      	4/41	7/6440	4.88e-08	7	4	0	YGR161C-D, YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	8/41	60/6440	7.47e-08	6	8	0	YDR034C-D, YDR261C-D, YGR161C-D, YJR029W, YML039W, YMR045C, YOR192C-B, YPR158W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0005732	CC	p	sno(s)RNA-containing ribonucleoprotein complex	2/2868	44/6440	7.2e-07	3	2	0	YBR167C, YNL221C
+GO:0031428	CC	p	box C/D RNP complex           	0/2868	22/6440	2.78e-06	4	0	0	               
+GO:1990904	CC	p	ribonucleoprotein complex     	56/2868	206/6440	3.04e-06	2	56	0	YBL090W, YBL092W, YBR048W, YBR065C, YBR146W, YBR152W, YBR167C, YBR282W, YCR020C-A, YDR115W, YDR152W, YDR235W, YDR240C, YDR339C, YDR364C, YDR449C, YDR471W, YDR473C, YDR500C, YGL129C, YGL135W, YGR074W, YGR075C, YGR091W, YGR093W, YGR165W, YGR278W, YHL024W, YHR077C, YHR141C, YHR148W, YHR156C, YJL096W, YJL203W, YJR050W, YKL012W, YKL155C, YKR086W, YLR275W, YLR318W, YLR424W, YML046W, YNL162W, YNL177C, YNL210W, YNL221C, YNL244C, YNL284C, YNR051C, YOL114C, YOR004W, YOR272W, YPL151C, YPR082C, YPR100W, YPR144C
+GO:0005829	CC	p	cytosol                       	44/2868	262/6440	3.14e-06	2	44	0	YBR149W, YCR032W, YCR054C, YDL080C, YDR009W, YDR047W, YDR142C, YDR380W, YDR425W, YDR531W, YEL046C, YER098W, YER132C, YER174C, YFL053W, YFL060C, YGL091C, YGL148W, YGL154C, YGR087C, YGR120C, YHR086W, YHR202W, YJL057C, YJL070C, YJL098W, YKL173W, YKR080W, YLR027C, YLR410W, YMR208W, YMR259C, YMR261C, YNL207W, YNR007C, YNR043W, YOL011W, YOR018W, YOR120W, YOR209C, YOR241W, YOR388C, YPL037C, YPL161C
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/2868	124/6440	1.47e-06	6	0	0	               
+GO:0060090	MF	p	molecular adaptor activity    	12/2868	140/6440	2.63e-06	1	12	0	YBR200W, YDR138W, YFR043C, YGL098W, YHL030W, YJR067C, YKR021W, YLR148W, YML062C, YNL172W, YOR036W, YPR030W
+GO:0003729	MF	p	mRNA binding                  	12/2868	151/6440	2.7e-06	5	12	0	YBR212W, YBR233W, YDL224C, YDR228C, YFR001W, YGR156W, YJR091C, YLR116W, YMR061W, YNL197C, YOL149W, YOR319W
+GO:0003723	MF	p	RNA binding                   	31/2868	238/6440	2.83e-06	4	31	0	YBR119W, YBR212W, YBR233W, YBR257W, YDL224C, YDR117C, YDR228C, YDR237W, YDR261C-C, YFR001W, YGR156W, YIL091C, YJR091C, YJR093C, YKL130C, YKL170W, YKR084C, YLR116W, YLR298C, YLR430W, YML017W, YMR061W, YNL054W-A, YNL124W, YNL197C, YNL286W, YOL149W, YOR319W, YPL257W-A, YPR158C-C, YPR178W
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+GO:0034448	CC	e	EGO complex                   	1/1	1/6440	0.000155	3	1	0	      YCR075W-A
+
+Cluster 22 - 
+
+Cluster 23 - 
+GO:0000771	BP	e	agglutination involved in conjugation	1/1	1/6440	0.000155	5	1	0	        YGL032C
+GO:0000752	BP	e	agglutination involved in conjugation with cellular fusion	1/1	1/6440	0.000155	6	1	0	        YGL032C
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+GO:0032447	BP	e	protein urmylation            	1/1	1/6440	0.000155	9	1	0	        YIL008W
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+

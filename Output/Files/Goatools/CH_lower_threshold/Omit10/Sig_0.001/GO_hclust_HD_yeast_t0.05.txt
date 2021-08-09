@@ -1,0 +1,155 @@
+Cluster 1 - 
+GO:0015074	BP	e	DNA integration               	4/47	4/6440	2.49e-09	7	4	0	YDR034C-D, YDR261C-D, YML039W, YMR045C
+GO:0071897	BP	e	DNA biosynthetic process      	4/47	7/6440	8.58e-08	7	4	0	YGR161C-D, YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	8/47	60/6440	2e-07	6	8	0	YDR034C-D, YDR261C-D, YGR161C-D, YJR029W, YML039W, YMR045C, YOR192C-B, YPR158W-B
+GO:0046483	BP	e	heterocycle metabolic process 	13/47	315/6440	2.24e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0006725	BP	e	cellular aromatic compound metabolic process	13/47	315/6440	2.24e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0090305	BP	e	nucleic acid phosphodiester bond hydrolysis	5/47	21/6440	3.1e-07	6	5	0	YDR210C-D, YER138C, YLR227W-B, YPR137C-B, YPR158C-D
+GO:1901360	BP	e	organic cyclic compound metabolic process	13/47	327/6440	3.45e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0090304	BP	e	nucleic acid metabolic process	13/47	224/6440	4.07e-07	5	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0006139	BP	e	nucleobase-containing compound metabolic process	13/47	289/6440	6.77e-07	4	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0034641	BP	e	cellular nitrogen compound metabolic process	13/47	352/6440	8.05e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0043170	BP	e	macromolecule metabolic process	14/47	451/6440	2.23e-06	3	14	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR027W, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0005737	CC	e	cytoplasm                     	14/47	468/6440	3.46e-06	2	14	0	YBL005W-B, YBL100W-B, YBR012W-B, YDR261W-B, YDR365W-B, YFL002W-A, YGR038C-B, YML045W, YMR050C, YNL054W-B, YOL103W-B, YOR142W-B, YOR343W-B, YPL257W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+GO:0042597	CC	e	periplasmic space             	3/4	4/6440	3.6e-10	2	3	0	YLR155C, YLR157C, YLR158C
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:0003993	MF	e	acid phosphatase activity     	2/2	6/6440	7.23e-07	6	2	0	YAR071W, YHR215W
+GO:0016791	MF	e	phosphatase activity          	2/2	45/6440	4.77e-05	5	2	0	YAR071W, YHR215W
+
+Cluster 12 - 
+
+Cluster 13 - 
+GO:0019407	BP	e	hexitol catabolic process     	2/2	3/6440	1.45e-07	8	2	0	YDL246C, YJR159W
+GO:0006062	BP	e	sorbitol catabolic process    	2/2	3/6440	1.45e-07	9	2	0	YDL246C, YJR159W
+GO:0006060	BP	e	sorbitol metabolic process    	2/2	3/6440	1.45e-07	8	2	0	YDL246C, YJR159W
+GO:0006059	BP	e	hexitol metabolic process     	2/2	3/6440	1.45e-07	7	2	0	YDL246C, YJR159W
+GO:0019405	BP	e	alditol catabolic process     	2/2	4/6440	2.89e-07	7	2	0	YDL246C, YJR159W
+GO:0046174	BP	e	polyol catabolic process      	2/2	4/6440	2.89e-07	6	2	0	YDL246C, YJR159W
+GO:1901616	BP	e	organic hydroxy compound catabolic process	2/2	5/6440	4.82e-07	4	2	0	YDL246C, YJR159W
+GO:0046164	BP	e	alcohol catabolic process     	2/2	5/6440	4.82e-07	5	2	0	YDL246C, YJR159W
+GO:0019400	BP	e	alditol metabolic process     	2/2	5/6440	4.82e-07	6	2	0	YDL246C, YJR159W
+GO:0044275	BP	e	cellular carbohydrate catabolic process	2/2	7/6440	1.01e-06	5	2	0	YDL246C, YJR159W
+GO:0019751	BP	e	polyol metabolic process      	2/2	9/6440	1.74e-06	5	2	0	YDL246C, YJR159W
+GO:0016052	BP	e	carbohydrate catabolic process	2/2	16/6440	5.79e-06	4	2	0	YDL246C, YJR159W
+GO:0006066	BP	e	alcohol metabolic process     	2/2	17/6440	6.56e-06	4	2	0	YDL246C, YJR159W
+GO:0044262	BP	e	cellular carbohydrate metabolic process	2/2	19/6440	8.25e-06	4	2	0	YDL246C, YJR159W
+GO:0044282	BP	e	small molecule catabolic process	2/2	22/6440	1.11e-05	3	2	0	YDL246C, YJR159W
+GO:1901615	BP	e	organic hydroxy compound metabolic process	2/2	24/6440	1.33e-05	3	2	0	YDL246C, YJR159W
+GO:0005975	BP	e	carbohydrate metabolic process	2/2	39/6440	3.57e-05	3	2	0	YDL246C, YJR159W
+
+Cluster 14 - 
+
+Cluster 15 - 
+GO:0005737	CC	e	cytoplasm                     	6/6	468/6440	1.43e-07	2	6	0	YGR027W-A, YJR026W, YJR028W, YLR227W-A, YML040W, YOL103W-A
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+GO:0005737	CC	e	cytoplasm                     	15/20	468/6440	3.56e-07	2	15	0	YAR010C, YDR098C-A, YDR210C-C, YDR316W-A, YDR365W-A, YER137C-A, YGR038C-A, YGR161C-C, YHR214C-C, YLR157C-A, YLR256W-A, YML045W-A, YOR142W-A, YPR137C-A, YPR158W-A
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+GO:0004558	MF	e	alpha-1,4-glucosidase activity	2/2	2/6440	4.82e-08	7	2	0	YIL172C, YJL221C
+GO:0032450	MF	e	maltose alpha-glucosidase activity	2/2	2/6440	4.82e-08	8	2	0	YIL172C, YJL221C
+GO:0090599	MF	e	alpha-glucosidase activity    	2/2	4/6440	2.89e-07	6	2	0	YIL172C, YJL221C
+GO:0015926	MF	e	glucosidase activity          	2/2	9/6440	1.74e-06	5	2	0	YIL172C, YJL221C
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+GO:0019172	MF	e	glyoxalase III activity       	2/2	4/6440	2.89e-07	5	2	0	YOR391C, YPL280W
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+

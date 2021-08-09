@@ -1,0 +1,95 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+GO:0006310	BP	e	DNA recombination             	11/191	28/3912	3.71e-07	7	11	0	P03014, P0ADH7, P0ADI0, P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12, P31665, P77170
+GO:0032196	BP	e	transposition                 	7/191	14/3912	1.52e-06	2	7	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12, P0CF53
+GO:0006313	BP	e	transposition, DNA-mediated   	6/191	11/3912	4.72e-06	8	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0003700	MF	e	DNA-binding transcription factor activity	11/191	48/3912	1.3e-05	2	11	0	P0A9F1, P0ACS5, P0ACS7, P0AEV1, P15373, P27111, P39404, P75836, P75952, P77333, Q47129
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+GO:0003677	MF	e	DNA binding                   	27/295	136/3912	1.91e-06	4	27	0	P07026, P0A881, P0ACR9, P0AEE8, P0AFY8, P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58, P0CF25, P0CF27, P0CF28, P0CF29, P15081, P22186, P33228, P36673, P39356, P52108, P67699, Q47141, Q47269
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+

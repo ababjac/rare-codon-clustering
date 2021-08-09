@@ -1,0 +1,184 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0003678	MF	e	DNA helicase activity         	4/315	4/3912	4.13e-05	9	4	0.006	P04993, P08394, P27296, P76257
+
+Cluster 7 - 
+
+Cluster 8 - 
+GO:0016874	MF	e	ligase activity               	19/898	35/3912	5.38e-05	2	19	0.006	P00956, P00963, P08178, P0A6E9, P0A9Q5, P0ADT5, P0AES0, P0AGJ9, P0C0U4, P15042, P31552, P31663, P46849, P46850, P69451, P76085, P77187, P77213, P77495
+GO:0003676	MF	p	nucleic acid binding          	19/898	175/3912	4.4e-05	3	19	0.006	P06846, P0A705, P0A7L0, P0A8P6, P0AC51, P0ACI0, P0ACK5, P0ACL2, P0ACL5, P0ACP5, P0ACQ0, P0ACU0, P0ACU2, P0AFT5, P0AGD7, P33919, P64588, P77174, P77396
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+GO:0006313	BP	e	transposition, DNA-mediated   	6/89	11/3912	4.94e-08	8	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0032196	BP	e	transposition                 	6/89	14/3912	3.04e-07	2	6	0	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+GO:0006310	BP	e	DNA recombination             	6/89	28/3912	2.95e-05	7	6	0.008	P0CF07, P0CF08, P0CF09, P0CF10, P0CF11, P0CF12
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+

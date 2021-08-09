@@ -1,0 +1,851 @@
+Cluster 1 - 
+GO:0071897	BP	e	DNA biosynthetic process      	4/40	7/6440	4.41e-08	7	4	0	YGR161C-D, YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	8/40	60/6440	6.24e-08	6	8	0	YDR034C-D, YDR261C-D, YGR161C-D, YJR029W, YML039W, YMR045C, YOR192C-B, YPR158W-B
+GO:0006725	BP	e	cellular aromatic compound metabolic process	12/40	315/6440	2.47e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0046483	BP	e	heterocycle metabolic process 	12/40	315/6440	2.47e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:1901360	BP	e	organic cyclic compound metabolic process	12/40	327/6440	3.71e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0090304	BP	e	nucleic acid metabolic process	12/40	224/6440	7.19e-07	5	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0034641	BP	e	cellular nitrogen compound metabolic process	12/40	352/6440	8.2e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0015074	BP	e	DNA integration               	4/40	4/6440	8.84e-07	7	4	0	YDR034C-D, YDR261C-D, YML039W, YMR045C
+GO:0006139	BP	e	nucleobase-containing compound metabolic process	12/40	289/6440	8.87e-07	4	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0043170	BP	e	macromolecule metabolic process	13/40	451/6440	1.72e-06	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR027W, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0090305	BP	e	nucleic acid phosphodiester bond hydrolysis	4/40	21/6440	7.08e-06	6	4	0	YDR210C-D, YER138C, YLR227W-B, YPR158C-D
+GO:0005737	CC	e	cytoplasm                     	13/40	468/6440	2.6e-06	2	13	0	YBL005W-B, YBR012W-B, YDR261W-B, YDR365W-B, YFL002W-A, YGR038C-B, YML045W, YMR050C, YNL054W-B, YOL103W-B, YOR142W-B, YOR343W-B, YPL257W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+GO:0000379	BP	e	tRNA-type intron splice site recognition and cleavage	1/1	1/6440	0.000155	8	1	0	        YPL083C
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+GO:0005819	CC	e	spindle                       	1/1	1/6440	0.000155	5	1	0	        YBL031W
+
+Cluster 57 - 
+GO:0016887	MF	e	ATPase activity               	29/1412	37/6440	8.11e-07	7	29	0	YAL029C, YDL185W, YDR038C, YDR135C, YDR270W, YDR334W, YER047C, YER171W, YER172C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0016462	MF	e	pyrophosphatase activity      	36/1412	58/6440	1.1e-06	5	36	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YER171W, YER172C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YJR076C, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0016817	MF	e	hydrolase activity, acting on acid anhydrides	36/1412	58/6440	1.1e-06	3	36	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YER171W, YER172C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YJR076C, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0016818	MF	e	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	36/1412	58/6440	1.1e-06	4	36	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YDR452W, YER005W, YER047C, YER171W, YER172C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YJR076C, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0017111	MF	e	nucleoside-triphosphatase activity	34/1412	51/6440	1.14e-06	6	34	0	YAL029C, YBR179C, YDL185W, YDR038C, YDR135C, YDR270W, YDR292C, YDR334W, YER047C, YER171W, YER172C, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YJR076C, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL163C, YOR076C, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0004386	MF	e	helicase activity             	8/1412	8/6440	5.26e-06	8	8	0	YER171W, YER172C, YJL092W, YKL017C, YLR274W, YMR190C, YPL008W, YPL119C
+GO:0005575	CC	p	cellular_component            	630/1412	3264/6440	7.12e-06	0	630	0	YAL001C, YAL011W, YAL016W, YAL023C, YAL028W, YAL031C, YAL041W, YAL047C, YAL054C, YAL056W, YAL063C, YAR014C, YBL004W, YBL007C, YBL008W, YBL009W, YBL017C, YBL035C, YBL045C, YBL046W, YBL047C, YBL054W, YBL061C, YBL063W, YBL075C, YBR020W, YBR023C, YBR038W, YBR045C, YBR055C, YBR060C, YBR081C, YBR094W, YBR097W, YBR102C, YBR103W, YBR112C, YBR117C, YBR127C, YBR140C, YBR145W, YBR158W, YBR159W, YBR169C, YBR195C, YBR203W, YBR216C, YBR225W, YBR229C, YBR243C, YBR255W, YBR259W, YBR270C, YBR275C, YBR286W, YBR289W, YBR295W, YBR297W, YCL017C, YCL029C, YCL037C, YCL038C, YCL043C, YCL045C, YCL061C, YCR011C, YCR023C, YCR030C, YCR032W, YCR061W, YCR072C, YCR089W, YCR091W, YCR092C, YCR106W, YDL013W, YDL020C, YDL035C, YDL039C, YDL056W, YDL074C, YDL077C, YDL080C, YDL085W, YDL088C, YDL090C, YDL095W, YDL102W, YDL113C, YDL117W, YDL122W, YDL138W, YDL140C, YDL148C, YDL149W, YDL153C, YDL154W, YDL155W, YDL178W, YDL216C, YDL223C, YDL231C, YDR009W, YDR017C, YDR052C, YDR057W, YDR060W, YDR061W, YDR069C, YDR074W, YDR080W, YDR082W, YDR089W, YDR097C, YDR101C, YDR103W, YDR107C, YDR108W, YDR128W, YDR159W, YDR165W, YDR166C, YDR180W, YDR186C, YDR189W, YDR190C, YDR194C, YDR195W, YDR205W, YDR206W, YDR218C, YDR235W, YDR239C, YDR259C, YDR261C, YDR289C, YDR301W, YDR303C, YDR310C, YDR326C, YDR333C, YDR336W, YDR338C, YDR346C, YDR359C, YDR379W, YDR380W, YDR386W, YDR390C, YDR395W, YDR398W, YDR406W, YDR407C, YDR409W, YDR416W, YDR420W, YDR425W, YDR430C, YDR434W, YDR443C, YDR457W, YDR464W, YDR475C, YDR495C, YDR501W, YDR508C, YDR520C, YDR545W, YEL013W, YEL023C, YEL025C, YEL055C, YEL062W, YEL071W, YEL077C, YER006W, YER008C, YER015W, YER021W, YER033C, YER060W-A, YER080W, YER088C, YER093C, YER124C, YER126C, YER132C, YER140W, YER159C-A, YER166W, YER190W, YFL002C, YFL004W, YFL013C, YFL023W, YFL024C, YFL027C, YFL033C, YFL034W, YFL041W, YFL052W, YFR010W, YFR031C, YFR040W, YFR048W, YGL023C, YGL036W, YGL045W, YGL048C, YGL055W, YGL064C, YGL066W, YGL084C, YGL092W, YGL093W, YGL107C, YGL120C, YGL129C, YGL151W, YGL163C, YGL176C, YGL179C, YGL180W, YGL201C, YGL207W, YGL227W, YGL241W, YGL249W, YGL252C, YGR013W, YGR031W, YGR038C-A, YGR047C, YGR052W, YGR067C, YGR071C, YGR089W, YGR090W, YGR094W, YGR097W, YGR098C, YGR130C, YGR134W, YGR140W, YGR141W, YGR143W, YGR144W, YGR150C, YGR178C, YGR199W, YGR200C, YGR211W, YGR218W, YGR237C, YGR246C, YGR266W, YGR271W, YGR278W, YGR296W, YHL010C, YHL021C, YHL024W, YHL035C, YHL047C, YHL048W, YHL050C, YHR015W, YHR017W, YHR018C, YHR023W, YHR037W, YHR073W, YHR077C, YHR098C, YHR099W, YHR103W, YHR113W, YHR131C, YHR149C, YHR155W, YHR159W, YHR164C, YHR169W, YHR184W, YHR197W, YHR219W, YIL013C, YIL038C, YIL047C, YIL055C, YIL056W, YIL066C, YIL068C, YIL074C, YIL075C, YIL104C, YIL108W, YIL112W, YIL119C, YIL128W, YIL130W, YIL146C, YIL149C, YIL155C, YIL159W, YIL173W, YIL177C, YIR019C, YIR033W, YJL005W, YJL019W, YJL039C, YJL042W, YJL050W, YJL051W, YJL057C, YJL069C, YJL070C, YJL080C, YJL082W, YJL095W, YJL098W, YJL100W, YJL112W, YJL130C, YJL171C, YJL181W, YJL197W, YJL200C, YJL214W, YJL225C, YJR015W, YJR035W, YJR046W, YJR090C, YJR103W, YJR121W, YJR131W, YJR132W, YJR134C, YJR140C, YJR150C, YJR152W, YKL012W, YKL015W, YKL025C, YKL047W, YKL064W, YKL072W, YKL078W, YKL080W, YKL081W, YKL089W, YKL093W, YKL109W, YKL112W, YKL121W, YKL127W, YKL129C, YKL146W, YKL155C, YKL168C, YKL173W, YKL179C, YKL181W, YKL184W, YKL187C, YKL198C, YKL201C, YKL205W, YKL215C, YKL221W, YKR011C, YKR015C, YKR018C, YKR024C, YKR053C, YKR082W, YKR086W, YKR095W, YLL003W, YLL012W, YLL013C, YLL018C, YLL026W, YLL029W, YLL032C, YLL066C, YLR001C, YLR004C, YLR033W, YLR034C, YLR035C-A, YLR039C, YLR047C, YLR054C, YLR071C, YLR083C, YLR084C, YLR087C, YLR089C, YLR096W, YLR114C, YLR144C, YLR149C, YLR190W, YLR222C, YLR227C, YLR233C, YLR240W, YLR247C, YLR256W, YLR260W, YLR263W, YLR276C, YLR289W, YLR299W, YLR304C, YLR309C, YLR318W, YLR324W, YLR341W, YLR352W, YLR353W, YLR357W, YLR368W, YLR378C, YLR381W, YLR383W, YLR410W, YLR417W, YLR422W, YLR436C, YLR440C, YLR454W, YLR466W, YLR467W, YML002W, YML007W, YML020W, YML023C, YML031W, YML034W, YML046W, YML047C, YML048W, YML049C, YML059C, YML072C, YML091C, YML093W, YML109W, YML117W, YML132W, YML133C, YMR006C, YMR011W, YMR016C, YMR037C, YMR049C, YMR053C, YMR060C, YMR064W, YMR080C, YMR089C, YMR102C, YMR124W, YMR126C, YMR144W, YMR162C, YMR168C, YMR192W, YMR198W, YMR199W, YMR204C, YMR205C, YMR215W, YMR216C, YMR218C, YMR219W, YMR221C, YMR229C, YMR232W, YMR253C, YMR258C, YMR259C, YMR268C, YMR273C, YMR278W, YMR282C, YMR306W, YMR307W, YMR317W, YNL008C, YNL012W, YNL018C, YNL033W, YNL049C, YNL059C, YNL091W, YNL094W, YNL101W, YNL103W, YNL115C, YNL118C, YNL123W, YNL139C, YNL144C, YNL186W, YNL188W, YNL201C, YNL221C, YNL224C, YNL227C, YNL236W, YNL237W, YNL243W, YNL250W, YNL257C, YNL268W, YNL278W, YNL279W, YNL287W, YNL317W, YNL327W, YNL329C, YNL339C, YNR019W, YNR021W, YNR029C, YNR038W, YNR039C, YNR044W, YNR058W, YNR070W, YOL011W, YOL017W, YOL018C, YOL025W, YOL045W, YOL057W, YOL068C, YOL089C, YOL115W, YOL117W, YOL122C, YOL123W, YOL130W, YOL138C, YOL155C, YOR011W, YOR017W, YOR018W, YOR022C, YOR035C, YOR054C, YOR080W, YOR093C, YOR110W, YOR117W, YOR124C, YOR134W, YOR138C, YOR156C, YOR160W, YOR165W, YOR168W, YOR171C, YOR188W, YOR191W, YOR201C, YOR205C, YOR212W, YOR227W, YOR233W, YOR275C, YOR299W, YOR324C, YOR328W, YOR329C, YOR350C, YOR353C, YOR354C, YOR365C, YOR370C, YOR372C, YOR396W, YPL006W, YPL007C, YPL012W, YPL020C, YPL022W, YPL032C, YPL036W, YPL043W, YPL058C, YPL070W, YPL092W, YPL100W, YPL101W, YPL115C, YPL126W, YPL161C, YPL174C, YPL183C, YPL190C, YPL210C, YPL222W, YPL259C, YPL263C, YPL270W, YPL274W, YPR003C, YPR010C, YPR018W, YPR022C, YPR024W, YPR042C, YPR049C, YPR075C, YPR105C, YPR112C, YPR117W, YPR148C, YPR158W-A, YPR164W, YPR169W, YPR171W, YPR179C, YPR204W
+GO:0060090	MF	p	molecular adaptor activity    	7/1412	140/6440	1.28e-06	1	7	0	YDR138W, YHL030W, YKR021W, YLR148W, YMR017W, YNL172W, YPR030W
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/1412	124/6440	1.46e-06	6	0	0	               
+GO:0003735	MF	p	structural constituent of ribosome	0/1412	54/6440	2.73e-06	2	0	0	               
+GO:0003729	MF	p	mRNA binding                  	12/1412	151/6440	5.57e-06	5	12	0	YBL051C, YBR212W, YDL224C, YDR228C, YFR023W, YGL049C, YGL178W, YGR159C, YJR091C, YLR116W, YMR288W, YNL197C
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+
+Cluster 96 - 
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+
+Cluster 102 - 
+
+Cluster 103 - 
+
+Cluster 104 - 
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+
+Cluster 112 - 
+
+Cluster 113 - 
+
+Cluster 114 - 
+
+Cluster 115 - 
+
+Cluster 116 - 
+
+Cluster 117 - 
+
+Cluster 118 - 
+
+Cluster 119 - 
+
+Cluster 120 - 
+
+Cluster 121 - 
+
+Cluster 122 - 
+
+Cluster 123 - 
+
+Cluster 124 - 
+
+Cluster 125 - 
+
+Cluster 126 - 
+
+Cluster 127 - 
+
+Cluster 128 - 
+
+Cluster 129 - 
+
+Cluster 130 - 
+
+Cluster 131 - 
+
+Cluster 132 - 
+
+Cluster 133 - 
+
+Cluster 134 - 
+
+Cluster 135 - 
+
+Cluster 136 - 
+
+Cluster 137 - 
+
+Cluster 138 - 
+
+Cluster 139 - 
+
+Cluster 140 - 
+
+Cluster 141 - 
+
+Cluster 142 - 
+
+Cluster 143 - 
+
+Cluster 144 - 
+
+Cluster 145 - 
+
+Cluster 146 - 
+
+Cluster 147 - 
+
+Cluster 148 - 
+
+Cluster 149 - 
+
+Cluster 150 - 
+
+Cluster 151 - 
+
+Cluster 152 - 
+
+Cluster 153 - 
+
+Cluster 154 - 
+
+Cluster 155 - 
+
+Cluster 156 - 
+
+Cluster 157 - 
+
+Cluster 158 - 
+
+Cluster 159 - 
+
+Cluster 160 - 
+
+Cluster 161 - 
+
+Cluster 162 - 
+
+Cluster 163 - 
+
+Cluster 164 - 
+
+Cluster 165 - 
+
+Cluster 166 - 
+
+Cluster 167 - 
+
+Cluster 168 - 
+
+Cluster 169 - 
+
+Cluster 170 - 
+
+Cluster 171 - 
+
+Cluster 172 - 
+
+Cluster 173 - 
+
+Cluster 174 - 
+
+Cluster 175 - 
+
+Cluster 176 - 
+
+Cluster 177 - 
+
+Cluster 178 - 
+
+Cluster 179 - 
+
+Cluster 180 - 
+
+Cluster 181 - 
+
+Cluster 182 - 
+
+Cluster 183 - 
+
+Cluster 184 - 
+
+Cluster 185 - 
+
+Cluster 186 - 
+
+Cluster 187 - 
+
+Cluster 188 - 
+
+Cluster 189 - 
+
+Cluster 190 - 
+
+Cluster 191 - 
+
+Cluster 192 - 
+
+Cluster 193 - 
+
+Cluster 194 - 
+
+Cluster 195 - 
+
+Cluster 196 - 
+
+Cluster 197 - 
+
+Cluster 198 - 
+
+Cluster 199 - 
+
+Cluster 200 - 
+
+Cluster 201 - 
+
+Cluster 202 - 
+
+Cluster 203 - 
+
+Cluster 204 - 
+
+Cluster 205 - 
+
+Cluster 206 - 
+
+Cluster 207 - 
+
+Cluster 208 - 
+
+Cluster 209 - 
+
+Cluster 210 - 
+
+Cluster 211 - 
+
+Cluster 212 - 
+
+Cluster 213 - 
+
+Cluster 214 - 
+
+Cluster 215 - 
+
+Cluster 216 - 
+
+Cluster 217 - 
+
+Cluster 218 - 
+
+Cluster 219 - 
+
+Cluster 220 - 
+
+Cluster 221 - 
+
+Cluster 222 - 
+
+Cluster 223 - 
+
+Cluster 224 - 
+
+Cluster 225 - 
+
+Cluster 226 - 
+
+Cluster 227 - 
+
+Cluster 228 - 
+
+Cluster 229 - 
+
+Cluster 230 - 
+
+Cluster 231 - 
+
+Cluster 232 - 
+
+Cluster 233 - 
+
+Cluster 234 - 
+
+Cluster 235 - 
+
+Cluster 236 - 
+
+Cluster 237 - 
+
+Cluster 238 - 
+
+Cluster 239 - 
+
+Cluster 240 - 
+
+Cluster 241 - 
+
+Cluster 242 - 
+
+Cluster 243 - 
+
+Cluster 244 - 
+
+Cluster 245 - 
+
+Cluster 246 - 
+
+Cluster 247 - 
+
+Cluster 248 - 
+
+Cluster 249 - 
+
+Cluster 250 - 
+
+Cluster 251 - 
+
+Cluster 252 - 
+
+Cluster 253 - 
+
+Cluster 254 - 
+
+Cluster 255 - 
+
+Cluster 256 - 
+
+Cluster 257 - 
+
+Cluster 258 - 
+
+Cluster 259 - 
+
+Cluster 260 - 
+
+Cluster 261 - 
+
+Cluster 262 - 
+
+Cluster 263 - 
+
+Cluster 264 - 
+
+Cluster 265 - 
+
+Cluster 266 - 
+
+Cluster 267 - 
+
+Cluster 268 - 
+
+Cluster 269 - 
+
+Cluster 270 - 
+
+Cluster 271 - 
+
+Cluster 272 - 
+
+Cluster 273 - 
+
+Cluster 274 - 
+
+Cluster 275 - 
+
+Cluster 276 - 
+
+Cluster 277 - 
+
+Cluster 278 - 
+
+Cluster 279 - 
+
+Cluster 280 - 
+
+Cluster 281 - 
+
+Cluster 282 - 
+
+Cluster 283 - 
+
+Cluster 284 - 
+
+Cluster 285 - 
+
+Cluster 286 - 
+
+Cluster 287 - 
+
+Cluster 288 - 
+
+Cluster 289 - 
+
+Cluster 290 - 
+
+Cluster 291 - 
+
+Cluster 292 - 
+
+Cluster 293 - 
+
+Cluster 294 - 
+
+Cluster 295 - 
+
+Cluster 296 - 
+
+Cluster 297 - 
+
+Cluster 298 - 
+
+Cluster 299 - 
+
+Cluster 300 - 
+
+Cluster 301 - 
+
+Cluster 302 - 
+
+Cluster 303 - 
+
+Cluster 304 - 
+
+Cluster 305 - 
+
+Cluster 306 - 
+
+Cluster 307 - 
+
+Cluster 308 - 
+
+Cluster 309 - 
+
+Cluster 310 - 
+
+Cluster 311 - 
+
+Cluster 312 - 
+
+Cluster 313 - 
+
+Cluster 314 - 
+
+Cluster 315 - 
+
+Cluster 316 - 
+
+Cluster 317 - 
+
+Cluster 318 - 
+
+Cluster 319 - 
+
+Cluster 320 - 
+
+Cluster 321 - 
+
+Cluster 322 - 
+
+Cluster 323 - 
+
+Cluster 324 - 
+
+Cluster 325 - 
+
+Cluster 326 - 
+
+Cluster 327 - 
+
+Cluster 328 - 
+
+Cluster 329 - 
+
+Cluster 330 - 
+
+Cluster 331 - 
+
+Cluster 332 - 
+
+Cluster 333 - 
+
+Cluster 334 - 
+
+Cluster 335 - 
+
+Cluster 336 - 
+
+Cluster 337 - 
+
+Cluster 338 - 
+
+Cluster 339 - 
+
+Cluster 340 - 
+
+Cluster 341 - 
+
+Cluster 342 - 
+
+Cluster 343 - 
+
+Cluster 344 - 
+
+Cluster 345 - 
+
+Cluster 346 - 
+
+Cluster 347 - 
+
+Cluster 348 - 
+
+Cluster 349 - 
+
+Cluster 350 - 
+
+Cluster 351 - 
+
+Cluster 352 - 
+
+Cluster 353 - 
+
+Cluster 354 - 
+
+Cluster 355 - 
+
+Cluster 356 - 
+
+Cluster 357 - 
+
+Cluster 358 - 
+
+Cluster 359 - 
+GO:0033179	CC	e	proton-transporting V-type ATPase, V0 domain	1/1	1/6440	0.000155	4	1	0	      YCL005W-A
+GO:0000220	CC	e	vacuolar proton-transporting V-type ATPase, V0 domain	1/1	1/6440	0.000155	5	1	0	      YCL005W-A
+
+Cluster 360 - 
+
+Cluster 361 - 
+
+Cluster 362 - 
+
+Cluster 363 - 
+
+Cluster 364 - 
+
+Cluster 365 - 
+
+Cluster 366 - 
+
+Cluster 367 - 
+
+Cluster 368 - 
+
+Cluster 369 - 
+
+Cluster 370 - 
+
+Cluster 371 - 
+
+Cluster 372 - 
+
+Cluster 373 - 
+
+Cluster 374 - 
+
+Cluster 375 - 
+
+Cluster 376 - 
+
+Cluster 377 - 
+
+Cluster 378 - 
+
+Cluster 379 - 
+
+Cluster 380 - 
+
+Cluster 381 - 
+
+Cluster 382 - 
+
+Cluster 383 - 
+
+Cluster 384 - 
+
+Cluster 385 - 
+
+Cluster 386 - 
+
+Cluster 387 - 
+
+Cluster 388 - 
+
+Cluster 389 - 
+
+Cluster 390 - 
+
+Cluster 391 - 
+
+Cluster 392 - 
+
+Cluster 393 - 
+
+Cluster 394 - 
+
+Cluster 395 - 
+
+Cluster 396 - 
+
+Cluster 397 - 
+
+Cluster 398 - 
+
+Cluster 399 - 
+
+Cluster 400 - 
+
+Cluster 401 - 
+
+Cluster 402 - 
+
+Cluster 403 - 
+
+Cluster 404 - 
+
+Cluster 405 - 
+
+Cluster 406 - 
+
+Cluster 407 - 
+
+Cluster 408 - 
+
+Cluster 409 - 
+
+Cluster 410 - 
+
+Cluster 411 - 
+
+Cluster 412 - 
+

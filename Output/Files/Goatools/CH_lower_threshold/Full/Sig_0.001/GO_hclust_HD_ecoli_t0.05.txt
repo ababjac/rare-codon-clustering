@@ -1,0 +1,78 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+GO:0003676	MF	e	nucleic acid binding          	5/6	175/3912	9.8e-07	3	5	0	P0CF54, P0CF55, P0CF56, P0CF57, P0CF58
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+GO:0004803	MF	e	transposase activity          	2/2	4/3912	7.84e-07	3	2	0	 P0CF89, P0CF90
+
+Cluster 8 - 
+
+Cluster 9 - 
+GO:0003677	MF	e	DNA binding                   	5/6	136/3912	2.76e-07	4	5	0	P0CF41, P0CF42, P0CF43, P0CF44, P0CF45
+GO:0003676	MF	e	nucleic acid binding          	5/6	175/3912	9.8e-07	3	5	0	P0CF41, P0CF42, P0CF43, P0CF44, P0CF45
+GO:0097159	MF	e	organic cyclic compound binding	5/6	303/3912	1.52e-05	2	5	0	P0CF41, P0CF42, P0CF43, P0CF44, P0CF45
+GO:1901363	MF	e	heterocyclic compound binding 	5/6	303/3912	1.52e-05	2	5	0	P0CF41, P0CF42, P0CF43, P0CF44, P0CF45
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:0006313	BP	e	transposition, DNA-mediated   	3/3	11/3912	1.65e-08	8	3	0	P0CF07, P0CF11, P0CF12
+GO:0032196	BP	e	transposition                 	3/3	14/3912	3.65e-08	2	3	0	P0CF07, P0CF11, P0CF12
+GO:0006310	BP	e	DNA recombination             	3/3	28/3912	3.29e-07	7	3	0	P0CF07, P0CF11, P0CF12
+GO:0006259	BP	e	DNA metabolic process         	3/3	65/3912	4.38e-06	6	3	0	P0CF07, P0CF11, P0CF12
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+GO:0006414	BP	e	translational elongation      	2/2	5/3912	1.31e-06	6	2	0	 P0CE47, P0CE48
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+GO:0003677	MF	e	DNA binding                   	9/9	136/3912	1.22e-07	4	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0005488	MF	e	binding                       	9/9	452/3912	2.43e-07	1	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0097159	MF	e	organic cyclic compound binding	9/9	303/3912	4.92e-07	2	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:1901363	MF	e	heterocyclic compound binding 	9/9	303/3912	4.92e-07	2	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+GO:0003676	MF	e	nucleic acid binding          	9/9	175/3912	5.53e-07	3	9	0	P0CE49, P0CE50, P0CE51, P0CE52, P0CE54, P0CE55, P0CE56, P0CE57, P0CE58
+
+Cluster 22 - 
+
+Cluster 23 - 
+GO:0003676	MF	e	nucleic acid binding          	4/5	175/3912	1.87e-05	3	4	0	P0CF80, P0CF81, P0CF82, P0CF83
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+GO:0003677	MF	e	DNA binding                   	4/5	136/3912	6.81e-06	4	4	0	P0CF67, P0CF68, P0CF69, P0CF70
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+

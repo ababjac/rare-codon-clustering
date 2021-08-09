@@ -1,0 +1,39 @@
+Cluster 1 - 
+GO:0080090	BP	p	regulation of primary metabolic process	26/1999	90/3912	2.4e-05	4	26	0	A8DYP9, P0A8D0, P0A8R9, P0A8S1, P0ACA3, P0ACM5, P0ACP7, P0AD49, P0DPC6, P17410, P23841, P31453, P31463, P33358, P36675, P37767, P39334, P39399, P45551, P54901, P67662, P69348, P69931, P76369, P77700, Q46864
+GO:0019222	BP	p	regulation of metabolic process	30/1999	100/3912	2.54e-05	3	30	0	A8DYP9, P0A8D0, P0A8R9, P0A8S1, P0A978, P0ACA3, P0ACM5, P0ACP7, P0AD49, P0AF28, P0DPC6, P17410, P23841, P31453, P31463, P33358, P36675, P36995, P37767, P39334, P39399, P45551, P54901, P67662, P69348, P69931, P76369, P77334, P77700, Q46864
+
+Cluster 2 - 
+GO:0005375	MF	e	copper ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         Q59385
+GO:0043682	MF	e	P-type divalent copper transporter activity	1/1	1/3912	0.000256	10	1	0	         Q59385
+GO:0140358	MF	e	P-type transmembrane transporter activity	1/1	1/3912	0.000256	9	1	0	         Q59385
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+

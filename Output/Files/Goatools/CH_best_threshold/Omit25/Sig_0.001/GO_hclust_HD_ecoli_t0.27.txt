@@ -1,0 +1,186 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+GO:0006636	BP	e	unsaturated fatty acid biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P77695
+GO:0033559	BP	e	unsaturated fatty acid metabolic process	1/1	1/3912	0.000256	8	1	0	         P77695
+
+Cluster 11 - 
+
+Cluster 12 - 
+GO:0090540	BP	e	bacterial cellulose biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P0ADJ3
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+GO:0005576	CC	e	extracellular region          	1/1	1/3912	0.000256	2	1	0	         P33219
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+GO:0071276	BP	e	cellular response to cadmium ion	1/1	1/3912	0.000256	6	1	0	         P0AB49
+GO:0046686	BP	e	response to cadmium ion       	1/1	1/3912	0.000256	5	1	0	         P0AB49
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+GO:0043952	BP	e	protein transport by the Sec complex	1/1	1/3912	0.000256	10	1	0	         P0AG99
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+GO:0070987	BP	e	error-free translesion synthesis	1/1	1/3912	0.000256	10	1	0	         P62672
+
+Cluster 60 - 
+GO:0031341	BP	e	regulation of cell killing    	1/1	1/3912	0.000256	4	1	0	         P76364
+GO:0031342	BP	e	negative regulation of cell killing	1/1	1/3912	0.000256	5	1	0	         P76364
+
+Cluster 61 - 
+
+Cluster 62 - 
+GO:0060187	CC	e	cell pole                     	1/1	1/3912	0.000256	2	1	0	         P64581
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+GO:0140358	MF	e	P-type transmembrane transporter activity	1/1	1/3912	0.000256	9	1	0	         Q59385
+GO:0005375	MF	e	copper ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         Q59385
+GO:0043682	MF	e	P-type divalent copper transporter activity	1/1	1/3912	0.000256	10	1	0	         Q59385
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+

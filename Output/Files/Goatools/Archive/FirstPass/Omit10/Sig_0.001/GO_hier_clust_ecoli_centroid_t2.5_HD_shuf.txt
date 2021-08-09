@@ -1,0 +1,61 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0003676	MF	p	nucleic acid binding          	18/924	175/3912	6.43e-06	3	18	0	P06846, P0A8P6, P0AAR8, P0ACK2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0AGD7, P0CF83, P16684, P33919, P37007, P37641, P39376, P67660, P76071, P77615
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:1990904	CC	e	ribonucleoprotein complex     	8/183	25/3912	1.07e-05	2	8	0	P02413, P0A7M2, P0A7M6, P0A7S9, P0ADY7, P0ADZ4, P0AG44, P68679
+GO:0044391	CC	e	ribosomal subunit             	8/183	25/3912	1.07e-05	3	8	0	P02413, P0A7M2, P0A7M6, P0A7S9, P0ADY7, P0ADZ4, P0AG44, P68679
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+

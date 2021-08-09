@@ -1,0 +1,61 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+GO:0005375	MF	e	copper ion transmembrane transporter activity	1/1	1/3912	0.000256	8	1	0	         Q59385
+GO:0043682	MF	e	P-type divalent copper transporter activity	1/1	1/3912	0.000256	10	1	0	         Q59385
+GO:0140358	MF	e	P-type transmembrane transporter activity	1/1	1/3912	0.000256	9	1	0	         Q59385
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+GO:0006310	BP	e	DNA recombination             	9/208	28/3912	8.16e-06	7	9	0	P03014, P0ADH7, P0ADI0, P0CF09, P0CF10, P0CF11, P19767, P31665, P77170
+GO:0003676	MF	e	nucleic acid binding          	24/208	175/3912	1.21e-05	3	24	0	P0A7U7, P0A968, P0ACQ7, P0ACS9, P0AE72, P0CF54, P0CF55, P0CF57, P0CF58, P10805, P28916, P30864, P37309, P45423, P52696, P71301, P75811, P76102, P76161, P76241, P77216, P77721, Q47083, Q47274
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+

@@ -1,0 +1,101 @@
+Cluster 1 - 
+GO:0071897	BP	e	DNA biosynthetic process      	3/23	7/6440	1.38e-06	7	3	0	YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	5/23	60/6440	1.75e-06	6	5	0	YDR034C-D, YJR029W, YMR045C, YOR192C-B, YPR158W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+GO:0042597	CC	e	periplasmic space             	3/4	4/6440	3.6e-10	2	3	0	YLR155C, YLR157C, YLR158C
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:0003993	MF	e	acid phosphatase activity     	2/2	6/6440	7.23e-07	6	2	0	YAR071W, YHR215W
+
+Cluster 12 - 
+
+Cluster 13 - 
+GO:0006062	BP	e	sorbitol catabolic process    	2/2	3/6440	1.45e-07	9	2	0	YDL246C, YJR159W
+GO:0019407	BP	e	hexitol catabolic process     	2/2	3/6440	1.45e-07	8	2	0	YDL246C, YJR159W
+GO:0006059	BP	e	hexitol metabolic process     	2/2	3/6440	1.45e-07	7	2	0	YDL246C, YJR159W
+GO:0006060	BP	e	sorbitol metabolic process    	2/2	3/6440	1.45e-07	8	2	0	YDL246C, YJR159W
+GO:0046174	BP	e	polyol catabolic process      	2/2	4/6440	2.89e-07	6	2	0	YDL246C, YJR159W
+GO:0019405	BP	e	alditol catabolic process     	2/2	4/6440	2.89e-07	7	2	0	YDL246C, YJR159W
+GO:0046164	BP	e	alcohol catabolic process     	2/2	5/6440	4.82e-07	5	2	0	YDL246C, YJR159W
+GO:0019400	BP	e	alditol metabolic process     	2/2	5/6440	4.82e-07	6	2	0	YDL246C, YJR159W
+GO:1901616	BP	e	organic hydroxy compound catabolic process	2/2	5/6440	4.82e-07	4	2	0	YDL246C, YJR159W
+GO:0044275	BP	e	cellular carbohydrate catabolic process	2/2	7/6440	1.01e-06	5	2	0	YDL246C, YJR159W
+GO:0019751	BP	e	polyol metabolic process      	2/2	9/6440	1.74e-06	5	2	0	YDL246C, YJR159W
+GO:0016052	BP	e	carbohydrate catabolic process	2/2	16/6440	5.79e-06	4	2	0	YDL246C, YJR159W
+GO:0006066	BP	e	alcohol metabolic process     	2/2	17/6440	6.56e-06	4	2	0	YDL246C, YJR159W
+GO:0044262	BP	e	cellular carbohydrate metabolic process	2/2	19/6440	8.25e-06	4	2	0	YDL246C, YJR159W
+GO:0044282	BP	e	small molecule catabolic process	2/2	22/6440	1.11e-05	3	2	0	YDL246C, YJR159W
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+GO:0005737	CC	e	cytoplasm                     	6/6	468/6440	1.43e-07	2	6	0	YGR027W-A, YJR026W, YJR028W, YLR227W-A, YML040W, YOL103W-A
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+GO:0005737	CC	e	cytoplasm                     	15/20	468/6440	3.56e-07	2	15	0	YAR010C, YDR098C-A, YDR210C-C, YDR316W-A, YDR365W-A, YER137C-A, YGR038C-A, YGR161C-C, YHR214C-C, YLR157C-A, YLR256W-A, YML045W-A, YOR142W-A, YPR137C-A, YPR158W-A
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+GO:0032450	MF	e	maltose alpha-glucosidase activity	2/2	2/6440	4.82e-08	8	2	0	YIL172C, YJL221C
+GO:0004558	MF	e	alpha-1,4-glucosidase activity	2/2	2/6440	4.82e-08	7	2	0	YIL172C, YJL221C
+GO:0090599	MF	e	alpha-glucosidase activity    	2/2	4/6440	2.89e-07	6	2	0	YIL172C, YJL221C
+GO:0015926	MF	e	glucosidase activity          	2/2	9/6440	1.74e-06	5	2	0	YIL172C, YJL221C
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+

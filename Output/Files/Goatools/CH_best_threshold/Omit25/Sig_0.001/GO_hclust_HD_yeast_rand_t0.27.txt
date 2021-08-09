@@ -1,0 +1,148 @@
+Cluster 1 - 
+GO:0071897	BP	e	DNA biosynthetic process      	4/40	7/6440	4.41e-08	7	4	0	YGR161C-D, YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	8/40	60/6440	6.24e-08	6	8	0	YDR034C-D, YDR261C-D, YGR161C-D, YJR029W, YML039W, YMR045C, YOR192C-B, YPR158W-B
+GO:0006725	BP	e	cellular aromatic compound metabolic process	12/40	315/6440	2.47e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0046483	BP	e	heterocycle metabolic process 	12/40	315/6440	2.47e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:1901360	BP	e	organic cyclic compound metabolic process	12/40	327/6440	3.71e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0090304	BP	e	nucleic acid metabolic process	12/40	224/6440	7.19e-07	5	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0034641	BP	e	cellular nitrogen compound metabolic process	12/40	352/6440	8.2e-07	3	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0015074	BP	e	DNA integration               	4/40	4/6440	8.84e-07	7	4	0	YDR034C-D, YDR261C-D, YML039W, YMR045C
+GO:0006139	BP	e	nucleobase-containing compound metabolic process	12/40	289/6440	8.87e-07	4	12	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0043170	BP	e	macromolecule metabolic process	13/40	451/6440	1.72e-06	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR027W, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR158C-D, YPR158W-B
+GO:0090305	BP	e	nucleic acid phosphodiester bond hydrolysis	4/40	21/6440	7.08e-06	6	4	0	YDR210C-D, YER138C, YLR227W-B, YPR158C-D
+GO:0005737	CC	e	cytoplasm                     	13/40	468/6440	2.6e-06	2	13	0	YBL005W-B, YBR012W-B, YDR261W-B, YDR365W-B, YFL002W-A, YGR038C-B, YML045W, YMR050C, YNL054W-B, YOL103W-B, YOR142W-B, YOR343W-B, YPL257W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+GO:0016887	MF	e	ATPase activity               	32/2885	37/6440	2.36e-06	7	32	0	YAL029C, YBR222C, YDL185W, YDR038C, YDR135C, YDR270W, YDR334W, YER047C, YER171W, YER172C, YER179W, YFR038W, YGL150C, YGR210C, YGR281W, YHL014C, YIL009W, YIL126W, YJL092W, YKL017C, YKL209C, YLL034C, YLR274W, YLR397C, YMR167W, YMR190C, YNL290W, YOR304W, YPL008W, YPL082C, YPL119C, YPL226W
+GO:0005732	CC	p	sno(s)RNA-containing ribonucleoprotein complex	1/2885	44/6440	7.46e-07	3	1	0	        YNL221C
+GO:0060090	MF	p	molecular adaptor activity    	10/2885	140/6440	1.69e-06	1	10	0	YDR138W, YGL098W, YHL030W, YHR107C, YKR021W, YLR148W, YLR268W, YMR017W, YNL172W, YPR030W
+GO:0003729	MF	p	mRNA binding                  	19/2885	151/6440	1.79e-06	5	19	0	YBL051C, YBR212W, YBR233W, YDL224C, YDR021W, YDR228C, YDR374C, YDR496C, YFR023W, YGL049C, YGL178W, YGR159C, YJR091C, YLR116W, YMR288W, YNL197C, YOL149W, YOR319W, YPL237W
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/2885	124/6440	2.41e-06	6	0	0	               
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+GO:0034974	CC	e	Swi5-Swi2 complex             	1/1	1/6440	0.000155	3	1	0	      YHR079C-A
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+

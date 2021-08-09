@@ -1,0 +1,241 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+GO:0003676	MF	e	nucleic acid binding          	6/16	175/3912	4.05e-05	3	6	0.006	P0CF54, P0CF55, P0CF56, P0CF57, P0CF58, P52696
+
+Cluster 25 - 
+
+Cluster 26 - 
+GO:0006310	BP	e	DNA recombination             	7/61	28/3912	1.45e-07	7	7	0	P0ADH7, P0ADI0, P0CF07, P0CF10, P0CF11, P0CF12, P77170
+GO:0006313	BP	e	transposition, DNA-mediated   	4/61	11/3912	1.63e-05	8	4	0.004	P0CF07, P0CF10, P0CF11, P0CF12
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+GO:2000105	BP	e	positive regulation of DNA-dependent DNA replication	1/2	1/3912	0.000511	9	1	0.008	         P28905
+GO:0045740	BP	e	positive regulation of DNA replication	1/2	1/3912	0.000511	8	1	0.008	         P28905
+GO:0051054	BP	e	positive regulation of DNA metabolic process	1/2	1/3912	0.000511	7	1	0.008	         P28905
+GO:0032298	BP	e	positive regulation of DNA-dependent DNA replication initiation	1/2	1/3912	0.000511	10	1	0.008	         P28905
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+GO:0012501	BP	e	programmed cell death         	2/3	9/3912	1.41e-05	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/3	10/3912	1.76e-05	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+GO:0003677	MF	e	DNA binding                   	4/5	136/3912	6.81e-06	4	4	0.002	P0CF67, P0CF68, P0CF69, P0CF70
+GO:0003676	MF	e	nucleic acid binding          	4/5	175/3912	1.87e-05	3	4	0.002	P0CF67, P0CF68, P0CF69, P0CF70
+GO:1901363	MF	e	heterocyclic compound binding 	4/5	303/3912	0.000166	2	4	0.008	P0CF67, P0CF68, P0CF69, P0CF70
+GO:0097159	MF	e	organic cyclic compound binding	4/5	303/3912	0.000166	2	4	0.008	P0CF67, P0CF68, P0CF69, P0CF70
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+GO:0003676	MF	e	nucleic acid binding          	12/66	175/3912	2.62e-05	3	12	0.004	P0A881, P0A9X9, P0A9Y6, P0CF25, P0CF27, P0CF28, P0CF29, P15081, P36673, P67699, Q47141, Q47269
+GO:0003677	MF	e	DNA binding                   	10/66	136/3912	7.41e-05	4	10	0.008	P0A881, P0CF25, P0CF27, P0CF28, P0CF29, P15081, P36673, P67699, Q47141, Q47269
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+GO:0045913	BP	e	positive regulation of carbohydrate metabolic process	1/2	1/3912	0.000511	6	1	0.008	         P26649
+GO:0010676	BP	e	positive regulation of cellular carbohydrate metabolic process	1/2	1/3912	0.000511	7	1	0.008	         P26649
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+
+Cluster 96 - 
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+GO:0006970	BP	e	response to osmotic stress    	2/16	4/3912	9.37e-05	3	2	0.006	 P0ADB1, P60844
+
+Cluster 102 - 
+
+Cluster 103 - 
+
+Cluster 104 - 
+GO:0004175	MF	e	endopeptidase activity        	2/6	9/3912	7.03e-05	4	2	0.004	 P00804, P0A6G7
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+

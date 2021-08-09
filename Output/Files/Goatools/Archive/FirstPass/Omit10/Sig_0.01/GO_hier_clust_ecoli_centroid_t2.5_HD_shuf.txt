@@ -1,0 +1,66 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0016798	MF	e	hydrolase activity, acting on glycosyl bonds	16/924	25/3912	1.88e-05	3	16	0	P00722, P04395, P05523, P06720, P0AF12, P11988, P13482, P13656, P17411, P26612, P31434, P31471, P37651, P41409, P77154, P77713
+GO:0003676	MF	p	nucleic acid binding          	18/924	175/3912	6.43e-06	3	18	0	P06846, P0A8P6, P0AAR8, P0ACK2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0AGD7, P0CF83, P16684, P33919, P37007, P37641, P39376, P67660, P76071, P77615
+
+Cluster 7 - 
+GO:0032993	CC	e	protein-DNA complex           	5/526	5/3912	4.32e-05	2	5	0.004	P0AA16, P0ACZ8, P23836, P38684, P52076
+
+Cluster 8 - 
+GO:0032196	BP	e	transposition                 	5/127	14/3912	5.27e-05	2	5	0.008	P0CF08, P0CF09, P0CF10, P0CF53, P19767
+
+Cluster 9 - 
+GO:0140110	MF	e	transcription regulator activity	15/326	53/3912	1.58e-05	1	15	0	P0ACS5, P0ACS7, P0AEV1, P0AFX7, P0AGB6, P23890, P27111, P33234, P39343, P39404, P75836, P75952, P75989, P77333, Q47129
+GO:0003700	MF	e	DNA-binding transcription factor activity	14/326	48/3912	2.08e-05	2	14	0	P0ACS5, P0ACS7, P0AEV1, P0AGB6, P23890, P27111, P33234, P39343, P39404, P75836, P75952, P75989, P77333, Q47129
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:1990904	CC	e	ribonucleoprotein complex     	8/183	25/3912	1.07e-05	2	8	0.004	P02413, P0A7M2, P0A7M6, P0A7S9, P0ADY7, P0ADZ4, P0AG44, P68679
+GO:0044391	CC	e	ribosomal subunit             	8/183	25/3912	1.07e-05	3	8	0.004	P02413, P0A7M2, P0A7M6, P0A7S9, P0ADY7, P0ADZ4, P0AG44, P68679
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+

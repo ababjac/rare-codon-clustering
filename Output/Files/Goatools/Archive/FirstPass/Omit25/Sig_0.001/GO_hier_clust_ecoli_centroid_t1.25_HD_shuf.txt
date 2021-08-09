@@ -1,0 +1,447 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+GO:0005737	CC	e	cytoplasm                     	13/64	170/3912	2.36e-06	2	13	0	P0A6D0, P0A7A5, P0A8U0, P0A9N0, P0AAB8, P0AAL0, P0AFH0, P30138, P42624, P43533, P45531, P64602, P75767
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+GO:0003839	MF	e	gamma-glutamylcyclotransferase activity	1/1	1/3912	0.000256	5	1	0	         P39163
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+GO:0003680	MF	e	minor groove of adenine-thymine-rich DNA binding	1/1	1/3912	0.000256	6	1	0	         P0ACG1
+
+Cluster 33 - 
+GO:0000918	BP	e	division septum site selection	1/1	1/3912	0.000256	4	1	0	         P0A734
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+GO:0031246	CC	e	intrinsic component of periplasmic side of cell outer membrane	1/1	1/3912	0.000256	4	1	0	         P0AB31
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+GO:0003998	MF	e	acylphosphatase activity      	1/1	1/3912	0.000256	5	1	0	         P0AB65
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+GO:0071276	BP	e	cellular response to cadmium ion	1/1	1/3912	0.000256	6	1	0	         P0AB49
+GO:0046686	BP	e	response to cadmium ion       	1/1	1/3912	0.000256	5	1	0	         P0AB49
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+GO:0036065	BP	e	fucosylation                  	1/1	1/3912	0.000256	3	1	0	         P0AEN8
+GO:0070085	BP	e	glycosylation                 	1/1	1/3912	0.000256	2	1	0	         P0AEN8
+
+Cluster 91 - 
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+GO:0043952	BP	e	protein transport by the Sec complex	1/1	1/3912	0.000256	10	1	0	         P0AG99
+
+Cluster 95 - 
+
+Cluster 96 - 
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+
+Cluster 102 - 
+GO:0016838	MF	e	carbon-oxygen lyase activity, acting on phosphates	1/1	1/3912	0.000256	4	1	0	         P0A731
+GO:0008929	MF	e	methylglyoxal synthase activity	1/1	1/3912	0.000256	5	1	0	         P0A731
+
+Cluster 103 - 
+
+Cluster 104 - 
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+
+Cluster 112 - 
+
+Cluster 113 - 
+
+Cluster 114 - 
+
+Cluster 115 - 
+
+Cluster 116 - 
+
+Cluster 117 - 
+
+Cluster 118 - 
+
+Cluster 119 - 
+
+Cluster 120 - 
+
+Cluster 121 - 
+
+Cluster 122 - 
+
+Cluster 123 - 
+
+Cluster 124 - 
+
+Cluster 125 - 
+
+Cluster 126 - 
+
+Cluster 127 - 
+
+Cluster 128 - 
+
+Cluster 129 - 
+
+Cluster 130 - 
+
+Cluster 131 - 
+
+Cluster 132 - 
+
+Cluster 133 - 
+
+Cluster 134 - 
+
+Cluster 135 - 
+
+Cluster 136 - 
+
+Cluster 137 - 
+GO:0090540	BP	e	bacterial cellulose biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P0ADJ3
+
+Cluster 138 - 
+
+Cluster 139 - 
+
+Cluster 140 - 
+
+Cluster 141 - 
+
+Cluster 142 - 
+GO:0060187	CC	e	cell pole                     	1/1	1/3912	0.000256	2	1	0	         P64581
+
+Cluster 143 - 
+
+Cluster 144 - 
+
+Cluster 145 - 
+
+Cluster 146 - 
+
+Cluster 147 - 
+
+Cluster 148 - 
+
+Cluster 149 - 
+
+Cluster 150 - 
+
+Cluster 151 - 
+
+Cluster 152 - 
+
+Cluster 153 - 
+
+Cluster 154 - 
+
+Cluster 155 - 
+GO:0033559	BP	e	unsaturated fatty acid metabolic process	1/1	1/3912	0.000256	8	1	0	         P77695
+GO:0006636	BP	e	unsaturated fatty acid biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P77695
+
+Cluster 156 - 
+
+Cluster 157 - 
+
+Cluster 158 - 
+
+Cluster 159 - 
+
+Cluster 160 - 
+
+Cluster 161 - 
+
+Cluster 162 - 
+
+Cluster 163 - 
+
+Cluster 164 - 
+
+Cluster 165 - 
+
+Cluster 166 - 
+
+Cluster 167 - 
+
+Cluster 168 - 
+
+Cluster 169 - 
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+
+Cluster 170 - 
+
+Cluster 171 - 
+
+Cluster 172 - 
+
+Cluster 173 - 
+
+Cluster 174 - 
+
+Cluster 175 - 
+
+Cluster 176 - 
+
+Cluster 177 - 
+
+Cluster 178 - 
+
+Cluster 179 - 
+
+Cluster 180 - 
+
+Cluster 181 - 
+
+Cluster 182 - 
+
+Cluster 183 - 
+
+Cluster 184 - 
+
+Cluster 185 - 
+
+Cluster 186 - 
+
+Cluster 187 - 
+
+Cluster 188 - 
+
+Cluster 189 - 
+GO:0032026	BP	e	response to magnesium ion     	1/1	1/3912	0.000256	5	1	0	         P64512
+GO:0071286	BP	e	cellular response to magnesium ion	1/1	1/3912	0.000256	6	1	0	         P64512
+
+Cluster 190 - 
+
+Cluster 191 - 
+
+Cluster 192 - 
+
+Cluster 193 - 
+
+Cluster 194 - 
+
+Cluster 195 - 
+
+Cluster 196 - 
+
+Cluster 197 - 
+
+Cluster 198 - 
+
+Cluster 199 - 
+
+Cluster 200 - 
+
+Cluster 201 - 
+
+Cluster 202 - 
+
+Cluster 203 - 
+
+Cluster 204 - 
+
+Cluster 205 - 
+
+Cluster 206 - 
+
+Cluster 207 - 
+
+Cluster 208 - 
+
+Cluster 209 - 
+
+Cluster 210 - 
+
+Cluster 211 - 
+
+Cluster 212 - 
+
+Cluster 213 - 
+

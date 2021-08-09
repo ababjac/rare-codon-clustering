@@ -1,0 +1,50 @@
+Cluster 1 - 
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/2968	124/6440	1.59e-06	6	0	0	               
+GO:0060090	MF	p	molecular adaptor activity    	12/2968	140/6440	1.83e-06	1	12	0	YBR200W, YDR138W, YFR043C, YGL098W, YHL030W, YJR067C, YKR021W, YLR148W, YML062C, YNL172W, YOR036W, YPR030W
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+

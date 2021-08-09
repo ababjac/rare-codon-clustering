@@ -1,0 +1,69 @@
+Cluster 1 - 
+GO:0015074	BP	e	DNA integration               	4/47	4/6440	2.49e-09	7	4	0	YDR034C-D, YDR261C-D, YML039W, YMR045C
+GO:0071897	BP	e	DNA biosynthetic process      	4/47	7/6440	8.58e-08	7	4	0	YGR161C-D, YJR029W, YOR192C-B, YPR158W-B
+GO:0006259	BP	e	DNA metabolic process         	8/47	60/6440	2e-07	6	8	0	YDR034C-D, YDR261C-D, YGR161C-D, YJR029W, YML039W, YMR045C, YOR192C-B, YPR158W-B
+GO:0006725	BP	e	cellular aromatic compound metabolic process	13/47	315/6440	2.24e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0046483	BP	e	heterocycle metabolic process 	13/47	315/6440	2.24e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0090305	BP	e	nucleic acid phosphodiester bond hydrolysis	5/47	21/6440	3.1e-07	6	5	0	YDR210C-D, YER138C, YLR227W-B, YPR137C-B, YPR158C-D
+GO:1901360	BP	e	organic cyclic compound metabolic process	13/47	327/6440	3.45e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0090304	BP	e	nucleic acid metabolic process	13/47	224/6440	4.07e-07	5	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0006139	BP	e	nucleobase-containing compound metabolic process	13/47	289/6440	6.77e-07	4	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+GO:0034641	BP	e	cellular nitrogen compound metabolic process	13/47	352/6440	8.05e-07	3	13	0	YDR034C-D, YDR210C-D, YDR261C-D, YER138C, YGR161C-D, YJR029W, YLR227W-B, YML039W, YMR045C, YOR192C-B, YPR137C-B, YPR158C-D, YPR158W-B
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+GO:0044391	CC	e	ribosomal subunit             	5/35	68/6440	2.87e-05	3	5	0	YGL076C, YLL045C, YLR264W, YLR333C, YMR194W
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/1149	124/6440	1.16e-06	6	0	0	               
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/1404	124/6440	1.38e-06	6	0	0	               
+GO:0003729	MF	p	mRNA binding                  	5/1404	151/6440	1.91e-06	5	5	0	YBR212W, YGR156W, YJR091C, YLR116W, YOL149W
+GO:0060090	MF	p	molecular adaptor activity    	5/1404	140/6440	2.21e-06	1	5	0	YFR043C, YGL098W, YKR021W, YLR148W, YOR036W
+
+Cluster 25 - 
+GO:0005829	CC	p	cytosol                       	7/818	262/6440	1.52e-06	2	7	0	YBR284W, YDR047W, YHR202W, YLR027C, YMR226C, YNL077W, YOR236W
+GO:0003729	MF	p	mRNA binding                  	2/818	151/6440	1.35e-06	5	2	0	YBR233W, YGL044C
+GO:0030533	MF	p	triplet codon-amino acid adaptor activity	0/818	124/6440	1.66e-06	6	0	0	               
+GO:0060090	MF	p	molecular adaptor activity    	2/818	140/6440	3.77e-06	1	2	0	YML062C, YMR017W
+

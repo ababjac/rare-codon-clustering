@@ -1,0 +1,53 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+GO:0003677	MF	p	DNA binding                   	29/1585	136/3912	2.88e-06	4	29	0	P06846, P0A6R3, P0A6Z6, P0A8N0, P0A8P6, P0AAR8, P0AC51, P0ACF8, P0ACG1, P0ACH8, P0ACI0, P0ACK5, P0ACK8, P0ACL2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0ACU2, P0AFT5, P16684, P33919, P37338, P64588, P67660, P76071, P77174, P77396, P77615
+
+Cluster 26 - 
+

@@ -1,0 +1,1463 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+GO:0047409	MF	e	alkenylglycerophosphoethanolamine hydrolase activity	1/1	1/3912	0.000256	5	1	0	         P0ADI9
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+GO:0004396	MF	e	hexokinase activity           	1/1	1/3912	0.000256	6	1	0	         P23917
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+GO:0004385	MF	e	guanylate kinase activity     	1/1	1/3912	0.000256	7	1	0	         P60546
+
+Cluster 15 - 
+
+Cluster 16 - 
+GO:0008806	MF	e	carboxymethylenebutenolidase activity	1/1	1/3912	0.000256	5	1	0	         P56262
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+GO:0008874	MF	e	gluconate 5-dehydrogenase activity	1/1	1/3912	0.000256	6	1	0	         P0A9P9
+GO:0008875	MF	e	gluconate dehydrogenase activity	1/1	1/3912	0.000256	5	1	0	         P0A9P9
+
+Cluster 42 - 
+
+Cluster 43 - 
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+GO:0008752	MF	e	FMN reductase activity        	1/1	1/3912	0.000256	5	1	0	         P80644
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+GO:0008715	MF	e	CDP-diacylglycerol diphosphatase activity	1/1	1/3912	0.000256	6	1	0	         P06282
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
+Cluster 78 - 
+
+Cluster 79 - 
+
+Cluster 80 - 
+
+Cluster 81 - 
+GO:0006152	BP	e	purine nucleoside catabolic process	1/1	1/3912	0.000256	8	1	0	         P22564
+
+Cluster 82 - 
+
+Cluster 83 - 
+
+Cluster 84 - 
+GO:0009390	CC	e	dimethyl sulfoxide reductase complex	1/1	1/3912	0.000256	4	1	0	         P18777
+
+Cluster 85 - 
+
+Cluster 86 - 
+
+Cluster 87 - 
+
+Cluster 88 - 
+
+Cluster 89 - 
+
+Cluster 90 - 
+
+Cluster 91 - 
+GO:0004452	MF	e	isopentenyl-diphosphate delta-isomerase activity	1/1	1/3912	0.000256	5	1	0	         Q46822
+GO:0016863	MF	e	intramolecular oxidoreductase activity, transposing C=C bonds	1/1	1/3912	0.000256	4	1	0	         Q46822
+
+Cluster 92 - 
+
+Cluster 93 - 
+
+Cluster 94 - 
+
+Cluster 95 - 
+
+Cluster 96 - 
+
+Cluster 97 - 
+
+Cluster 98 - 
+
+Cluster 99 - 
+
+Cluster 100 - 
+
+Cluster 101 - 
+
+Cluster 102 - 
+
+Cluster 103 - 
+
+Cluster 104 - 
+
+Cluster 105 - 
+
+Cluster 106 - 
+
+Cluster 107 - 
+
+Cluster 108 - 
+
+Cluster 109 - 
+
+Cluster 110 - 
+
+Cluster 111 - 
+
+Cluster 112 - 
+
+Cluster 113 - 
+
+Cluster 114 - 
+
+Cluster 115 - 
+
+Cluster 116 - 
+
+Cluster 117 - 
+
+Cluster 118 - 
+
+Cluster 119 - 
+
+Cluster 120 - 
+
+Cluster 121 - 
+
+Cluster 122 - 
+
+Cluster 123 - 
+GO:0070038	MF	e	rRNA (pseudouridine-N3-)-methyltransferase activity	1/1	1/3912	0.000256	8	1	0	         P0A8I8
+GO:0070037	MF	e	rRNA (pseudouridine) methyltransferase activity	1/1	1/3912	0.000256	7	1	0	         P0A8I8
+
+Cluster 124 - 
+GO:0000966	BP	e	RNA 5'-end processing         	1/1	1/3912	0.000256	8	1	0	         P0A8I1
+GO:0000967	BP	e	rRNA 5'-end processing        	1/1	1/3912	0.000256	10	1	0	         P0A8I1
+GO:0034471	BP	e	ncRNA 5'-end processing       	1/1	1/3912	0.000256	9	1	0	         P0A8I1
+
+Cluster 125 - 
+
+Cluster 126 - 
+GO:0047917	MF	e	GDP-glucosidase activity      	1/1	1/3912	0.000256	6	1	0	         P32056
+
+Cluster 127 - 
+
+Cluster 128 - 
+
+Cluster 129 - 
+
+Cluster 130 - 
+
+Cluster 131 - 
+
+Cluster 132 - 
+
+Cluster 133 - 
+
+Cluster 134 - 
+
+Cluster 135 - 
+
+Cluster 136 - 
+
+Cluster 137 - 
+
+Cluster 138 - 
+
+Cluster 139 - 
+
+Cluster 140 - 
+
+Cluster 141 - 
+
+Cluster 142 - 
+
+Cluster 143 - 
+
+Cluster 144 - 
+GO:0000405	MF	e	bubble DNA binding            	1/1	1/3912	0.000256	6	1	0	         Q47269
+
+Cluster 145 - 
+
+Cluster 146 - 
+
+Cluster 147 - 
+
+Cluster 148 - 
+
+Cluster 149 - 
+
+Cluster 150 - 
+
+Cluster 151 - 
+
+Cluster 152 - 
+
+Cluster 153 - 
+
+Cluster 154 - 
+
+Cluster 155 - 
+
+Cluster 156 - 
+
+Cluster 157 - 
+
+Cluster 158 - 
+
+Cluster 159 - 
+
+Cluster 160 - 
+
+Cluster 161 - 
+
+Cluster 162 - 
+
+Cluster 163 - 
+
+Cluster 164 - 
+
+Cluster 165 - 
+
+Cluster 166 - 
+
+Cluster 167 - 
+
+Cluster 168 - 
+
+Cluster 169 - 
+
+Cluster 170 - 
+
+Cluster 171 - 
+
+Cluster 172 - 
+GO:0004020	MF	e	adenylylsulfate kinase activity	1/1	1/3912	0.000256	5	1	0	         P0A6J1
+
+Cluster 173 - 
+
+Cluster 174 - 
+
+Cluster 175 - 
+
+Cluster 176 - 
+
+Cluster 177 - 
+
+Cluster 178 - 
+
+Cluster 179 - 
+GO:0016723	MF	e	oxidoreductase activity, acting on metal ions, NAD or NADP as acceptor	1/1	1/3912	0.000256	4	1	0	         Q46871
+GO:0052851	MF	e	ferric-chelate reductase (NADPH) activity	1/1	1/3912	0.000256	5	1	0	         Q46871
+GO:0016722	MF	e	oxidoreductase activity, acting on metal ions	1/1	1/3912	0.000256	3	1	0	         Q46871
+
+Cluster 180 - 
+
+Cluster 181 - 
+
+Cluster 182 - 
+
+Cluster 183 - 
+
+Cluster 184 - 
+
+Cluster 185 - 
+
+Cluster 186 - 
+
+Cluster 187 - 
+
+Cluster 188 - 
+
+Cluster 189 - 
+
+Cluster 190 - 
+
+Cluster 191 - 
+
+Cluster 192 - 
+
+Cluster 193 - 
+
+Cluster 194 - 
+
+Cluster 195 - 
+
+Cluster 196 - 
+
+Cluster 197 - 
+
+Cluster 198 - 
+
+Cluster 199 - 
+
+Cluster 200 - 
+
+Cluster 201 - 
+
+Cluster 202 - 
+
+Cluster 203 - 
+
+Cluster 204 - 
+
+Cluster 205 - 
+
+Cluster 206 - 
+
+Cluster 207 - 
+
+Cluster 208 - 
+
+Cluster 209 - 
+
+Cluster 210 - 
+
+Cluster 211 - 
+
+Cluster 212 - 
+
+Cluster 213 - 
+
+Cluster 214 - 
+
+Cluster 215 - 
+
+Cluster 216 - 
+
+Cluster 217 - 
+
+Cluster 218 - 
+
+Cluster 219 - 
+
+Cluster 220 - 
+
+Cluster 221 - 
+GO:0015666	MF	e	restriction endodeoxyribonuclease activity	1/1	1/3912	0.000256	7	1	0	         P24202
+
+Cluster 222 - 
+
+Cluster 223 - 
+
+Cluster 224 - 
+
+Cluster 225 - 
+
+Cluster 226 - 
+
+Cluster 227 - 
+
+Cluster 228 - 
+
+Cluster 229 - 
+GO:0031341	BP	e	regulation of cell killing    	1/1	1/3912	0.000256	4	1	0	         P76364
+GO:0031342	BP	e	negative regulation of cell killing	1/1	1/3912	0.000256	5	1	0	         P76364
+
+Cluster 230 - 
+
+Cluster 231 - 
+
+Cluster 232 - 
+GO:0009403	BP	e	toxin biosynthetic process    	1/1	1/3912	0.000256	4	1	0	         P08550
+
+Cluster 233 - 
+
+Cluster 234 - 
+
+Cluster 235 - 
+
+Cluster 236 - 
+
+Cluster 237 - 
+
+Cluster 238 - 
+
+Cluster 239 - 
+GO:0002939	BP	e	tRNA N1-guanine methylation   	1/1	1/3912	0.000256	12	1	0	         P0A873
+
+Cluster 240 - 
+
+Cluster 241 - 
+
+Cluster 242 - 
+
+Cluster 243 - 
+
+Cluster 244 - 
+
+Cluster 245 - 
+
+Cluster 246 - 
+
+Cluster 247 - 
+
+Cluster 248 - 
+
+Cluster 249 - 
+
+Cluster 250 - 
+
+Cluster 251 - 
+
+Cluster 252 - 
+
+Cluster 253 - 
+
+Cluster 254 - 
+
+Cluster 255 - 
+GO:0008967	MF	e	phosphoglycolate phosphatase activity	1/1	1/3912	0.000256	6	1	0	         P32662
+
+Cluster 256 - 
+
+Cluster 257 - 
+
+Cluster 258 - 
+
+Cluster 259 - 
+
+Cluster 260 - 
+GO:0004867	MF	e	serine-type endopeptidase inhibitor activity	1/1	1/3912	0.000256	6	1	0	         P23827
+
+Cluster 261 - 
+GO:0044571	BP	e	[2Fe-2S] cluster assembly     	1/1	1/3912	0.000256	7	1	0	         P0A6L9
+
+Cluster 262 - 
+
+Cluster 263 - 
+
+Cluster 264 - 
+
+Cluster 265 - 
+
+Cluster 266 - 
+
+Cluster 267 - 
+
+Cluster 268 - 
+
+Cluster 269 - 
+
+Cluster 270 - 
+
+Cluster 271 - 
+
+Cluster 272 - 
+GO:0008216	BP	e	spermidine metabolic process  	1/1	1/3912	0.000256	8	1	0	         P09158
+GO:0008295	BP	e	spermidine biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P09158
+GO:0006596	BP	e	polyamine biosynthetic process	1/1	1/3912	0.000256	8	1	0	         P09158
+
+Cluster 273 - 
+
+Cluster 274 - 
+
+Cluster 275 - 
+
+Cluster 276 - 
+
+Cluster 277 - 
+
+Cluster 278 - 
+GO:0006302	BP	e	double-strand break repair    	1/1	1/3912	0.000256	8	1	0	         P76402
+
+Cluster 279 - 
+
+Cluster 280 - 
+
+Cluster 281 - 
+
+Cluster 282 - 
+GO:0089715	MF	e	tRNA m6t6A37 methyltransferase activity	1/1	1/3912	0.000256	8	1	0	         P28634
+
+Cluster 283 - 
+
+Cluster 284 - 
+
+Cluster 285 - 
+
+Cluster 286 - 
+
+Cluster 287 - 
+
+Cluster 288 - 
+
+Cluster 289 - 
+
+Cluster 290 - 
+
+Cluster 291 - 
+
+Cluster 292 - 
+GO:0046473	BP	e	phosphatidic acid metabolic process	1/1	1/3912	0.000256	7	1	0	         P0ABN1
+GO:0006654	BP	e	phosphatidic acid biosynthetic process	1/1	1/3912	0.000256	8	1	0	         P0ABN1
+
+Cluster 293 - 
+
+Cluster 294 - 
+
+Cluster 295 - 
+
+Cluster 296 - 
+
+Cluster 297 - 
+
+Cluster 298 - 
+
+Cluster 299 - 
+
+Cluster 300 - 
+
+Cluster 301 - 
+
+Cluster 302 - 
+
+Cluster 303 - 
+
+Cluster 304 - 
+
+Cluster 305 - 
+
+Cluster 306 - 
+
+Cluster 307 - 
+
+Cluster 308 - 
+GO:0019143	MF	e	3-deoxy-manno-octulosonate-8-phosphatase activity	1/1	1/3912	0.000256	6	1	0	         P0ABZ4
+
+Cluster 309 - 
+
+Cluster 310 - 
+
+Cluster 311 - 
+
+Cluster 312 - 
+
+Cluster 313 - 
+
+Cluster 314 - 
+
+Cluster 315 - 
+
+Cluster 316 - 
+
+Cluster 317 - 
+
+Cluster 318 - 
+
+Cluster 319 - 
+
+Cluster 320 - 
+GO:0052717	MF	e	tRNA-specific adenosine-34 deaminase activity	1/1	1/3912	0.000256	7	1	0	         P68398
+GO:0004000	MF	e	adenosine deaminase activity  	1/1	1/3912	0.000256	5	1	0	         P68398
+GO:0008251	MF	e	tRNA-specific adenosine deaminase activity	1/1	1/3912	0.000256	6	1	0	         P68398
+
+Cluster 321 - 
+
+Cluster 322 - 
+
+Cluster 323 - 
+
+Cluster 324 - 
+
+Cluster 325 - 
+
+Cluster 326 - 
+
+Cluster 327 - 
+
+Cluster 328 - 
+
+Cluster 329 - 
+GO:0140104	MF	e	molecular carrier activity    	1/1	1/3912	0.000256	1	1	0	         P19317
+GO:0016530	MF	e	metallochaperone activity     	1/1	1/3912	0.000256	2	1	0	         P19317
+
+Cluster 330 - 
+
+Cluster 331 - 
+
+Cluster 332 - 
+
+Cluster 333 - 
+
+Cluster 334 - 
+
+Cluster 335 - 
+
+Cluster 336 - 
+
+Cluster 337 - 
+GO:0008839	MF	e	4-hydroxy-tetrahydrodipicolinate reductase	1/1	1/3912	0.000256	5	1	0	         P04036
+
+Cluster 338 - 
+
+Cluster 339 - 
+
+Cluster 340 - 
+
+Cluster 341 - 
+
+Cluster 342 - 
+
+Cluster 343 - 
+
+Cluster 344 - 
+
+Cluster 345 - 
+GO:0002188	BP	e	translation reinitiation      	1/1	1/3912	0.000256	5	1	0	         P08245
+GO:0002183	BP	e	cytoplasmic translational initiation	1/1	1/3912	0.000256	4	1	0	         P08245
+GO:0006413	BP	e	translational initiation      	1/1	1/3912	0.000256	3	1	0	         P08245
+
+Cluster 346 - 
+
+Cluster 347 - 
+
+Cluster 348 - 
+
+Cluster 349 - 
+GO:0008813	MF	e	chorismate lyase activity     	1/1	1/3912	0.000256	5	1	0	         P26602
+
+Cluster 350 - 
+
+Cluster 351 - 
+GO:0019546	BP	e	arginine deiminase pathway    	1/1	1/3912	0.000256	11	1	0	         P37306
+GO:0006527	BP	e	arginine catabolic process    	1/1	1/3912	0.000256	10	1	0	         P37306
+
+Cluster 352 - 
+
+Cluster 353 - 
+
+Cluster 354 - 
+GO:0042602	MF	e	riboflavin reductase (NADPH) activity	1/1	1/3912	0.000256	5	1	0	         P75893
+
+Cluster 355 - 
+
+Cluster 356 - 
+GO:0019159	MF	e	nicotinamide-nucleotide amidase activity	1/1	1/3912	0.000256	5	1	0	         P0A6G3
+
+Cluster 357 - 
+GO:2000104	BP	e	negative regulation of DNA-dependent DNA replication	1/1	1/3912	0.000256	9	1	0	         P69931
+GO:0008156	BP	e	negative regulation of DNA replication	1/1	1/3912	0.000256	8	1	0	         P69931
+GO:0051053	BP	e	negative regulation of DNA metabolic process	1/1	1/3912	0.000256	7	1	0	         P69931
+GO:0032297	BP	e	negative regulation of DNA-dependent DNA replication initiation	1/1	1/3912	0.000256	10	1	0	         P69931
+
+Cluster 358 - 
+GO:0004045	MF	e	aminoacyl-tRNA hydrolase activity	1/1	1/3912	0.000256	5	1	0	         P0A7D1
+
+Cluster 359 - 
+GO:0030428	CC	e	cell septum                   	1/1	1/3912	0.000256	2	1	0	         P09549
+
+Cluster 360 - 
+
+Cluster 361 - 
+GO:0002130	BP	e	wobble position ribose methylation	1/1	1/3912	0.000256	13	1	0	         P0AGJ7
+GO:0002131	BP	e	wobble position cytosine ribose methylation	1/1	1/3912	0.000256	14	1	0	         P0AGJ7
+
+Cluster 362 - 
+
+Cluster 363 - 
+
+Cluster 364 - 
+GO:0120009	BP	e	intermembrane lipid transfer  	1/1	1/3912	0.000256	8	1	0	         P76506
+GO:0120010	BP	e	intermembrane phospholipid transfer	1/1	1/3912	0.000256	9	1	0	         P76506
+
+Cluster 365 - 
+GO:0008092	MF	e	cytoskeletal protein binding  	1/1	1/3912	0.000256	3	1	0	         P64524
+
+Cluster 366 - 
+
+Cluster 367 - 
+
+Cluster 368 - 
+
+Cluster 369 - 
+
+Cluster 370 - 
+
+Cluster 371 - 
+
+Cluster 372 - 
+GO:2000105	BP	e	positive regulation of DNA-dependent DNA replication	1/1	1/3912	0.000256	9	1	0	         P28905
+GO:0051054	BP	e	positive regulation of DNA metabolic process	1/1	1/3912	0.000256	7	1	0	         P28905
+GO:0032298	BP	e	positive regulation of DNA-dependent DNA replication initiation	1/1	1/3912	0.000256	10	1	0	         P28905
+GO:0045740	BP	e	positive regulation of DNA replication	1/1	1/3912	0.000256	8	1	0	         P28905
+
+Cluster 373 - 
+
+Cluster 374 - 
+GO:0046654	BP	e	tetrahydrofolate biosynthetic process	1/1	1/3912	0.000256	7	1	0	         P0ABQ4
+GO:0046653	BP	e	tetrahydrofolate metabolic process	1/1	1/3912	0.000256	6	1	0	         P0ABQ4
+
+Cluster 375 - 
+GO:0003839	MF	e	gamma-glutamylcyclotransferase activity	1/1	1/3912	0.000256	5	1	0	         P39163
+
+Cluster 376 - 
+
+Cluster 377 - 
+
+Cluster 378 - 
+
+Cluster 379 - 
+
+Cluster 380 - 
+
+Cluster 381 - 
+
+Cluster 382 - 
+
+Cluster 383 - 
+
+Cluster 384 - 
+
+Cluster 385 - 
+
+Cluster 386 - 
+
+Cluster 387 - 
+
+Cluster 388 - 
+GO:0004150	MF	e	dihydroneopterin aldolase activity	1/1	1/3912	0.000256	5	1	0	         P0AC16
+
+Cluster 389 - 
+GO:0003681	MF	e	bent DNA binding              	1/1	1/3912	0.000256	5	1	0	         P0ACF8
+
+Cluster 390 - 
+
+Cluster 391 - 
+
+Cluster 392 - 
+
+Cluster 393 - 
+
+Cluster 394 - 
+
+Cluster 395 - 
+
+Cluster 396 - 
+
+Cluster 397 - 
+
+Cluster 398 - 
+GO:0030955	MF	e	potassium ion binding         	1/1	1/3912	0.000256	6	1	0	         P0ADE6
+GO:0031420	MF	e	alkali metal ion binding      	1/1	1/3912	0.000256	5	1	0	         P0ADE6
+
+Cluster 399 - 
+
+Cluster 400 - 
+
+Cluster 401 - 
+
+Cluster 402 - 
+GO:0043530	MF	e	adenosine 5'-monophosphoramidase activity	1/1	1/3912	0.000256	5	1	0	         P0ACE7
+
+Cluster 403 - 
+
+Cluster 404 - 
+
+Cluster 405 - 
+
+Cluster 406 - 
+
+Cluster 407 - 
+
+Cluster 408 - 
+
+Cluster 409 - 
+
+Cluster 410 - 
+GO:0003680	MF	e	minor groove of adenine-thymine-rich DNA binding	1/1	1/3912	0.000256	6	1	0	         P0ACG1
+
+Cluster 411 - 
+GO:0000918	BP	e	division septum site selection	1/1	1/3912	0.000256	4	1	0	         P0A734
+
+Cluster 412 - 
+
+Cluster 413 - 
+
+Cluster 414 - 
+
+Cluster 415 - 
+
+Cluster 416 - 
+
+Cluster 417 - 
+
+Cluster 418 - 
+
+Cluster 419 - 
+
+Cluster 420 - 
+GO:0070497	MF	e	6-carboxy-5,6,7,8-tetrahydropterin synthase activity	1/1	1/3912	0.000256	5	1	0	         P65870
+
+Cluster 421 - 
+
+Cluster 422 - 
+
+Cluster 423 - 
+
+Cluster 424 - 
+
+Cluster 425 - 
+
+Cluster 426 - 
+
+Cluster 427 - 
+
+Cluster 428 - 
+
+Cluster 429 - 
+
+Cluster 430 - 
+
+Cluster 431 - 
+
+Cluster 432 - 
+
+Cluster 433 - 
+
+Cluster 434 - 
+
+Cluster 435 - 
+
+Cluster 436 - 
+
+Cluster 437 - 
+
+Cluster 438 - 
+
+Cluster 439 - 
+
+Cluster 440 - 
+
+Cluster 441 - 
+
+Cluster 442 - 
+
+Cluster 443 - 
+
+Cluster 444 - 
+GO:0031246	CC	e	intrinsic component of periplasmic side of cell outer membrane	1/1	1/3912	0.000256	4	1	0	         P0AB31
+
+Cluster 445 - 
+
+Cluster 446 - 
+
+Cluster 447 - 
+
+Cluster 448 - 
+GO:0003998	MF	e	acylphosphatase activity      	1/1	1/3912	0.000256	5	1	0	         P0AB65
+
+Cluster 449 - 
+
+Cluster 450 - 
+
+Cluster 451 - 
+
+Cluster 452 - 
+GO:0046686	BP	e	response to cadmium ion       	1/1	1/3912	0.000256	5	1	0	         P0AB49
+GO:0071276	BP	e	cellular response to cadmium ion	1/1	1/3912	0.000256	6	1	0	         P0AB49
+
+Cluster 453 - 
+
+Cluster 454 - 
+
+Cluster 455 - 
+
+Cluster 456 - 
+
+Cluster 457 - 
+
+Cluster 458 - 
+
+Cluster 459 - 
+
+Cluster 460 - 
+GO:0003850	MF	e	2-deoxyglucose-6-phosphatase activity	1/1	1/3912	0.000256	8	1	0	         P77247
+
+Cluster 461 - 
+GO:0004844	MF	e	uracil DNA N-glycosylase activity	1/1	1/3912	0.000256	7	1	0	         P12295
+GO:0097506	MF	e	deaminated base DNA N-glycosylase activity	1/1	1/3912	0.000256	6	1	0	         P12295
+
+Cluster 462 - 
+
+Cluster 463 - 
+
+Cluster 464 - 
+
+Cluster 465 - 
+
+Cluster 466 - 
+
+Cluster 467 - 
+
+Cluster 468 - 
+
+Cluster 469 - 
+
+Cluster 470 - 
+
+Cluster 471 - 
+
+Cluster 472 - 
+
+Cluster 473 - 
+
+Cluster 474 - 
+
+Cluster 475 - 
+
+Cluster 476 - 
+
+Cluster 477 - 
+GO:0005576	CC	e	extracellular region          	1/1	1/3912	0.000256	2	1	0	         P33219
+
+Cluster 478 - 
+
+Cluster 479 - 
+
+Cluster 480 - 
+
+Cluster 481 - 
+
+Cluster 482 - 
+
+Cluster 483 - 
+GO:0061522	MF	e	1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity	1/1	1/3912	0.000256	6	1	0	         P0ADP2
+
+Cluster 484 - 
+
+Cluster 485 - 
+GO:0044716	MF	e	8-oxo-GDP phosphatase activity	1/1	1/3912	0.000256	7	1	0	         P77788
+GO:0017110	MF	e	nucleoside-diphosphatase activity	1/1	1/3912	0.000256	6	1	0	         P77788
+
+Cluster 486 - 
+
+Cluster 487 - 
+
+Cluster 488 - 
+
+Cluster 489 - 
+
+Cluster 490 - 
+
+Cluster 491 - 
+
+Cluster 492 - 
+GO:0015606	MF	e	spermidine transmembrane transporter activity	1/1	1/3912	0.000256	6	1	0	         P69212
+
+Cluster 493 - 
+
+Cluster 494 - 
+
+Cluster 495 - 
+
+Cluster 496 - 
+
+Cluster 497 - 
+
+Cluster 498 - 
+
+Cluster 499 - 
+
+Cluster 500 - 
+
+Cluster 501 - 
+
+Cluster 502 - 
+
+Cluster 503 - 
+
+Cluster 504 - 
+
+Cluster 505 - 
+
+Cluster 506 - 
+
+Cluster 507 - 
+
+Cluster 508 - 
+
+Cluster 509 - 
+
+Cluster 510 - 
+
+Cluster 511 - 
+
+Cluster 512 - 
+
+Cluster 513 - 
+
+Cluster 514 - 
+
+Cluster 515 - 
+
+Cluster 516 - 
+
+Cluster 517 - 
+
+Cluster 518 - 
+GO:0070085	BP	e	glycosylation                 	1/1	1/3912	0.000256	2	1	0	         P0AEN8
+GO:0036065	BP	e	fucosylation                  	1/1	1/3912	0.000256	3	1	0	         P0AEN8
+
+Cluster 519 - 
+
+Cluster 520 - 
+
+Cluster 521 - 
+
+Cluster 522 - 
+GO:0043952	BP	e	protein transport by the Sec complex	1/1	1/3912	0.000256	10	1	0	         P0AG99
+
+Cluster 523 - 
+
+Cluster 524 - 
+
+Cluster 525 - 
+
+Cluster 526 - 
+
+Cluster 527 - 
+
+Cluster 528 - 
+
+Cluster 529 - 
+
+Cluster 530 - 
+
+Cluster 531 - 
+
+Cluster 532 - 
+
+Cluster 533 - 
+
+Cluster 534 - 
+GO:0016838	MF	e	carbon-oxygen lyase activity, acting on phosphates	1/1	1/3912	0.000256	4	1	0	         P0A731
+GO:0008929	MF	e	methylglyoxal synthase activity	1/1	1/3912	0.000256	5	1	0	         P0A731
+
+Cluster 535 - 
+
+Cluster 536 - 
+
+Cluster 537 - 
+
+Cluster 538 - 
+
+Cluster 539 - 
+
+Cluster 540 - 
+
+Cluster 541 - 
+
+Cluster 542 - 
+
+Cluster 543 - 
+
+Cluster 544 - 
+GO:0043471	BP	e	regulation of cellular carbohydrate catabolic process	1/1	1/3912	0.000256	7	1	0	         P37195
+GO:0043470	BP	e	regulation of carbohydrate catabolic process	1/1	1/3912	0.000256	6	1	0	         P37195
+GO:0031329	BP	e	regulation of cellular catabolic process	1/1	1/3912	0.000256	5	1	0	         P37195
+
+Cluster 545 - 
+
+Cluster 546 - 
+
+Cluster 547 - 
+
+Cluster 548 - 
+
+Cluster 549 - 
+
+Cluster 550 - 
+
+Cluster 551 - 
+
+Cluster 552 - 
+
+Cluster 553 - 
+
+Cluster 554 - 
+
+Cluster 555 - 
+
+Cluster 556 - 
+
+Cluster 557 - 
+
+Cluster 558 - 
+
+Cluster 559 - 
+
+Cluster 560 - 
+
+Cluster 561 - 
+
+Cluster 562 - 
+
+Cluster 563 - 
+
+Cluster 564 - 
+
+Cluster 565 - 
+
+Cluster 566 - 
+
+Cluster 567 - 
+
+Cluster 568 - 
+
+Cluster 569 - 
+
+Cluster 570 - 
+
+Cluster 571 - 
+
+Cluster 572 - 
+
+Cluster 573 - 
+
+Cluster 574 - 
+
+Cluster 575 - 
+
+Cluster 576 - 
+
+Cluster 577 - 
+
+Cluster 578 - 
+
+Cluster 579 - 
+
+Cluster 580 - 
+
+Cluster 581 - 
+
+Cluster 582 - 
+
+Cluster 583 - 
+
+Cluster 584 - 
+
+Cluster 585 - 
+
+Cluster 586 - 
+
+Cluster 587 - 
+
+Cluster 588 - 
+
+Cluster 589 - 
+
+Cluster 590 - 
+
+Cluster 591 - 
+
+Cluster 592 - 
+
+Cluster 593 - 
+
+Cluster 594 - 
+
+Cluster 595 - 
+
+Cluster 596 - 
+GO:0090540	BP	e	bacterial cellulose biosynthetic process	1/1	1/3912	0.000256	10	1	0	         P0ADJ3
+
+Cluster 597 - 
+
+Cluster 598 - 
+
+Cluster 599 - 
+
+Cluster 600 - 
+
+Cluster 601 - 
+GO:0060187	CC	e	cell pole                     	1/1	1/3912	0.000256	2	1	0	         P64581
+
+Cluster 602 - 
+
+Cluster 603 - 
+
+Cluster 604 - 
+
+Cluster 605 - 
+
+Cluster 606 - 
+
+Cluster 607 - 
+
+Cluster 608 - 
+
+Cluster 609 - 
+
+Cluster 610 - 
+
+Cluster 611 - 
+
+Cluster 612 - 
+
+Cluster 613 - 
+
+Cluster 614 - 
+
+Cluster 615 - 
+GO:0033559	BP	e	unsaturated fatty acid metabolic process	1/1	1/3912	0.000256	8	1	0	         P77695
+GO:0006636	BP	e	unsaturated fatty acid biosynthetic process	1/1	1/3912	0.000256	9	1	0	         P77695
+
+Cluster 616 - 
+
+Cluster 617 - 
+GO:1901701	BP	e	cellular response to oxygen-containing compound	1/1	1/3912	0.000256	4	1	0	         P31130
+GO:0034599	BP	e	cellular response to oxidative stress	1/1	1/3912	0.000256	5	1	0	         P31130
+GO:0070301	BP	e	cellular response to hydrogen peroxide	1/1	1/3912	0.000256	7	1	0	         P31130
+GO:0034614	BP	e	cellular response to reactive oxygen species	1/1	1/3912	0.000256	6	1	0	         P31130
+
+Cluster 618 - 
+
+Cluster 619 - 
+
+Cluster 620 - 
+
+Cluster 621 - 
+
+Cluster 622 - 
+
+Cluster 623 - 
+
+Cluster 624 - 
+
+Cluster 625 - 
+
+Cluster 626 - 
+
+Cluster 627 - 
+
+Cluster 628 - 
+
+Cluster 629 - 
+
+Cluster 630 - 
+GO:0005539	MF	e	glycosaminoglycan binding     	1/1	1/3912	0.000256	3	1	0	         P69776
+GO:0042834	MF	e	peptidoglycan binding         	1/1	1/3912	0.000256	4	1	0	         P69776
+
+Cluster 631 - 
+
+Cluster 632 - 
+
+Cluster 633 - 
+
+Cluster 634 - 
+
+Cluster 635 - 
+
+Cluster 636 - 
+
+Cluster 637 - 
+
+Cluster 638 - 
+
+Cluster 639 - 
+
+Cluster 640 - 
+
+Cluster 641 - 
+
+Cluster 642 - 
+
+Cluster 643 - 
+
+Cluster 644 - 
+
+Cluster 645 - 
+
+Cluster 646 - 
+
+Cluster 647 - 
+
+Cluster 648 - 
+
+Cluster 649 - 
+
+Cluster 650 - 
+GO:0032026	BP	e	response to magnesium ion     	1/1	1/3912	0.000256	5	1	0	         P64512
+GO:0071286	BP	e	cellular response to magnesium ion	1/1	1/3912	0.000256	6	1	0	         P64512
+
+Cluster 651 - 
+
+Cluster 652 - 
+
+Cluster 653 - 
+
+Cluster 654 - 
+
+Cluster 655 - 
+
+Cluster 656 - 
+
+Cluster 657 - 
+
+Cluster 658 - 
+
+Cluster 659 - 
+
+Cluster 660 - 
+
+Cluster 661 - 
+
+Cluster 662 - 
+
+Cluster 663 - 
+
+Cluster 664 - 
+
+Cluster 665 - 
+
+Cluster 666 - 
+
+Cluster 667 - 
+
+Cluster 668 - 
+
+Cluster 669 - 
+
+Cluster 670 - 
+
+Cluster 671 - 
+
+Cluster 672 - 
+
+Cluster 673 - 
+
+Cluster 674 - 
+
+Cluster 675 - 
+
+Cluster 676 - 
+

@@ -1,0 +1,57 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+GO:0003676	MF	e	nucleic acid binding          	38/422	175/3912	1.54e-05	3	38	0	P07026, P08365, P0A6Y1, P0A881, P0A968, P0A9F6, P0A9Y6, P0ACJ0, P0ACQ7, P0ACR9, P0ACS9, P0AFP2, P0CF54, P0CF55, P0CF56, P0CF57, P0CF58, P10805, P11989, P15081, P18811, P22186, P28916, P30864, P45423, P52696, P67697, P67699, P71301, P76102, P76161, P76540, P76562, P77216, P77688, P77721, Q47083, Q47269
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 P0DPD0, P0DPD1
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 P0DPD0, P0DPD1
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+

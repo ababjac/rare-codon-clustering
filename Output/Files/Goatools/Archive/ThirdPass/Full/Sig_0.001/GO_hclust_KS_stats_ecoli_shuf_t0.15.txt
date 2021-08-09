@@ -1,0 +1,163 @@
+Cluster 1 - 
+
+Cluster 2 - 
+
+Cluster 3 - 
+GO:0012501	BP	e	programmed cell death         	2/2	9/3912	4.71e-06	3	2	0	 C1P607, C1P617
+GO:0008219	BP	e	cell death                    	2/2	10/3912	5.88e-06	2	2	0	 C1P607, C1P617
+
+Cluster 4 - 
+
+Cluster 5 - 
+
+Cluster 6 - 
+
+Cluster 7 - 
+
+Cluster 8 - 
+
+Cluster 9 - 
+
+Cluster 10 - 
+
+Cluster 11 - 
+
+Cluster 12 - 
+
+Cluster 13 - 
+
+Cluster 14 - 
+
+Cluster 15 - 
+
+Cluster 16 - 
+
+Cluster 17 - 
+
+Cluster 18 - 
+
+Cluster 19 - 
+
+Cluster 20 - 
+
+Cluster 21 - 
+
+Cluster 22 - 
+
+Cluster 23 - 
+
+Cluster 24 - 
+
+Cluster 25 - 
+
+Cluster 26 - 
+
+Cluster 27 - 
+
+Cluster 28 - 
+
+Cluster 29 - 
+
+Cluster 30 - 
+GO:0044419	BP	e	biological process involved in interspecies interaction between organisms	6/201	11/3912	6.36e-06	1	6	0	P05719, P15006, P29010, P33229, P37326, P76057
+GO:0003677	MF	e	DNA binding                   	21/201	136/3912	3.94e-06	4	21	0	P0CF41, P0CF43, P0CF44, P0CF45, P0CF91, P0CF92, P0CF93, P11866, P19768, P19769, P28912, P28917, P39360, P75974, P75993, P76062, P76196, P77688, Q46942, Q47152, Q47274
+GO:0003676	MF	e	nucleic acid binding          	24/201	175/3912	6.68e-06	3	24	0	P0A972, P0CF41, P0CF43, P0CF44, P0CF45, P0CF56, P0CF91, P0CF92, P0CF93, P11866, P19768, P19769, P28912, P28917, P39360, P75974, P75993, P76062, P76196, P77688, Q46901, Q46942, Q47152, Q47274
+
+Cluster 31 - 
+
+Cluster 32 - 
+
+Cluster 33 - 
+
+Cluster 34 - 
+
+Cluster 35 - 
+
+Cluster 36 - 
+
+Cluster 37 - 
+
+Cluster 38 - 
+
+Cluster 39 - 
+
+Cluster 40 - 
+
+Cluster 41 - 
+GO:0019637	BP	e	organophosphate metabolic process	22/414	60/3912	3.17e-07	4	22	0	P04079, P0A6I6, P0A6L0, P0A738, P0A763, P0A7D4, P0A7E9, P0A7F3, P0A9C9, P0A9M5, P0AG18, P13035, P15640, P16678, P16686, P16689, P16692, P17169, P27302, P62707, P68699, P69441
+GO:0006793	BP	e	phosphorus metabolic process  	23/414	64/3912	1.09e-06	3	23	0	P04079, P0A6I6, P0A6L0, P0A738, P0A763, P0A7D4, P0A7E9, P0A7F3, P0A9C9, P0A9M5, P0AC00, P0AG18, P13035, P15640, P16678, P16686, P16689, P16692, P17169, P27302, P62707, P68699, P69441
+
+Cluster 42 - 
+
+Cluster 43 - 
+GO:0003677	MF	p	DNA binding                   	28/1587	136/3912	2.92e-06	4	28	0	P06846, P0A6R3, P0A6Z6, P0A8N0, P0A8P6, P0AAR8, P0AC51, P0ACF8, P0ACG1, P0ACH8, P0ACI0, P0ACK5, P0ACK8, P0ACL2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0ACU2, P0AFT5, P16684, P33919, P37338, P67660, P76071, P77174, P77396, P77615
+GO:0003676	MF	p	nucleic acid binding          	43/1587	175/3912	8.64e-06	3	43	0	P02358, P06846, P0A6N4, P0A6R3, P0A6Z6, P0A705, P0A7L0, P0A7M9, P0A7T7, P0A832, P0A8N0, P0A8P6, P0A9X9, P0AAR8, P0AC51, P0ACF8, P0ACG1, P0ACH8, P0ACI0, P0ACK5, P0ACK8, P0ACL2, P0ACL5, P0ACL7, P0ACP5, P0ACQ0, P0ACU2, P0AFR4, P0AFT5, P0AGD7, P0AGK4, P16684, P33919, P37007, P37338, P42589, P62399, P67660, P68919, P76071, P77174, P77396, P77615
+
+Cluster 44 - 
+
+Cluster 45 - 
+
+Cluster 46 - 
+
+Cluster 47 - 
+
+Cluster 48 - 
+
+Cluster 49 - 
+
+Cluster 50 - 
+
+Cluster 51 - 
+
+Cluster 52 - 
+
+Cluster 53 - 
+
+Cluster 54 - 
+
+Cluster 55 - 
+
+Cluster 56 - 
+
+Cluster 57 - 
+
+Cluster 58 - 
+
+Cluster 59 - 
+
+Cluster 60 - 
+
+Cluster 61 - 
+
+Cluster 62 - 
+
+Cluster 63 - 
+
+Cluster 64 - 
+
+Cluster 65 - 
+
+Cluster 66 - 
+
+Cluster 67 - 
+
+Cluster 68 - 
+
+Cluster 69 - 
+
+Cluster 70 - 
+
+Cluster 71 - 
+
+Cluster 72 - 
+
+Cluster 73 - 
+
+Cluster 74 - 
+
+Cluster 75 - 
+
+Cluster 76 - 
+
+Cluster 77 - 
+
