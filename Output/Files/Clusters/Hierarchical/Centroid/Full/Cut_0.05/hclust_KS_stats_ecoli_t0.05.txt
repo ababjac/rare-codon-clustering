@@ -1,0 +1,585 @@
+Cluster 1 - 
+ynaE, ydfK, 
+
+Cluster 2 - 
+lit, waaL, 
+
+Cluster 3 - 
+ybcK, yddK, yhhZ, 
+
+Cluster 4 - 
+appY, ymfM, yqeJ, yjhB, 
+
+Cluster 5 - 
+yagL, trkG, yddJ, wbbI, yfbN, yfjW, yhiS, gadX, 
+
+Cluster 6 - 
+ymfE, ydcD, yhiJ, 
+
+Cluster 7 - 
+yadC, gloB, rfbX, yfcO, yffL, 
+
+Cluster 8 - 
+yfdL, waaO, 
+
+Cluster 9 - 
+yadM, ykfI, perR, yaiS, elfG, intR, ydeO, uspC, nac, yhaV, nlpI, gspL, yjjQ, 
+
+Cluster 10 - 
+insI-1, intF, ompT, ybeR, ycaI, bluF, ydaU, insI-2, ydcC, intQ, yeeO, intS, yfdH, evgS, abpB, ygaQ, yhhI, htrL, yjbI, insI-3, 
+
+Cluster 11 - 
+dgcT, wbbK, dinD, fecE, 
+
+Cluster 12 - 
+iprA, emrE, ybeU, sulA, msyB, yncG, ydeQ, elaD, yfdF, emrY, yfdE, intZ, intA, yfjI, intB, fimB, mcrC, 
+
+Cluster 13 - 
+ycfZ, yegR, 
+
+Cluster 14 - 
+pabC, sutR, gspA, adiY, hsdS, 
+
+Cluster 15 - 
+csgB, mqsA, 
+
+Cluster 16 - 
+insL-1, ykgA, insL-2, pgaD, ydeT, ydiV, insL-3, abpA, rnlA, cas3, ygeQ, yhbX, yjhC, 
+
+Cluster 17 - 
+insC-1, insC-2, insC-3, insC-4, insC-5, insC-6, 
+
+Cluster 18 - 
+yagM, ykgJ, yqeI, yjcF, yjgL, 
+
+Cluster 19 - 
+ybhM, glf, waaS, yjiC, 
+
+Cluster 20 - 
+yabP, rayT, ybdO, yehA, yfjH, yqeH, waaU, waaJ, 
+
+Cluster 21 - 
+ybfL, intE, 
+
+Cluster 22 - 
+mcrA, ynaA, yeeL, 
+
+Cluster 23 - 
+hprS, rfbC, 
+
+Cluster 24 - 
+sfmA, yjbM, yjcB, 
+
+Cluster 25 - 
+yahL, ypjB, casA, ygeG, yhaC, 
+
+Cluster 26 - 
+ycaK, ydeS, 
+
+Cluster 27 - 
+yagU, ydjE, yfcQ, yhaB, 
+
+Cluster 28 - 
+tomB, yecT, 
+
+Cluster 29 - 
+mqsR, ilvM, 
+
+Cluster 30 - 
+yafV, rplS, ygiL, 
+
+Cluster 31 - 
+ydjZ, rnc, 
+
+Cluster 32 - 
+eaeH, sdhC, sdhB, modE, yliI, ddpC, galF, lpxP, ygaZ, pdeH, alsK, insG, 
+
+Cluster 33 - 
+focA, ymfA, 
+
+Cluster 34 - 
+mltD, ybdF, yebZ, 
+
+Cluster 35 - 
+insB-1, insB9, insB-4, insB-5, insB-6, 
+
+Cluster 36 - 
+lolB, hcaR, 
+
+Cluster 37 - 
+tfaR, tfaQ, 
+
+Cluster 38 - 
+ftsQ, ybfF, yciB, leuE, gmm, pcm, yggS, aroB, 
+
+Cluster 39 - 
+yaiL, nadA, ydhJ, ynjF, syd, ygfI, yggR, mdtL, rhtB, treR, 
+
+Cluster 40 - 
+aroM, abgR, rimL, eamA, 
+
+Cluster 41 - 
+nth, yghS, 
+
+Cluster 42 - 
+gatR, xylF, 
+
+Cluster 43 - 
+ybjP, ydeE, 
+
+Cluster 44 - 
+ybgO, ycbK, holB, epd, 
+
+Cluster 45 - 
+pphC, yjjJ, 
+
+Cluster 46 - 
+mepS, yidB, 
+
+Cluster 47 - 
+ybhH, puuR, ydiB, ygjQ, 
+
+Cluster 48 - 
+gluQ, ydjX, ydjG, dgcJ, rpnE, rpnA, hdeD, yibH, tnaB, yihM, 
+
+Cluster 49 - 
+gadE, uspD, 
+
+Cluster 50 - 
+ddlB, ecpE, ecpB, yahE, nmpC, fes, ycaC, umuC, ycgR, dhaR, rssA, recT, paaA, ydcK, yddH, narU, ydiM, ydiP, sdiA, dacD, yeeE, wcaM, yehB, psuK, yejO, yfbU, yfdN, gcvR, rseA, nlpD, uacT, zupT, mtgA, yrdD, yhjY, xylH, waaC, dfp, recF, atpH, fdhD, glpF, queG, tsaE, yjfP, idnD, sgcR, yjiJ, 
+
+Cluster 51 - 
+yfcP, fucU, 
+
+Cluster 52 - 
+rimM, yjjB, 
+
+Cluster 53 - 
+araC, ilvI, hofC, sfsA, dgt, yafE, yafK, yafZ, insH-1, insB-2, insB-3, paoD, ecpD, pdeL, cynT, mhpB, frmB, yaiX, yaiT, araJ, ispA, cyoA, ampG, ybaE, fetA, tesA, rhsD, allD, ylbF, insH-2, ybdR, insH-3, seqA, ybfO, ybgA, mngB, cpoB, modF, bioC, ybiU, dgcI, ybjG, ycaD, ldtD, ycbX, hyaF, rutA, pgaC, flgL, phoQ, minC, chaA, insH21, oppB, clsA, yciC, cysB, ycjM, insH-4, abgT, dgcM, recE, paaD, paaG, paaH, paaJ, paaX, ydbA, ynbC, trg, ddpF, lsrK, tam, yneE, yneJ, ydeA, ydfI, ynfF, ynfM, tqsA, ydhK, ydhB, ydhT, ydhX, ydiN, btuD, cho, astE, ydjH, ydjI, yeaK, yeaX, nudL, rlmA, yebQ, yebS, rsmF, purT, yebK, otsA, yecA, pgsA, fliZ, dgcQ, hchA, amn, insH-6, yeeR, ugd, insH-7, asmA, yegI, rcnA, yehD, yehI, yejF, insH-8, ada, atoS, atoC, atoD, atoE, atoB, yfaQ, yfaL, arnB, elaA, lrhA, yfcD, argT, flk, mnmC, oxc, pdeA, ypfG, ypfJ, hyfA, hyfR, rodZ, csiE, rseB, ung, trmD, yfjP, yfjQ, yqaB, ygbI, ygbJ, ygcW, fucK, mutH, lysR, xdhA, yqeB, argO, mutY, insH-9, yghT, ygiS, nudF, ttdR, dnaG, yhaK, agaI, yraN, diaA, rlmE, dacB, insH-10, gspD, gspF, dam, glgX, insH-11, bcsE, tag, ghrB, xylR, malS, mtlR, waaH, ligB, dgoA, rfe, pldB, yihG, ompL, yihR, yihW, rhaD, cdh, thiH, rsd, tyrB, crfC, yjcZ, melB, dcuR, dtpC, yjeM, yjfK, yjhU, yjhG, yjiV, creB, 
+
+Cluster 54 - 
+insE-1, insE-2, insE-3, insE-4, insE-5, 
+
+Cluster 55 - 
+yfeC, ygcS, 
+
+Cluster 56 - 
+ssuE, cobS, 
+
+Cluster 57 - 
+ampE, mtn, paoB, ykgG, mak, ybjJ, pqiC, minD, chaC, lsrR, lsrD, dgcF, rspB, ynfL, ynjB, ydjA, flhA, fliL, yegW, pdeN, xapA, hcaF, glrK, tyrA, srlR, queE, kduI, yhbP, yiaJ, yigI, dcuS, epmA, yjiK, 
+
+Cluster 58 - 
+arfB, yecH, 
+
+Cluster 59 - 
+dsbC, asd, 
+
+Cluster 60 - 
+thrB, yaaJ, rihC, ftsA, yadE, hrpB, sbcC, ribD, fetB, ybbW, ybbY, uspG, hscC, phr, ybgQ, mngR, pnuC, gsiA, pdeI, ybjT, ybjD, macB, lpxK, ssuB, pyrD, yccS, helD, mgsA, yceA, solA, mltG, ycfT, lolC, beeE, dhaL, pth, ychQ, narX, oppD, trpC, yciV, lapB, yciT, ycjV, ycjY, dbpA, insH-5, aldA, opgD, tehA, yncD, nhoA, dosC, gadC, yddB, glsB, dcp, ydfJ, nohA, speG, mlc, hdhA, malY, ydgJ, rsxD, ydhV, ppsR, pfkB, yeaG, pdeD, proQ, ptrB, znuC, cheB, tar, flhC, yegV, yehP, yeiB, rihB, yeiQ, yejA, rcsD, rcsC, yfaS, yfaA, yfaZ, yfbR, yfcF, hisQ, truA, yfcJ, yfcU, fadI, dsdA, xapB, yfeR, pdxK, murR, hyfB, focB, pdeF, pbpC, yphB, nadB, patZ, pheA, nrdF, hypA, ygbK, rlmD, amiC, recD, ptrA, argP, loiP, yggI, yqgA, yghQ, yqhC, ygiW, yqiK, ttdA, ebgC, agaR, agaC, folP, nanK, dcuD, zapE, yhdE, acrE, rplR, kefB, prkB, glgA, yhhS, hdeB, bcsQ, bcsG, yiaL, yicJ, kup, rffT, aslB, pldA, ubiB, yiiG, yijF, argE, btuB, lamB, malM, mdtO, basS, adiC, yjfM, cycA, ytfF, ytfQ, ytfR, yjfF, sgcC, yjhP, hypT, slt, creC, 
+
+Cluster 61 - 
+nhaA, thiQ, yadN, prfH, ykfA, ecpC, ykgF, mhpT, thiL, pdeB, ybaP, glsA, ybbA, allS, cusS, fepE, rlmH, lptE, abrB, mngA, ybhK, lysO, ybjX, cydC, cydD, ycaP, ssuA, zapC, ycbZ, ghrA, ycdX, csgG, pyrC, flgI, dhaM, prmC, oppC, oppF, yciF, pyrF, pspF, ycjG, abgB, ydbH, paaZ, pdxI, ydcJ, ydcR, ydcT, mnaT, curA, narV, lsrB, marA, gstA, anmK, lhr, fadK, ydiU, chbG, dmlA, yecM, fliA, yedK, fliH, yedP, yeeP, yeeY, yegS, gatD, gatY, yehM, yehQ, btsS, yohF, sanA, nupX, yeiR, yejE, ccmB, atoA, yfaP, yfaU, nudI, ais, arnT, menE, menF, yfcA, fadJ, frc, zipA, xseA, yfhR, qseG, rpoE, dgcN, yfjY, gabP, nrdI, proV, ascG, ispD, ygdG, ygeR, ygfT, idi, yqgF, yggM, yghF, qseC, ygjJ, ygjV, aaeA, csrD, acrF, fmt, gspE, kefG, hofQ, hofM, yrfG, bcsZ, yhjV, xylG, yicN, adeQ, yieH, bglB, bglF, mioC, rbsK, yihN, frvR, rhaR, thiF, yjaG, yjdN, dsbD, yjeH, hflX, idnT, yjhF, yjhH, fimH, lgoT, yjjP, fhuF, creD, 
+
+Cluster 62 - 
+eamB, birA, 
+
+Cluster 63 - 
+torT, osmF, 
+
+Cluster 64 - 
+ykgE, mpaA, ydhP, yrbL, 
+
+Cluster 65 - 
+chbR, yihO, 
+
+Cluster 66 - 
+rluE, rpsG, 
+
+Cluster 67 - 
+motA, nepI, 
+
+Cluster 68 - 
+yaaA, fixA, pdxA, lptD, cra, dxr, ldcC, insF-1, yahK, codB, insF-2, insF-3, fepB, ybdL, dpiB, ybhP, cecR, ybiX, rlmF, ybiR, ybjI, ybjL, serC, pncB, torD, insF-4, yceM, ycfH, jayE, ompW, ribA, sapA, paaC, yddE, ynfG, uidB, dgcP, tsaB, mntP, cheW, fliC, yedJ, wcaD, insF-5, fbaB, mglA, eco, glpB, yfcE, smrB, hyfJ, yphF, yfhH, recO, nadK, truD, cysC, fucR, ssnA, fldB, cmtA, glcE, glcD, yghO, exbD, dkgA, yqhG, patA, mlaE, sspB, frlR, yhhQ, yhhT, wecH, sgbE, selA, yibQ, yidJ, yidP, hemX, yigE, ysgA, yihT, frvA, cpxR, ftsN, yijO, yjaH, ubiA, alsA, epmB, aidB, yjjU, yjjW, 
+
+Cluster 69 - 
+yaaW, nlpE, trmO, dgcC, opgE, cmk, zntB, fliO, yeeZ, thiD, cysZ, yfjR, ygcR, fucA, ygfB, plsC, higA, mlaF, secY, yjdP, holD, 
+
+Cluster 70 - 
+csgA, yeaQ, cvpA, argR, rplX, yihU, 
+
+Cluster 71 - 
+udk, yfiC, 
+
+Cluster 72 - 
+yacL, hfq, 
+
+Cluster 73 - 
+thpR, lrp, 
+
+Cluster 74 - 
+yahC, feaB, ydiY, 
+
+Cluster 75 - 
+yccM, ychN, tonB, lapA, yfaX, yggC, pppA, yrdA, yidH, cbrC, hdfR, yihY, fieF, 
+
+Cluster 76 - 
+btuF, yafD, ykfG, yaiP, ybaQ, allR, sfmD, sfmH, cobC, holA, zitB, ybgS, rhtA, ycbJ, elfC, pqiA, yceD, ispE, ychE, abgA, uspF, ddpX, pqqL, clcB, ydgD, malI, ydhQ, nlpC, yniA, ydjK, rfbA, rfbB, yegJ, lpxT, menH, dsdC, dsdX, ygbN, yrbG, rsmB, yiaU, yieP, srkA, yihL, murB, zraS, yjbG, fxsA, yjgM, sgcE, sgcQ, mrr, 
+
+Cluster 77 - 
+opgC, gspK, 
+
+Cluster 78 - 
+paaF, ydhU, 
+
+Cluster 79 - 
+ydeJ, nanS, 
+
+Cluster 80 - 
+ydaW, fecI, 
+
+Cluster 81 - 
+yagB, thiK, ynjD, wzzB, ypeA, lptC, dusB, yhdZ, gadW, iraD, 
+
+Cluster 82 - 
+rseP, ydcF, yjcO, 
+
+Cluster 83 - 
+bioD, bax, 
+
+Cluster 84 - 
+insA-1, insA9, insA-5, insA-6, 
+
+Cluster 85 - 
+mdtI, ygaV, gspG, 
+
+Cluster 86 - 
+sxy, gcvA, 
+
+Cluster 87 - 
+ihfB, ymdB, eutK, rpiB, 
+
+Cluster 88 - 
+ybhL, uvrY, 
+
+Cluster 89 - 
+nhaR, ispU, dnaQ, ykfC, yagJ, paoA, cynR, cof, tfaD, lipB, djlB, ybgP, appA, clsC, mdtG, flgA, tfaP, hlyE, ychO, pdeR, puuD, ynbD, cybB, ydcO, yddG, ydeM, ydfU, tus, uidC, btuC, cdgI, torY, fliK, msrQ, yegX, yfcG, yfdR, pgeF, ygbM, yqeF, yqeG, ygeV, xanQ, plsY, yraH, yraJ, yhbE, yhdX, aroE, hofO, yhgE, yiaA, xylB, yiaW, waaB, yidG, dgoK, yifB, yihF, murI, coaA, pdeC, alsR, idnR, sgcA, sgcX, fimI, yjtD, 
+
+Cluster 90 - 
+hofB, cdsA, ykiA, citX, ynfH, hyfI, gspJ, bglG, yiiM, 
+
+Cluster 91 - 
+pinE, ydcI, ydeP, sbmC, tmcA, bglJ, 
+
+Cluster 92 - 
+pinR, pinQ, 
+
+Cluster 93 - 
+aes, yddA, ydfN, nimT, yfdV, fimF, 
+
+Cluster 94 - 
+ybgE, ycfP, ymfL, rzpR, ynfD, shiA, ldtA, yfeD, yfeS, tsaC, gspH, tusD, lgoR, 
+
+Cluster 95 - 
+rppH, mzrA, zntR, 
+
+Cluster 96 - 
+setA, leuO, htrE, yadV, rclA, yajI, acrR, envY, ybeF, djlC, ybgD, aat, gfcC, phoH, plsX, ycgV, rssB, insZ, kch, yciW, stfR, paaI, ynbB, insQ, yddW, dgcZ, ydfT, ydfE, ydhW, ldtE, ydjM, cutC, yeeJ, cbl, yfbV, rpnB, yfdK, yfeO, yfiE, ratA, ypjA, ygaP, iap, casC, fucP, ygfX, yraI, yhcD, yhcG, waaQ, yicR, yidL, hsrA, miaA, bdcA, fimD, 
+
+Cluster 97 - 
+yeiL, hofN, 
+
+Cluster 98 - 
+insA-2, insA-3, 
+
+Cluster 99 - 
+gspO, idnK, 
+
+Cluster 100 - 
+insD-1, insD-2, insD-7, insD-3, insD-4, insD-5, insD-6, 
+
+Cluster 101 - 
+mtfA, yjaZ, 
+
+Cluster 102 - 
+sfmC, ybfD, ycgX, yodB, yfbP, xapR, yhcE, waaZ, waaP, yjhR, 
+
+Cluster 103 - 
+ykgH, dsbG, yqiG, nanM, 
+
+Cluster 104 - 
+ydhS, kgtP, 
+
+Cluster 105 - 
+rpnC, yagP, ybhD, ycdU, csgD, yciQ, pgrR, feaR, cobT, yfbK, eutP, fau, tdcA, hemD, ampC, ytfI, 
+
+Cluster 106 - 
+yzfA, fimE, 
+
+Cluster 107 - 
+yafS, yahN, elfA, stfE, ycgY, mcbR, zinT, emrK, waaG, 
+
+Cluster 108 - 
+yacH, rclR, pgaB, pgaA, yciE, pgpB, ydbD, ynbA, ydeN, hipA, ydjF, yeaE, yeeN, rfbD, thiM, yfbL, evgA, yqeC, mocA, yqiJ, yhcH, envR, hofP, yhiM, setC, arpA, cadC, insO, fimC, mcrB, 
+
+Cluster 109 - 
+lacA, elfD, pdeG, wbbL, cas1, waaY, bdcR, 
+
+Cluster 110 - 
+hicB, tusB, 
+
+Cluster 111 - 
+fimZ, ybeT, 
+
+Cluster 112 - 
+ykfJ, nimR, 
+
+Cluster 113 - 
+ybdN, tolA, rcdA, wcaF, cpxP, 
+
+Cluster 114 - 
+ldrA, ldrC, 
+
+Cluster 115 - 
+wrbA, slyB, yqcC, iclR, 
+
+Cluster 116 - 
+fdx, kbp, 
+
+Cluster 117 - 
+garL, ahr, 
+
+Cluster 118 - 
+hcxB, aqpZ, kdsB, yqhA, 
+
+Cluster 119 - 
+cynX, ydaV, ddpB, cbtA, hxpA, fkpA, cbrA, yihV, kdgT, 
+
+Cluster 120 - 
+alaA, fpr, 
+
+Cluster 121 - 
+mutT, nikR, yjdC, 
+
+Cluster 122 - 
+thrA, caiT, fixC, yaaU, rsmH, murF, murG, nadC, ampD, speE, yadG, yadS, cdaR, dnaE, tilS, yafJ, dinB, yagA, mhpD, yaiO, sbmA, phoA, sbcD, tgt, panE, yajR, acrA, fsr, ylbE, nohD, ybcH, nfrB, cusC, ybdK, fepC, hcxA, ybdM, mrdB, gltJ, ubiF, chiP, kdpD, kdpC, rhsC, pxpA, tolB, galM, ybhA, ybhN, clsB, ybhR, ybhG, dinG, ybiB, gsiC, gsiD, poxB, ftsK, rarA, ycaL, elyC, matP, appC, gfcD, torS, rutF, rutD, ycdZ, opgG, mdtH, murJ, flgD, flgK, rluC, ldtC, phoP, cvrA, treA, oppA, yciK, acnA, sapC, puuA, ycjT, ycjU, ompG, ycjW, ycjX, ycjF, ynaI, tynA, ydcS, patD, narW, fdnH, adhP, ddpA, dosP, lsrA, lsrC, sad, rspA, ynfE, ynfK, fumC, uidA, malX, add, nemR, ydhC, cfa, ribC, sufS, ydiJ, ydiK, aroD, aroH, thrS, katE, chbF, astB, ynjC, gdhA, ansA, ydjL, rnd, yeaY, pabB, manX, prc, edd, flhB, cheR, tap, araH, araG, fliD, amyA, msrP, flu, sbcB, wza, yegH, dgcE, mdtD, gatZ, yegT, cdd, preA, yeiE, yeiI, psuT, yejM, rcsB, glpQ, yfaV, menD, yfcC, yfcH, hisM, hisJ, dedD, fadL, ypdF, fryC, mntH, eutD, aegA, acrD, dapE, dapA, hyfC, hyfD, hyfF, uraA, ppx, yfgM, sseA, hcaT, hcaD, yphH, mltF, pssA, ffh, ypjD, recN, norR, ygbL, rpoS, umpG, ygcN, ygcE, barA, gudP, queF, ppnN, fucO, fucI, argA, recB, recC, ptsP, ygdQ, tas, lplT, aas, xdhB, ygeX, ygfK, recJ, ubiH, yggE, yggP, speC, glcA, glcC, pitB, metC, ftsP, ttdT, nfeF, fadH, cyuA, tdcG, garK, ispB, rapZ, aaeB, aaeR, yhdP, panF, rpsD, rplC, chiA, yheO, yhfK, tsgA, frlA, yhfZ, gph, damX, igaA, glgB, gntR, ugpA, rhsB, rbbA, pitA, rsmJ, mdtF, yhjG, yhjJ, bisC, yiaK, yiaN, yiaV, rhsA, lldP, lldR, waaF, waaA, trmH, yicH, yicI, dnaA, mnmE, yieK, viaA, rbsC, rbsR, wzzE, wecB, wzxE, aslA, dapF, yigB, metR, yiiD, rhaB, cytR, pflD, metA, aceK, yjbB, yjbF, qorA, nrfC, nrfE, mdtP, mdtN, alsE, alsC, alsB, cadB, yjeJ, nnr, ytfT, lptF, yjgR, fecB, uxuR, yjiG, yjiH, lgoD, 
+
+Cluster 123 - 
+lpxD, xynR, ybbO, glxK, rihA, hyaD, ldcA, trpA, paaK, rsxE, yegL, mrp, yfeH, hyfH, smpB, ebgR, psiE, blc, ulaR, 
+
+Cluster 124 - 
+hflD, ycgN, alkB, hscB, qorB, 
+
+Cluster 125 - 
+secF, thiE, 
+
+Cluster 126 - 
+mog, ribF, sgrR, clcA, glnD, dkgB, paoC, ddlA, phoB, yajO, fdrA, ybcF, nfrA, cusR, entS, dcuC, macA, ycaM, ycaQ, ssuD, hyaA, efeB, grxB, flgJ, fhuE, potA, ycgM, dhaK, purU, mppA, ydcV, ddpD, rrrQ, dmsD, rstB, rsxA, rsxC, sufB, ydiF, ydiS, ydjJ, dmlR, yeaV, yoaA, kdgR, cheZ, cheA, tyrP, fliP, yeeA, yehL, mglC, nfo, yfaY, arnD, hisP, ubiX, yfcS, sixA, mlaA, yfdC, narQ, ispF, ygcQ, mazG, ppdB, kduD, hyuA, ghxQ, xerD, tdcD, yraQ, kdsD, rpoN, degQ, yhdJ, trkA, php, yhfX, glpG, yhiN, dtpB, mdtE, ccp, yhjC, lyxK, yicG, adeD, uhpC, yidR, tatD, fre, rhaT, yiiX, nrfG, amiB, argI, mdtM, yjjV, 
+
+Cluster 127 - 
+frsA, cynS, yaiW, ybaK, pxpB, bioF, potI, dadX, ychA, tyrR, astD, znuB, yedA, dusC, yqfA, gmk, ytfB, idnO, fimA, rimI, 
+
+Cluster 128 - 
+can, ybaT, tolQ, ompX, nagK, alkA, arnC, yfbS, mepA, glk, talA, sseB, guaD, gpr, yhdY, yhfS, rhaS, yjfJ, 
+
+Cluster 129 - 
+dapB, setB, rsmG, dinF, 
+
+Cluster 130 - 
+chbC, aphA, 
+
+Cluster 131 - 
+csiD, stpA, 
+
+Cluster 132 - 
+artJ, rutG, yceB, ftnB, uspA, 
+
+Cluster 133 - 
+ybaY, sohB, yqiA, nirC, dnaT, 
+
+Cluster 134 - 
+tsx, iaaA, gfcE, fliR, yqjA, 
+
+Cluster 135 - 
+wzb, rsmE, 
+
+Cluster 136 - 
+yaeR, yqfB, 
+
+Cluster 137 - 
+torR, agaV, yigA, 
+
+Cluster 138 - 
+fnr, glvG, 
+
+Cluster 139 - 
+aroA, potB, paaE, aroC, nrfA, ulaF, 
+
+Cluster 140 - 
+fepD, moaA, 
+
+Cluster 141 - 
+pgpA, ssuC, osmC, nuoE, cysK, nudK, yhjE, nrfB, 
+
+Cluster 142 - 
+rsxB, exuR, ugpQ, nikE, 
+
+Cluster 143 - 
+sapF, ypfH, pstB, 
+
+Cluster 144 - 
+mhpF, hcr, ompF, fabD, nagZ, yehY, yhaJ, thiG, 
+
+Cluster 145 - 
+ycjP, pntA, fliN, baeR, ompC, folC, rimP, fis, ibpB, lexA, rsmC, 
+
+Cluster 146 - 
+tauD, wcaB, yqcA, 
+
+Cluster 147 - 
+zapD, ybjN, melA, 
+
+Cluster 148 - 
+araB, thiB, ftsZ, fhuA, lpxB, phoE, yahB, lacI, tauA, ampH, phoR, gltK, kdpE, pxpC, uvrB, ybhF, fiu, moeB, rimK, etk, torC, flgE, flgH, fabH, fabF, ymfQ, dauA, btuR, sapB, manA, astA, topB, yeaL, lpxM, uvrC, wcaL, wcaK, btsR, yehW, radD, yejK, napG, mqo, pdxB, yfdQ, ypdC, ptsI, yfeY, hemF, bepA, yfhM, lhgO, emrB, yqcE, galR, yqeA, xdhD, scpC, yggW, cpdA, cca, ygjI, cyuP, garP, garD, yhbW, rplM, frlD, ggt, rsmD, selB, cysE, spoT, uhpB, yidE, mnmG, rffM, xerC, trkH, glnL, fdoH, pflC, rplA, nfi, malK, dnaB, rsgA, 
+
+Cluster 149 - 
+nfsB, yedD, rpsL, ytjC, 
+
+Cluster 150 - 
+rutE, rutR, tcyN, yfjS, agaA, rpoA, 
+
+Cluster 151 - 
+ybaN, yqjG, 
+
+Cluster 152 - 
+carA, caiC, speD, panB, mmuP, ecpA, lacY, mhpR, tauB, hemB, malZ, mdlA, allA, allE, allC, fepG, ybeX, umpH, galK, galT, mdfA, rlmC, dmsC, pflA, agp, rutB, opgH, flgG, ymfN, aaaE, dadA, narK, sapD, smrA, ttcA, ompN, ydcU, sodC, rnt, mepH, btuE, ydjY, ynjA, ynjE, yeaH, fadD, manZ, yebT, exoX, mepM, yedI, yehX, napC, rbn, nuoB, amiA, eutR, bamC, hisS, yfjD, nrdE, proW, srlA, srlD, norW, hypF, hycB, relA, gudX, truC, araE, ygeW, scpA, argK, mscS, yghJ, hybE, hybO, yghB, tolC, rlmG, yhbU, lptA, lptB, nanA, nanR, mreC, yhfW, envZ, malQ, glgP, ugpB, yiaF, yiaO, yiaY, trmL, gpsA, envC, emrD, dgoR, yieL, bglH, ravA, hemC, cyaA, rmuC, rhaA, sbp, menA, sthA, xylE, yjfC, tamB, opgB, lplA, rob, 
+
+Cluster 153 - 
+menC, rplF, fic, 
+
+Cluster 154 - 
+ybgI, potH, cysQ, 
+
+Cluster 155 - 
+ydgI, ftnA, ygfM, bacA, 
+
+Cluster 156 - 
+folM, yghU, ygiB, alx, 
+
+Cluster 157 - 
+thrC, dnaJ, rsmA, polB, araD, yabI, thiP, ftsI, lpxC, guaC, cueO, yadH, rpsB, bamA, metN, proA, yagG, yagH, betT, prpR, codA, cyoE, mdlB, acrB, mscK, dnaX, dnaX, hemH, gsk, ybaL, ybbP, lpxH, cusB, ybdG, entF, entE, citT, citC, dacA, gltI, fldA, speF, kdpA, sucA, cydA, aroG, modB, pgl, ybhI, ybhJ, ybhB, ybiO, gsiB, dacC, nfsA, potF, potG, amiD, ybjS, ltaE, clpA, msbA, mukF, mukE, aspC, pqiB, ompA, rlmI, hyaB, torA, rne, tmk, lolE, nhaB, fadR, ycgB, hemA, galU, adhE, trpE, fabI, puuP, ycjN, ycjO, ydbK, rlhA, ansP, narZ, lsrF, marC, ydgH, ydgA, ydhF, mdtK, sufD, ydiR, ppsA, nadE, astC, sppA, manY, htpX, yebE, pykA, ruvB, dcyD, fliF, hisD, wcaA, mdtA, yegQ, cirA, psuG, fruB, bcr, rsuA, yojI, glpT, rhmD, ypdA, ypdE, murP, yfeW, eutL, eutB, eutA, eutH, eutJ, tktB, hyfG, yfgO, ppk, yphD, yphE, yphG, glrR, aroF, emrA, mltB, norV, fhlA, cysJ, ygcP, csdA, lgt, lysA, ubiI, scpB, fbaA, pgk, yggF, speA, endA, ansB, mltC, glcF, glnE, tsaD, tdcB, agaS, kbaY, lpoA, arcB, nanT, rng, yhdH, fusA, cysG, yhfT, rpe, mrcA, malT, rtcA, rtcR, glgC, yhhX, livK, ftsX, ftsE, ftsY, zntA, yhhJ, yhiI, arsB, treF, yhjD, dctA, pdeK, bcsC, eptB, xylA, avtA, yibF, recG, gltS, yidK, glvC, yidZ, asnA, rbsA, rbsB, rep, gpp, rhlB, wecC, wzyE, ubiJ, tatC, polA, yihA, yihP, yihQ, fdoG, tpiA, priA, ptsA, trmA, zraR, aceB, rluF, lysC, plsB, dusA, alr, yjcE, phnD, proP, adiA, lysU, mscM, psd, mutL, rlmB, cpdB, tamA, fbp, treB, mgtA, pyrB, fecR, yjiN, tsr, yjjG, nadR, creA, 
+
+Cluster 158 - 
+ygcU, rph, deoD, 
+
+Cluster 159 - 
+tsf, yhhN, 
+
+Cluster 160 - 
+ruvA, degS, frvB, 
+
+Cluster 161 - 
+rpsE, glnA, 
+
+Cluster 162 - 
+leuA, lpxA, afuC, ylaC, glxR, entB, galE, artI, serS, trpB, maeA, wcaC, ispG, lepA, proX, sdaB, glmM, yhjX, gpmM, yicC, yidA, nrfD, efp, hflC, ulaA, 
+
+Cluster 163 - 
+lpcA, yahJ, amtB, bioB, roxA, fliI, narP, ucpA, purM, hcaB, hypD, hypE, rlmM, ygfZ, nupG, qseB, ribB, rpsC, yheS, nfuA, livM, pyrE, yifK, hslV, malG, phnN, pyrI, osmY, 
+
+Cluster 164 - 
+secB, secE, 
+
+Cluster 165 - 
+metI, potE, 
+
+Cluster 166 - 
+queC, folD, uup, prfA, hisC, hisI, yohC, ccmH, napH, ygiF, yheT, livG, rho, 
+
+Cluster 167 - 
+caiB, caiA, fixB, kefC, apaH, djlA, rluA, ftsW, murC, aroP, aceF, panC, pcnB, mrcB, fhuB, skp, lfhA, proB, yahF, yahI, prpD, prpE, lacZ, mhpE, frmA, tauC, brnQ, queA, secD, ushA, copA, cueR, selU, gcl, cusA, pheP, entC, mrdA, lnt, asnB, nagA, dtpD, pal, modA, ybhC, bioA, ybiY, fsaA, moeA, dmsA, ycaO, rpsA, asnS, putA, efeO, lpxL, mfd, cobB, potD, purB, mnmA, prs, kdsA, trpD, yciO, topA, rnb, puuC, puuE, ycjQ, tpx, hrpA, yncE, narY, fdnG, ydfG, pntB, fumA, dtpA, pdxY, tyrS, nemA, ydiO, tcyP, selD, yeaD, mipA, yeaW, sdaA, yoaE, cmoB, torZ, argS, dcm, hisF, gnd, wcaJ, fcl, mdtB, mdtC, baeS, bglX, dld, mglB, yeiH, fruK, ubiG, glpC, arnA, nuoN, nuoI, purF, accD, usg, fabB, ligA, crr, cysM, murQ, eutG, eutE, hyfE, der, bamB, hmp, era, lepB, srmB, clpB, rluD, gabT, gshA, alaS, recX, ascB, hycH, cysN, eno, pyrG, thyA, bglA, metK, galP, glcB, gss, hybA, ygiQ, mdaB, parE, rfaE, ygiM, nfeR, aer, ebgA, ygjK, ygjR, tdcC, rsmI, yhbV, ftsH, yhcC, nanE, tldD, rplB, argD, pck, rtcB, gntU, nikD, prlC, rlmJ, bcsA, dppF, dppB, sgbU, mtlD, lldD, uhpA, dgoT, dgoD, adeP, pstS, atpA, ilvD, ilvA, rffH, uvrD, corA, rarD, recQ, rhtC, udp, ubiE, hemN, glnG, yihS, fdhE, frvX, glpK, metB, gldA, argB, rpoB, thiC, purH, metH, pepE, yjbH, malF, malE, zur, uvrA, ghxP, fdhF, phnI, basR, dcuA, aspA, ulaG, ulaE, ytfL, pmbA, pepA, fecC, fecA, gntP, iadA, yjiM, yjiR, hsdR, dnaC, yjjI, radA, 
+
+Cluster 168 - 
+oxyR, ulaC, 
+
+Cluster 169 - 
+ybjO, hycI, 
+
+Cluster 170 - 
+proS, yajL, gltL, gpmA, narJ, fdnI, cysH, trmI, rpoH, slmA, yigL, hslU, frdA, 
+
+Cluster 171 - 
+surA, hisB, aldB, 
+
+Cluster 172 - 
+talB, mmuM, 
+
+Cluster 173 - 
+yahG, cnoX, citF, citE, cbpA, prmB, ypdB, yggN, nusA, frlB, yhgF, fadB, hemE, hsdM, 
+
+Cluster 174 - 
+dnaK, ileS, ispH, araA, leuB, murE, mraY, murD, aceE, lpd, gcd, fhuC, hemL, pyrH, metQ, fadE, yagE, yagF, betA, prpB, prpC, mhpA, proY, dxs, thiI, cyoB, tig, clpX, lon, ppiD, apt, ppiB, cysS, fepA, lipA, leuS, ybeZ, miaB, nagC, nagB, nagE, pgm, kdpB, sucC, sucD, cydB, modC, ybhS, ldtB, ybiW, hcp, trxB, pflB, pepN, rlmL, putP, ptsG, ndh, icd, dsbB, ychF, narG, pspA, ldhA, gadB, uxaB, ydfH, purR, pykF, pheS, xthA, zwf, araF, yedE, fliG, wzxC, cpsG, cpsB, wcaI, gmd, wzc, metG, pbpG, ccmF, ccmE, ftp, gyrA, glpA, nuoM, nuoL, nuoJ, nuoH, nuoG, nuoC, ackA, alaC, fryA, nupC, gltX, cysW, maeB, guaA, rlmN, pepB, iscS, trmJ, yphC, glyA, purL, yfiF, gutQ, ascF, hycG, hycC, mutS, cysD, cysI, gudD, sdaC, tcdA, mltA, ygeY, lysS, pepP, serA, tktA, speB, gshB, hybC, hybB, yqhD, parC, sstT, uxaA, exuT, tdcE, garR, kbaZ, mtr, pnp, truB, infB, argG, obgE, murA, mlaC, gltB, sspA, mreB, accC, prmA, rplP, tufA, trpS, feoB, malP, yhhW, ugpC, nikA, gadA, bcsB, dppD, dppA, mtlA, tdh, kbl, rfaD, xanP, uhpT, ilvB, gyrB, yidC, pstC, glmU, atpD, rffG, hemY, bioP, metE, fadA, bipA, cpxA, glpX, metL, katG, frwC, eptC, ppc, argH, tufB, aceA, pgi, actP, acs, yjcS, phnL, phnK, dcuB, cadA, nrdD, lptG, prfC, deoB, 
+
+Cluster 175 - 
+map, yaeQ, prfB, arcA, 
+
+Cluster 176 - 
+atpG, phnP, 
+
+Cluster 177 - 
+cmoA, melR, 
+
+Cluster 178 - 
+ruvC, rdgB, 
+
+Cluster 179 - 
+dps, purA, 
+
+Cluster 180 - 
+leuD, fumB, 
+
+Cluster 181 - 
+purK, ccmG, 
+
+Cluster 182 - 
+puuB, eutT, luxS, glpD, glyQ, ubiD, ytfE, 
+
+Cluster 183 - 
+ybiT, pepT, yejB, 
+
+Cluster 184 - 
+greA, tnaA, 
+
+Cluster 185 - 
+qmcA, upp, yhcB, livJ, 
+
+Cluster 186 - 
+yebC, groL, 
+
+Cluster 187 - 
+leuC, acnB, mhpC, yajG, sdhA, mukB, narI, yegD, cysP, gcvP, rpoD, mdh, pstA, pepQ, gltP, phnM, valS, uxuA, yjiA, ettA, 
+
+Cluster 188 - 
+carB, rapA, glyS, ilvC, sodA, uxuB, 
+
+Cluster 189 - 
+rhlE, cysA, 
+
+Cluster 190 - 
+secA, degP, dapD, betB, htpG, allB, cstA, ahpF, gltA, glnQ, rimO, potC, pheT, eda, aspS, fliM, plaP, lysP, fruA, yeiP, ccmC, napA, nrdA, menB, nuoF, pta, eutC, guaB, hscA, gabD, hydN, gltD, nirB, gntT, gor, glmS, pfkA, rpoC, purD, orn, hflK, rnr, ulaD, mpl, btsT, deoC, deoA, serB, 
+
+Cluster 191 - 
+pepD, yccA, 
+
+Cluster 192 - 
+gloC, phnG, 
+
+Cluster 193 - 
+sodB, ptsN, 
+
+Cluster 194 - 
+narH, uxaC, deaD, 
+
+Singletons - 
+arfA, yoeI, ythA, ynaM, yncL, ynfT, tpr, leuL, ylcH, ynfS, yobI, idlP, ynbG, ymgK, ilvX, ibsB, yliM, pheL, yabR, yacM, ysdD, ylcJ, ygiZ, yibV, ymjE, ydaS, ypdJ, ykfM, ybfB, yafF, yneP, ymgL, ynfR, mgtL, ilvL, yjiX, mokC, yqeK, xisE, ymfJ, wbbH, yfdI, ygeO, csgC, ymfD, yibG, yjfZ, yjbT, yedX, ykgL, iraM, ybcM, yecU, yrbN, iraP, ydfX, cas2, rzoD, wbbJ, ypaB, yafN, yfjJ, ybfC, ymfH, ygeK, yigG, ydfO, ychS, yahM, ymgJ, dicC, yodC, tdcR, rem, yqgC, yrhA, yiiF, yehK, ylcI, yncO, yceQ, ydfW, rseD, ydjO, insK, ybbC, ymgA, yfdG, ymcE, yadK, ydfV, yagN, ybcL, gspC, casD, yibA, intD, ynjI, ygeH, yjiT, yadL, ypjC, sieB, ygeP, hokD, yhfG, ygeI, yjbS, yrhD, ghoS, ralR, hokC, yaeP, yafQ, xisD, yegZ, ylbH, yqgB, ivbL, yciX, yehE, csgE, yfcR, yqiH, yfjT, insN, ychJ, yjgN, intG, ytcA, hprR, gatA, ybfP, yfiM, yafT, yraK, znuA, yehF, entD, yqaA, pliG, smf, yhhH, mbiA, ycgJ, gspB, cbrB, ydbL, yaiA, yqfE, ybcQ, ydiZ, yciI, yjhE, ppdC, gspM, bssS, clpS, yojO, yffQ, fimG, yiiE, priB, racR, casE, gfcA, ymfK, ydeR, yoaL, yffO, dicA, ygcG, yccE, ycfK, yneK, yqiI, ybfK, ybfG, ymgC, relE, rzpQ, flhE, yjhI, ydhR, ymfI, mokB, yfjM, yigF, ymgM, ybcV, ykgV, rclB, casB, rzoR, xisR, hokA, yobH, ygeL, yafU, bsmA, yffR, yfbO, yedR, ycbU, sfmF, yeaR, renD, yaaY, yafO, ydbJ, yfaH, yiaB, yceO, yciY, ogrK, yqhH, cspE, marB, ymgI, ytfK, yoeF, yidD, insJ, ariR, ydfB, ninE, ytiD, ycgZ, ygdT, ghoT, ylcG, ymdE, sgrT, essQ, yldA, yniD, yjaB, yjgZ, ydfD, ykfB, ypfN, pptA, hokB, pyrL, yshB, yohP, ykfN, yahV, ybgU, yqfG, appX, yadW, uof, yqfH, ibsA, ykgS, alpA, ibsD, ttcC, hisL, yjeV, ibsC, ibsE, blr, yqhI, yncH, ypdI, yjjY, yqeL, ydaG, ynfP, pheM, azuC, ykgP, yibT, rhoL, ykiD, ykiC, ynfQ, ymjD, ynhF, yddY, erpA, yjbJ, thrL, rpmI, yoaJ, ypfM, ykgR, mgtS, ypdK, dinQ, sra, yjjZ, gnsB, topAI, yejL, ynjH, yhhA, hha, cspF, yoaH, ybdD, ymdF, cydX, ypjJ, ymjB, tisB, ytiC, pmrR, yhaL, yqgD, yrdB, napF, yphA, rnpA, yjbQ, yghD, dpiA, pspE, ynaK, thiS, yghG, ymiA, ykfH, yjhD, ecnB, glgS, bolA, ydaF, yeeW, yhjR, tatA, yacG, ypeB, rplL, yccJ, yoaF, ymgG, hda, mprA, ydcZ, aroL, citG, ygjP, yhgN, fliT, yecF, yjdI, wcaE, cmoM, ybeD, cspI, rof, paaY, elaB, zraP, yjeI, ydhY, ihfA, yfaT, acpT, flgC, rnk, yciN, rpmD, sufA, panZ, yibJ, rfaH, yfjX, yjfL, mug, minE, srlB, pspD, yhdU, yidQ, yifL, yebW, yiaC, yniB, ygaM, folK, ppdD, ygiA, asr, gutM, rmf, infC, yfjF, rzpD, yebF, trpR, cspC, tatB, ybcO, yddM, trxC, ycdY, yjdF, yobD, aaaD, preT, yaeI, sufC, ynfA, fliS, arnF, yidF, ybcN, npr, ygaC, tabA, mlaB, yjbD, smg, umuD, yccT, pabA, yebG, nudC, gatB, nudG, yhfY, fabR, rhsE, yiaT, yafX, yfhL, etp, yceJ, mraZ, hupB, yhiD, ogt, menI, yqiB, mobA, xdhC, uidR, hspQ, nlpA, mreD, ynfB, ypjF, ybcI, ygfS, asnC, pncA, rna, ybiJ, rstA, yidI, nei, yaeF, yicL, ysaA, ilvH, cheY, ydeI, oweE, hyaE, yhhM, yjeO, yfjU, ydiT, chpB, cutA, ymdA, pinH, yjbE, ytiA, yfgG, ybjC, ygdB, yaiY, pgpC, sgbH, dedA, rplN, yceF, yraR, ubiC, rsfS, racC, hslR, yfdO, frwD, soxS, fliQ, rpsK, yggX, nudE, ydaT, ybiI, uspB, hcaC, yibS, yqjE, emtA, slp, yiiR, ydgC, tfaE, nrfF, msrB, slyA, yieE, yijE, rbsD, yffM, ygiD, yjcH, gdx, ybeL, treC, vsr, rsxG, aroK, yghE, hpf, yahD, nadD, atpF, appB, ydfC, pdhR, alaE, rpsP, yjjX, dgkA, gstB, rffC, yecD, yigZ, mdtJ, pagP, mscL, sdhD, mliC, holE, eutS, acpS, motB, dinI, yjeN, moaD, cspA, yjfN, acpH, apaG, yqfI, ytjA, shoB, kdpF, csgF, ydiL, ybgC, cspH, hipB, tatE, cspB, exoD, safA, yhdV, ymiC, rcnB, prlF, yjhV, ybjM, yeaC, ychH, dsrB, hybF, yeiW, ydiE, yobB, ftsB, yccX, ycgL, bamE, yejG, dtd, hxpB, pphA, fumE, rlpA, yahO, yaaX, osmB, yhcO, nudB, yjaA, yjfY, secM, yhjB, yecE, yecJ, comR, csdE, atl, yhgH, flhD, mntR, ysaB, yzcX, dinJ, caiE, yoaC, tusC, crcB, yebO, yciA, yqcG, yfgI, dctR, ylbG, mcbA, gfcB, ydhL, yehC, ybbJ, yibI, ynfC, msrC, yeiS, ccmA, yfbM, ydaY, flgN, ycfL, yjgH, ivy, ytfP, ymcF, nsrR, yfgJ, ycjD, coaE, otsB, yiiQ, yfdS, yghW, yfiP, yfdX, cspD, yebB, ycaN, yafL, yecR, ytfA, maa, ycbV, sfsB, yafP, yfiL, ydcH, yncJ, psiF, rzoQ, yffP, rseC, ycbF, insA-4, yiiS, rcsF, yacC, ftsL, yqiD, tfaX, cnu, yefM, ynfN, ydiH, rpsT, csrA, frmR, acrZ, yrhB, yabQ, ykgO, ykfF, zapA, yfgH, yzgL, yhaI, rpsS, bhsA, mgrB, yoeB, maoP, atpI, ymjC, ygfF, yiaM, ynbE, ymfT, yjhZ, ecnA, hicA, rpmJ, ygcO, yohO, chpS, yicS, yobA, pmrD, insA-7, caiF, yadI, mazE, essD, aaeX, ymgF, ppdA, yagK, borD, rrrD, yhcN, ybaA, rnlB, ynfO, yffN, yoeA, yfiB, yhcA, yhcF, ydaE, dicB, torI, rclC, tdk, yffS, yedL, yfiR, mazF, ybeQ, rpnD, ydfR, bluR, cobU, ecpR, nanC, bssR, yfeK, flxA, yhhY, gspI, rcsA, yjfI, gltF, higB, yjhQ, yafC, mobB, cmtB, pphB, ybfQ, yidX, ybiA, yhdN, kptA, ydhI, ymjA, yjbL, ubiK, ybcW, yfdY, yjiS, arsR, yfdT, yiaG, yciZ, yddL, mntS, rcbA, ydcA, relB, ynaL, hokE, yjeT, ykgM, sgcB, kilR, ydgK, bdm, yoaI, ymiB, ortT, yobF, yoaK, tnaC, iroK, fadM, ybjH, gnsA, ylbI, ldrD, ymdG, yebV, yahH, lpp, iscX, ulaB, yaeH, rpmG, nusB, entH, ybdZ, metJ, lomR, phnF, secG, rplD, cbpM, rcnR, hycF, accB, yfcL, glpE, ymgE, yhhL, ybfA, ccmD, infA, priC, yheU, feoA, folA, yhfU, flgM, hupA, rpmC, bcsF, yceK, ynaJ, ycaR, yqaE, rpmE, yegP, ytfH, srlE, ydiQ, galS, yibN, yajD, rpsM, tdcF, paaB, rplT, hybD, panD, ymgD, yghA, flgF, osmE, ygaH, bioH, glcG, ygiN, chiQ, acpP, yceI, yedF, nrdG, yccU, hybG, cspG, yffB, yeeD, agaB, tesB, azoR, pdxH, yhbY, atpC, hyi, soxR, rimJ, rplK, ybiV, rplE, csiR, yqgE, ves, yciH, bfr, yafW, ycfJ, yohK, fhuD, yjiL, yaiI, yjjA, mlrA, hcaE, marR, pspC, dut, glnK, yohJ, ilvN, yggU, hdeA, ygeA, holC, tehB, yoaB, ybhQ, ygbA, ygiV, fdoI, nudJ, hinT, flgB, yeiG, mutM, yafY, fliE, epmC, rpsN, folX, rpiA, yihX, hycA, narL, chbB, yneG, hypC, citD, yhbQ, msrA, pspB, yghR, agaW, ppiC, ybaM, yijD, rplY, feoC, uspE, rpsF, hns, queD, yoaG, rpmH, napD, rplU, fumD, yfdP, ygdD, ydcL, arnE, raiA, ybfE, ygdI, folB, bfd, rpsO, rpoZ, yebY, yfjZ, inaA, fsaB, yfeN, lpoB, eutN, ygdR, rraA, rusA, yqjC, cbeA, yciG, yhfL, ygbE, proC, yhfA, rpsQ, fabG, hisH, glvB, yiaD, nrdH, rutC, groS, yfgD, artQ, ibpA, hyaC, dcrB, ppa, moaB, chbA, yeaO, yohD, tadA, argF, bamD, fur, yihI, fliJ, ompR, ybeY, yjgA, crl, betI, livF, kefF, ilvY, yraP, def, nrdR, yqjD, moaE, agaD, decR, yqjK, rplQ, greB, symE, rpsU, ridA, yfaE, gapA, recR, gmhB, ytfJ, ppiA, yfeZ, exbB, rnhA, yegU, cedA, yjdJ, sufE, rhaM, eptA, yaaI, kdsC, fecD, purN, elbB, phnO, ygiC, entA, ypeC, ugpE, yehR, rplI, argC, ppnP, pncC, ybdJ, ybaV, fabZ, rpmA, rpsJ, tcyL, phnJ, napB, eutM, ytjB, dksA, deoR, mlaD, yhbT, yajQ, pspG, rplO, yibL, yeeS, ygjH, fixX, yieF, fkpB, rdgC, gntK, ydcY, slyX, yccF, hemG, ybjQ, lsrG, nuoA, grxA, rplJ, tolR, yciU, bcp, ymfR, yeeX, copA, iscU, ypjK, nuoK, yaiZ, rpmF, yihD, tusA, iscR, yhaH, rplV, icdC, ydfZ, ypaA, ribE, atpE, yqjF, gcvT, dnaN, ybcJ, ydfA, yfdM, rnhB, yfcV, gpt, dcd, frdB, ttdB, grpE, metF, nrdB, frlC, ilvE, nusG, nirD, glnB, hslJ, phnH, spy, clpP, yceH, frwB, caiD, moaC, kdgK, folE, yfcZ, grxC, ybaB, ahpC, rpsR, suhB, rpsH, artP, yfeX, hypB, pdxJ, lafU, glnH, cysU, iscA, rpsI, rplW, adk, atpB, yajC, cusF, tusE, ycjR, nikC, fklB, sucB, ndk, glnS, dppC, satP, hpt, accA, lolD, hisG, artM, dsbA, yjbR, frr, dmsB, tcyJ, hycD, eutQ, coaD, wecE, purC, purE, nikB, yehS, arsC, rluB, hisA, rbfA, phnC, glnP, livH, yhbO, phoU, yjdM, slyD, fryB, grcA, recA, gcvH, yhbS, cyoC, yodD, frdD, crp, rraB, lolA, yhdT, cyoD, chaB, lspA, frdC, sdhE, ycjS, ptsH, yggT, ibaG, yheV, trxA, yeeT, rpmB, yecN, hycE, ssb, fabA, hslO, grxD, yggL, zapB, gloA, cyaY, ldrB, xseB, ydgU, trpL, afuB, ybbD, ybcY, ybeM, efeU, ycgH, ycgI, gapC, yncI, yneL, yneO, arpB, yedN, yedS, gatC, mdtQ, yfjV, ypjI, ygaY, ygeF, pbl, ygeN, yghX, yhdW, glpR, yhiL, ilvG, yifN, phnE, yjgX, 
+

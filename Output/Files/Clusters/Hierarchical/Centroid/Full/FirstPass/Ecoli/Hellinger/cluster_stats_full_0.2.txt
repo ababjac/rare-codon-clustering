@@ -1,0 +1,1791 @@
+Cluster 1 -
+
+cluster size =  1588
+avg MM_avg = 44.21152681180881 , stdev MM_avg = 5.156287688158056
+avg MM_median = 46.102962266240844 , stdev MM_median = 6.240549260987053
+avg MM_min = -42.49333467663578 , stdev MM_min = 17.647666870136277
+avg MM_max = 98.35485670059413 , stdev MM_max = 2.589775353837192
+avg Phi_est = 0.0887866483716498 , stdev Phi_est = 0.022320022246959607
+
+Cluster 2 -
+
+cluster size =  608
+avg MM_avg = 27.41488847997599 , stdev MM_avg = 5.258453018662139
+avg MM_median = 27.918644869057506 , stdev MM_median = 5.876173162695403
+avg MM_min = -60.75428038604213 , stdev MM_min = 13.081967613943723
+avg MM_max = 94.75471132338464 , stdev MM_max = 5.105231437039974
+avg Phi_est = 0.08432508261806326 , stdev Phi_est = 0.016609353942643262
+
+Cluster 3 -
+
+cluster size =  11
+avg MM_avg = 11.913029263618533 , stdev MM_avg = 2.880102828462992
+avg MM_median = 13.221231756229745 , stdev MM_median = 3.0156075690879587
+avg MM_min = -68.82466964127427 , stdev MM_min = 13.580410693371771
+avg MM_max = 84.1497863856985 , stdev MM_max = 8.580082136139866
+avg Phi_est = 0.08622126334037064 , stdev Phi_est = 0.011439870591107883
+
+Cluster 4 -
+
+cluster size =  34
+avg MM_avg = 28.052100874558775 , stdev MM_avg = 3.634570311539738
+avg MM_median = 28.221566558125637 , stdev MM_median = 4.623356229169837
+avg MM_min = -50.631426217750025 , stdev MM_min = 14.541255317479468
+avg MM_max = 93.76786850635433 , stdev MM_max = 5.765209658471527
+avg Phi_est = 0.08359582537461228 , stdev Phi_est = 0.015961255552208262
+
+Cluster 5 -
+
+cluster size =  153
+avg MM_avg = 35.464464397363116 , stdev MM_avg = 3.4552778577365717
+avg MM_median = 36.754645059347276 , stdev MM_median = 4.538236418373421
+avg MM_min = -38.81057295643836 , stdev MM_min = 17.047717140050175
+avg MM_max = 93.04097148464264 , stdev MM_max = 5.797246107366621
+avg Phi_est = 0.08468172845172332 , stdev Phi_est = 0.018470263070888355
+
+Cluster 6 -
+
+cluster size =  13
+avg MM_avg = 0.28719478660239267 , stdev MM_avg = 2.955856441210027
+avg MM_median = 2.161714154946039 , stdev MM_median = 3.0287687458783297
+avg MM_min = -81.90851590167088 , stdev MM_min = 5.912094624175636
+avg MM_max = 76.52708039777278 , stdev MM_max = 10.142602789828974
+avg Phi_est = 0.0841433916047146 , stdev Phi_est = 0.009344916942584455
+
+Cluster 7 -
+
+cluster size =  16
+avg MM_avg = 38.22364264555227 , stdev MM_avg = 2.0755173452651876
+avg MM_median = 39.46195295853732 , stdev MM_median = 2.885780695207091
+avg MM_min = -23.399090317325633 , stdev MM_min = 14.831651392522614
+avg MM_max = 89.92786864168347 , stdev MM_max = 7.699497701487471
+avg Phi_est = 0.09345181036380418 , stdev Phi_est = 0.025298453066379956
+
+Cluster 8 -
+
+cluster size =  13
+avg MM_avg = 15.592877955934412 , stdev MM_avg = 3.404236553254147
+avg MM_median = 14.443514779119683 , stdev MM_median = 3.7734406389533257
+avg MM_min = -63.64452928188797 , stdev MM_min = 14.729907475024794
+avg MM_max = 83.36799453107692 , stdev MM_max = 8.776708495744684
+avg Phi_est = 0.08875087427143018 , stdev Phi_est = 0.010185631996440129
+
+Cluster 9 -
+
+cluster size =  25
+avg MM_avg = 37.003211016965196 , stdev MM_avg = 2.9589531798243724
+avg MM_median = 37.697506314997554 , stdev MM_median = 4.897988474669915
+avg MM_min = -35.46443836765134 , stdev MM_min = 11.337177676239323
+avg MM_max = 97.09734146684175 , stdev MM_max = 2.9405336957046644
+avg Phi_est = 0.08244637062207585 , stdev Phi_est = 0.01951722854665924
+
+Cluster 10 -
+
+cluster size =  49
+avg MM_avg = 9.73832421912952 , stdev MM_avg = 4.82773137595717
+avg MM_median = 9.985902628970306 , stdev MM_median = 5.5921613795827705
+avg MM_min = -71.81863894698512 , stdev MM_min = 12.213963957706008
+avg MM_max = 84.70893587189845 , stdev MM_max = 8.967105121162525
+avg Phi_est = 0.08790879275959751 , stdev Phi_est = 0.01351151054432674
+
+Cluster 11 -
+
+cluster size =  70
+avg MM_avg = 34.61170942169371 , stdev MM_avg = 3.1663030662918525
+avg MM_median = 34.90169843689655 , stdev MM_median = 3.825572363099947
+avg MM_min = -39.261449066044705 , stdev MM_min = 15.560353100982349
+avg MM_max = 93.64813391683509 , stdev MM_max = 5.786164150290499
+avg Phi_est = 0.07963925013223645 , stdev Phi_est = 0.014834701560725921
+
+Cluster 12 -
+
+cluster size =  14
+avg MM_avg = 55.88048086988449 , stdev MM_avg = 2.63573027573797
+avg MM_median = 60.497209426732425 , stdev MM_median = 2.032376723406821
+avg MM_min = -25.10677861167234 , stdev MM_min = 11.346073984673149
+avg MM_max = 97.98889310185005 , stdev MM_max = 2.8127478281920775
+avg Phi_est = 0.09287670395607199 , stdev Phi_est = 0.024060860489714803
+
+Cluster 13 -
+
+cluster size =  8
+avg MM_avg = 27.280726196032056 , stdev MM_avg = 3.702014507696592
+avg MM_median = 24.786599327050013 , stdev MM_median = 3.49546526836465
+avg MM_min = -51.2429924707258 , stdev MM_min = 9.746683151659097
+avg MM_max = 96.21202417539217 , stdev MM_max = 4.09848024229811
+avg Phi_est = 0.08513163891765214 , stdev Phi_est = 0.017907683013423693
+
+Cluster 14 -
+
+cluster size =  8
+avg MM_avg = 18.193900944217983 , stdev MM_avg = 2.0410116532685407
+avg MM_median = 16.49591054927265 , stdev MM_median = 2.07206917856917
+avg MM_min = -46.665385496600685 , stdev MM_min = 6.694673962397521
+avg MM_max = 83.22253767475108 , stdev MM_max = 13.833978570287329
+avg Phi_est = 0.09175714595742122 , stdev Phi_est = 0.01719954377361639
+
+Cluster 15 -
+
+cluster size =  28
+avg MM_avg = 33.46968241035048 , stdev MM_avg = 2.942807637507889
+avg MM_median = 35.056991222201496 , stdev MM_median = 4.049293070848219
+avg MM_min = -51.313673308209985 , stdev MM_min = 11.623474486008138
+avg MM_max = 94.13862852432493 , stdev MM_max = 5.5537511054909725
+avg Phi_est = 0.07951973238952466 , stdev Phi_est = 0.019624354711263583
+
+Cluster 16 -
+
+cluster size =  3
+avg MM_avg = 32.06692081145101 , stdev MM_avg = 4.367151314574965
+avg MM_median = 32.205906511534955 , stdev MM_median = 6.8356619612367835
+avg MM_min = -20.584157177356403 , stdev MM_min = 6.992247877514088
+avg MM_max = 89.30500846004708 , stdev MM_max = 4.356610721888103
+avg Phi_est = 0.06672085849525058 , stdev Phi_est = 0.017473047182975942
+
+Cluster 17 -
+
+cluster size =  14
+avg MM_avg = 40.263780179146146 , stdev MM_avg = 3.0387496084835233
+avg MM_median = 44.11234298325085 , stdev MM_median = 4.010120223111592
+avg MM_min = -50.58710110822767 , stdev MM_min = 16.170264973263713
+avg MM_max = 95.57255460771952 , stdev MM_max = 4.642029185866728
+avg Phi_est = 0.0849882807306598 , stdev Phi_est = 0.018404844870662455
+
+Cluster 18 -
+
+cluster size =  18
+avg MM_avg = 32.45425107883548 , stdev MM_avg = 2.420000703546369
+avg MM_median = 33.63486032932214 , stdev MM_median = 2.788733386056265
+avg MM_min = -53.60888012248606 , stdev MM_min = 13.814086322024014
+avg MM_max = 95.48900713790728 , stdev MM_max = 3.403865022491571
+avg Phi_est = 0.07895043693514846 , stdev Phi_est = 0.015861382929769883
+
+Cluster 19 -
+
+cluster size =  12
+avg MM_avg = 34.41635589167944 , stdev MM_avg = 1.7307703729334407
+avg MM_median = 36.08122459512273 , stdev MM_median = 2.290296009120831
+avg MM_min = -45.14874684226151 , stdev MM_min = 12.732492390146662
+avg MM_max = 95.96393106988653 , stdev MM_max = 3.575609425996077
+avg Phi_est = 0.0919394065181668 , stdev Phi_est = 0.029280468756267074
+
+Cluster 20 -
+
+cluster size =  3
+avg MM_avg = 40.619886532563584 , stdev MM_avg = 1.82766121972372
+avg MM_median = 42.10519035666297 , stdev MM_median = 4.078507374739595
+avg MM_min = -26.559643082352046 , stdev MM_min = 11.621634789348397
+avg MM_max = 96.61205477746951 , stdev MM_max = 2.877248936427625
+avg Phi_est = 0.0937161002218384 , stdev Phi_est = 0.05874797900368321
+
+Cluster 21 -
+
+cluster size =  11
+avg MM_avg = 31.92019233162409 , stdev MM_avg = 2.3130346567170816
+avg MM_median = 30.995893926702376 , stdev MM_median = 2.783946967828207
+avg MM_min = -41.66976354265606 , stdev MM_min = 16.194021152276733
+avg MM_max = 91.21093183236216 , stdev MM_max = 4.184643181823385
+avg Phi_est = 0.0834277709723761 , stdev Phi_est = 0.015690941209904906
+
+Cluster 22 -
+
+cluster size =  8
+avg MM_avg = 54.03398031864229 , stdev MM_avg = 3.238913600418838
+avg MM_median = 55.55967688993559 , stdev MM_median = 4.1042194126615845
+avg MM_min = -6.38415174911763 , stdev MM_min = 14.915949688615797
+avg MM_max = 97.85276678615084 , stdev MM_max = 2.7637520832515987
+avg Phi_est = 0.09951558306272656 , stdev Phi_est = 0.02179456040798198
+
+Cluster 23 -
+
+cluster size =  10
+avg MM_avg = 20.324418315036013 , stdev MM_avg = 2.288490032509744
+avg MM_median = 20.711429138536143 , stdev MM_median = 3.5840357823862177
+avg MM_min = -45.91436746457504 , stdev MM_min = 5.596453318735334
+avg MM_max = 85.29751501493676 , stdev MM_max = 7.318503340806958
+avg Phi_est = 0.08482509825447244 , stdev Phi_est = 0.022039177435501912
+
+Cluster 24 -
+
+cluster size =  5
+avg MM_avg = 31.024987245340476 , stdev MM_avg = 1.910742032416651
+avg MM_median = 32.81432577251895 , stdev MM_median = 2.083983964226889
+avg MM_min = -36.483515500064115 , stdev MM_min = 22.16380381443658
+avg MM_max = 86.12939407623102 , stdev MM_max = 9.551062478423828
+avg Phi_est = 0.09360341123814173 , stdev Phi_est = 0.012125984475855832
+
+Cluster 25 -
+
+cluster size =  3
+avg MM_avg = 25.617507436098908 , stdev MM_avg = 0.6201489984321772
+avg MM_median = 21.615383432966926 , stdev MM_median = 2.6195660794526656
+avg MM_min = -35.50672862115655 , stdev MM_min = 7.950817812566302
+avg MM_max = 92.008878063902 , stdev MM_max = 2.843425176965722
+avg Phi_est = 0.0870759764582589 , stdev Phi_est = 0.012714270617543289
+
+Cluster 26 -
+
+cluster size =  2
+avg MM_avg = 5.267990201991494 , stdev MM_avg = 2.0694474829716745
+avg MM_median = 3.926355905646937 , stdev MM_median = 3.8718309657462324
+avg MM_min = -66.19361564309725 , stdev MM_min = 2.4083042526739824
+avg MM_max = 67.4306529329274 , stdev MM_max = 0.9634548190132407
+avg Phi_est = 0.08684730632188192 , stdev Phi_est = 0.006606235626084929
+
+Cluster 27 -
+
+cluster size =  9
+avg MM_avg = -3.791732453111677 , stdev MM_avg = 4.981759840771331
+avg MM_median = -3.019825846017163 , stdev MM_median = 4.467648728363536
+avg MM_min = -76.50228689934467 , stdev MM_min = 14.677204128220321
+avg MM_max = 69.59774385352239 , stdev MM_max = 8.732714258446313
+avg Phi_est = 0.09141340472022477 , stdev Phi_est = 0.010662715801127156
+
+Cluster 28 -
+
+cluster size =  2
+avg MM_avg = 35.36663461492685 , stdev MM_avg = 0.396849078598466
+avg MM_median = 35.25700966780512 , stdev MM_median = 2.427417329730936
+avg MM_min = -51.32435212442168 , stdev MM_min = 3.334956193718095
+avg MM_max = 100.0 , stdev MM_max = 0.0
+avg Phi_est = 0.08111408538389778 , stdev Phi_est = 0.007343652768045005
+
+Cluster 29 -
+
+cluster size =  18
+avg MM_avg = 24.933517142339685 , stdev MM_avg = 3.738286601434178
+avg MM_median = 26.284153090444654 , stdev MM_median = 4.095774296643389
+avg MM_min = -48.39456496899568 , stdev MM_min = 13.371201350196193
+avg MM_max = 86.01130936355335 , stdev MM_max = 6.303296730991147
+avg Phi_est = 0.07502000197534914 , stdev Phi_est = 0.01263231549239232
+
+Cluster 30 -
+
+cluster size =  14
+avg MM_avg = 54.196690386307026 , stdev MM_avg = 3.278700158542755
+avg MM_median = 55.8307880563617 , stdev MM_median = 3.740118436456922
+avg MM_min = -14.759569923281296 , stdev MM_min = 14.529908932808695
+avg MM_max = 97.64484993030116 , stdev MM_max = 3.130861464817813
+avg Phi_est = 0.09662152448027025 , stdev Phi_est = 0.025158911942531892
+
+Cluster 31 -
+
+cluster size =  2
+avg MM_avg = 33.91330596099269 , stdev MM_avg = 0.7255740864350019
+avg MM_median = 35.64374777179076 , stdev MM_median = 2.3827474735712437
+avg MM_min = -24.96001286816581 , stdev MM_min = 2.5230861419634754
+avg MM_max = 83.67280005541551 , stdev MM_max = 0.5553301499786694
+avg Phi_est = 0.09199956489251714 , stdev Phi_est = 0.006984113536151818
+
+Cluster 32 -
+
+cluster size =  57
+avg MM_avg = 32.476580364829765 , stdev MM_avg = 2.933760419724646
+avg MM_median = 33.00197697058576 , stdev MM_median = 4.208062428759475
+avg MM_min = -50.11935236588914 , stdev MM_min = 15.62015339402058
+avg MM_max = 95.129684142621 , stdev MM_max = 4.923230341278133
+avg Phi_est = 0.08174625314315635 , stdev Phi_est = 0.016343377190320776
+
+Cluster 33 -
+
+cluster size =  5
+avg MM_avg = 47.757116836674136 , stdev MM_avg = 0.9171328659710122
+avg MM_median = 52.58247158547438 , stdev MM_median = 0.8978153819026035
+avg MM_min = -32.00921820108893 , stdev MM_min = 19.84067899791043
+avg MM_max = 97.0071147369925 , stdev MM_max = 4.217494818536018
+avg Phi_est = 0.10718149973642348 , stdev Phi_est = 0.04908672682103231
+
+Cluster 34 -
+
+cluster size =  3
+avg MM_avg = 36.00452647955722 , stdev MM_avg = 1.5981117770576778
+avg MM_median = 36.42775023703073 , stdev MM_median = 3.4174123057421157
+avg MM_min = -33.6273600313039 , stdev MM_min = 13.618111198887597
+avg MM_max = 88.86624374840656 , stdev MM_max = 0.8015389132089612
+avg Phi_est = 0.08371196575123115 , stdev Phi_est = 0.005216389414763517
+
+Cluster 35 -
+
+cluster size =  4
+avg MM_avg = 31.42937967632829 , stdev MM_avg = 0.8798943536720873
+avg MM_median = 32.40859573265289 , stdev MM_median = 1.7924153682609614
+avg MM_min = -47.98658262583621 , stdev MM_min = 18.37170774896597
+avg MM_max = 96.01120123595709 , stdev MM_max = 2.227123064159642
+avg Phi_est = 0.05572753088876328 , stdev Phi_est = 0.026654400538402727
+
+Cluster 36 -
+
+cluster size =  2
+avg MM_avg = 30.81162144502289 , stdev MM_avg = 0.6829269502870744
+avg MM_median = 33.000565855854454 , stdev MM_median = 0.25392359330707936
+avg MM_min = -62.04234134633962 , stdev MM_min = 10.865913795951665
+avg MM_max = 87.33524684711364 , stdev MM_max = 0.64013404563804
+avg Phi_est = 0.06030062375182474 , stdev Phi_est = 0.0013870678457171346
+
+Cluster 37 -
+
+cluster size =  3
+avg MM_avg = 37.00403355194501 , stdev MM_avg = 3.064695833826689
+avg MM_median = 37.63332888558144 , stdev MM_median = 1.8622565450873878
+avg MM_min = -7.056010527525046 , stdev MM_min = 2.722922350370792
+avg MM_max = 90.244031083673 , stdev MM_max = 3.671296946525441
+avg Phi_est = 0.11171397712778604 , stdev Phi_est = 0.04234170047557964
+
+Cluster 38 -
+
+cluster size =  2
+avg MM_avg = 13.118996145791211 , stdev MM_avg = 1.367597900665609
+avg MM_median = 13.43762448129771 , stdev MM_median = 2.7315768676705505
+avg MM_min = -44.48444036472378 , stdev MM_min = 2.268715600141946
+avg MM_max = 58.73078679831846 , stdev MM_max = 0.5962452531954547
+avg Phi_est = 0.13509676816402688 , stdev Phi_est = 0.052556473107229565
+
+Cluster 39 -
+
+cluster size =  2
+avg MM_avg = 9.022892105898237 , stdev MM_avg = 0.14130328753445268
+avg MM_median = 7.5373620355414985 , stdev MM_median = 3.173948442124648
+avg MM_min = -64.28129786208598 , stdev MM_min = 12.01386346838005
+avg MM_max = 82.42337792131923 , stdev MM_max = 1.5055559486830785
+avg Phi_est = 0.077478128165299 , stdev Phi_est = 0.0010000292335691874
+
+Cluster 40 -
+
+cluster size =  9
+avg MM_avg = 18.398422714721736 , stdev MM_avg = 2.117052653809401
+avg MM_median = 18.768983413324143 , stdev MM_median = 3.2775635975208712
+avg MM_min = -50.03474172450526 , stdev MM_min = 14.215966297166112
+avg MM_max = 76.006701376829 , stdev MM_max = 10.869453548180953
+avg Phi_est = 0.07816943606999607 , stdev Phi_est = 0.015102974789647684
+
+Cluster 41 -
+
+cluster size =  29
+avg MM_avg = 33.25148623381509 , stdev MM_avg = 4.007227352889396
+avg MM_median = 33.43836949324552 , stdev MM_median = 5.833626042470422
+avg MM_min = -46.5125595262195 , stdev MM_min = 11.421878624572708
+avg MM_max = 96.18043110476985 , stdev MM_max = 3.627642307236595
+avg Phi_est = 0.08453681672412956 , stdev Phi_est = 0.01784256259400409
+
+Cluster 42 -
+
+cluster size =  4
+avg MM_avg = 34.04553274967419 , stdev MM_avg = 2.4671692638286578
+avg MM_median = 35.96826847110105 , stdev MM_median = 1.14026879792553
+avg MM_min = -59.75535511474343 , stdev MM_min = 24.78730326980331
+avg MM_max = 98.76554662410572 , stdev MM_max = 2.0148825304655817
+avg Phi_est = 0.08448157183494881 , stdev Phi_est = 0.006937782896808327
+
+Cluster 43 -
+
+cluster size =  2
+avg MM_avg = 29.11925900167487 , stdev MM_avg = 0.5758675609567278
+avg MM_median = 31.611782610212188 , stdev MM_median = 0.26726327386593707
+avg MM_min = -35.66368447139397 , stdev MM_min = 14.450704166654605
+avg MM_max = 83.30372107297742 , stdev MM_max = 3.5590754375067446
+avg Phi_est = 0.10559936324750921 , stdev Phi_est = 0.016795600418919844
+
+Cluster 44 -
+
+cluster size =  2
+avg MM_avg = 47.517383866051375 , stdev MM_avg = 2.0796630377767014
+avg MM_median = 52.240791324090054 , stdev MM_median = 1.5524137481503453
+avg MM_min = -18.329414048190124 , stdev MM_min = 1.2832155784766157
+avg MM_max = 96.01433441132767 , stdev MM_max = 5.63658233058417
+avg Phi_est = 0.07576687428232656 , stdev Phi_est = 0.01212456584713317
+
+Cluster 45 -
+
+cluster size =  3
+avg MM_avg = 38.886012540942055 , stdev MM_avg = 1.4486355612397213
+avg MM_median = 42.567798329749735 , stdev MM_median = 2.008442201065235
+avg MM_min = -13.663185842218898 , stdev MM_min = 8.387637191182636
+avg MM_max = 87.98705507198723 , stdev MM_max = 1.6358186937502595
+avg Phi_est = 0.08547429699297772 , stdev Phi_est = 0.010551116882707953
+
+Cluster 46 -
+
+cluster size =  5
+avg MM_avg = 50.86758958359279 , stdev MM_avg = 3.555934582780378
+avg MM_median = 54.22114634469042 , stdev MM_median = 4.158574606010044
+avg MM_min = -18.03471416309686 , stdev MM_min = 21.769407284503732
+avg MM_max = 98.01404395049256 , stdev MM_max = 4.440732727025578
+avg Phi_est = 0.07695412725847807 , stdev Phi_est = 0.0057330819304087085
+
+Cluster 47 -
+
+cluster size =  2
+avg MM_avg = 31.839436551752364 , stdev MM_avg = 3.5970150481761887
+avg MM_median = 28.307910782917652 , stdev MM_median = 2.529869213304434
+avg MM_min = -47.08207472595147 , stdev MM_min = 14.337116725364837
+avg MM_max = 97.19039886103263 , stdev MM_max = 3.973376035586534
+avg Phi_est = 0.06945619070066421 , stdev Phi_est = 0.021859148903229972
+
+Cluster 48 -
+
+cluster size =  4
+avg MM_avg = 27.9598161646246 , stdev MM_avg = 1.5923324873853695
+avg MM_median = 26.795287921982304 , stdev MM_median = 1.2815947893807382
+avg MM_min = -46.91196485380577 , stdev MM_min = 7.608927232210401
+avg MM_max = 91.02066738621298 , stdev MM_max = 6.449942665043469
+avg Phi_est = 0.08818596075329889 , stdev Phi_est = 0.015590571419794287
+
+Cluster 49 -
+
+cluster size =  7
+avg MM_avg = 20.375286184867555 , stdev MM_avg = 0.787982147536291
+avg MM_median = 22.86691220590818 , stdev MM_median = 2.732746675951525
+avg MM_min = -86.74434074462299 , stdev MM_min = 0.0
+avg MM_max = 82.47257384243514 , stdev MM_max = 8.743255120888442
+avg Phi_est = 0.08114713731280186 , stdev Phi_est = 0.008772612178165726
+
+Cluster 50 -
+
+cluster size =  2
+avg MM_avg = 25.687242670758074 , stdev MM_avg = 3.9107880434713067
+avg MM_median = 25.250371236042852 , stdev MM_median = 6.226357050882595
+avg MM_min = -23.456728217438847 , stdev MM_min = 12.020437471189261
+avg MM_max = 67.88193479716901 , stdev MM_max = 2.396174398682165
+avg Phi_est = 0.10140788952103309 , stdev Phi_est = 0.0063180138455097914
+
+Cluster 51 -
+
+cluster size =  9
+avg MM_avg = 46.07402477175571 , stdev MM_avg = 2.088914992358396
+avg MM_median = 48.0884588610114 , stdev MM_median = 2.3483579643517998
+avg MM_min = -10.39318214745161 , stdev MM_min = 11.095523829142703
+avg MM_max = 86.88935426697992 , stdev MM_max = 5.694445686758797
+avg Phi_est = 0.11663780175731103 , stdev Phi_est = 0.02327192887608893
+
+Cluster 52 -
+
+cluster size =  6
+avg MM_avg = 39.69289107750423 , stdev MM_avg = 2.0840932104085907
+avg MM_median = 38.666103660094166 , stdev MM_median = 1.691948760422875
+avg MM_min = -24.627331391326596 , stdev MM_min = 24.04340133475384
+avg MM_max = 96.80995089220939 , stdev MM_max = 5.2565876854623665
+avg Phi_est = 0.08636086103974107 , stdev Phi_est = 0.02094128913477038
+
+Cluster 53 -
+
+cluster size =  2
+avg MM_avg = 40.461941486773796 , stdev MM_avg = 2.76319857514295
+avg MM_median = 40.83524516240392 , stdev MM_median = 1.5564327852809003
+avg MM_min = -21.8455973179411 , stdev MM_min = 9.33141915712234
+avg MM_max = 87.02513922935155 , stdev MM_max = 2.6595329046081413
+avg Phi_est = 0.12891411305789446 , stdev Phi_est = 0.0683483617540225
+
+Cluster 54 -
+
+cluster size =  14
+avg MM_avg = 31.932258173003493 , stdev MM_avg = 3.3400188424345987
+avg MM_median = 30.41985141715147 , stdev MM_median = 3.6667243793611717
+avg MM_min = -39.67625201592721 , stdev MM_min = 10.375581011523643
+avg MM_max = 93.41475869061323 , stdev MM_max = 4.699874426218286
+avg Phi_est = 0.08169385694927238 , stdev Phi_est = 0.019737407455677286
+
+Cluster 55 -
+
+cluster size =  6
+avg MM_avg = 45.19724879541761 , stdev MM_avg = 1.9123229074868089
+avg MM_median = 46.704945238565266 , stdev MM_median = 2.30677411541398
+avg MM_min = -13.927269452121825 , stdev MM_min = 3.8097009422505264
+avg MM_max = 93.39854774005657 , stdev MM_max = 6.00298074065008
+avg Phi_est = 0.1063509893043717 , stdev Phi_est = 0.012267114890869298
+
+Cluster 56 -
+
+cluster size =  2
+avg MM_avg = 39.46654560253579 , stdev MM_avg = 0.8870964945938641
+avg MM_median = 37.87041576678324 , stdev MM_median = 3.6806104045607277
+avg MM_min = -15.321873537257037 , stdev MM_min = 11.873922586412107
+avg MM_max = 91.8767517789809 , stdev MM_max = 2.558737140982798
+avg Phi_est = 0.10185825488272175 , stdev Phi_est = 0.006888271814911955
+
+Cluster 57 -
+
+cluster size =  11
+avg MM_avg = 10.39253461734065 , stdev MM_avg = 2.8497393921768475
+avg MM_median = 9.916180087654995 , stdev MM_median = 2.875378670391404
+avg MM_min = -69.44422194323575 , stdev MM_min = 17.730399768347194
+avg MM_max = 84.20985887556657 , stdev MM_max = 6.081846665655996
+avg Phi_est = 0.08589236895172843 , stdev Phi_est = 0.02021105492311054
+
+Cluster 58 -
+
+cluster size =  3
+avg MM_avg = 36.22355312370343 , stdev MM_avg = 2.0734988968355577
+avg MM_median = 36.000222193768735 , stdev MM_median = 3.5649678113423415
+avg MM_min = -63.63074409771519 , stdev MM_min = 19.297820544542358
+avg MM_max = 94.96365551973976 , stdev MM_max = 7.650545604725664
+avg Phi_est = 0.07395909687615468 , stdev Phi_est = 0.01713256555607303
+
+Cluster 59 -
+
+cluster size =  2
+avg MM_avg = -0.30740196412043325 , stdev MM_avg = 1.7607400313555697
+avg MM_median = 1.2401207069981184 , stdev MM_median = 1.7537955228164503
+avg MM_min = -83.24976990819246 , stdev MM_min = 11.39353162789808
+avg MM_max = 75.82652996048526 , stdev MM_max = 7.009766549193985
+avg Phi_est = 0.07557397534419229 , stdev Phi_est = 0.0027541872004007936
+
+Cluster 60 -
+
+cluster size =  4
+avg MM_avg = 26.17809922486193 , stdev MM_avg = 1.6196871868627905
+avg MM_median = 25.59449292082533 , stdev MM_median = 1.0646577778137412
+avg MM_min = -51.68172477948609 , stdev MM_min = 10.738811499687205
+avg MM_max = 90.7334272972013 , stdev MM_max = 11.193740941448647
+avg Phi_est = 0.08357875184557662 , stdev Phi_est = 0.016550096273071305
+
+Cluster 61 -
+
+cluster size =  2
+avg MM_avg = 26.32614569299983 , stdev MM_avg = 1.113157505457507
+avg MM_median = 21.802536418648465 , stdev MM_median = 0.9916386972873583
+avg MM_min = -66.83022518420502 , stdev MM_min = 0.5224841775729271
+avg MM_max = 100.0 , stdev MM_max = 0.0
+avg Phi_est = 0.07317841057955271 , stdev Phi_est = 0.019690238015724424
+
+Cluster 62 -
+
+cluster size =  2
+avg MM_avg = 50.51777915216478 , stdev MM_avg = 0.4785230252817364
+avg MM_median = 56.54254422289824 , stdev MM_median = 1.0379114978193305
+avg MM_min = -7.224841899269455 , stdev MM_min = 2.690748418408375
+avg MM_max = 85.35228470885525 , stdev MM_max = 3.1214150682959607
+avg Phi_est = 0.1954857918473291 , stdev Phi_est = 0.023498350471308393
+
+Cluster 63 -
+
+cluster size =  8
+avg MM_avg = 13.297117609352643 , stdev MM_avg = 2.730234781031291
+avg MM_median = 12.940448975252783 , stdev MM_median = 3.2896324927406217
+avg MM_min = -63.58397695763534 , stdev MM_min = 12.229087082262042
+avg MM_max = 85.85565762476774 , stdev MM_max = 4.940163461440399
+avg Phi_est = 0.08424339845824809 , stdev Phi_est = 0.008329399612297948
+
+Cluster 64 -
+
+cluster size =  5
+avg MM_avg = 32.350615750240024 , stdev MM_avg = 2.1420543796201432
+avg MM_median = 32.05258699937063 , stdev MM_median = 4.907726554604452
+avg MM_min = -42.93947267105325 , stdev MM_min = 8.998087997599965
+avg MM_max = 95.45242152272569 , stdev MM_max = 4.255554528835533
+avg Phi_est = 0.07320939712550716 , stdev Phi_est = 0.010957133514453248
+
+Cluster 65 -
+
+cluster size =  2
+avg MM_avg = 32.985260133833194 , stdev MM_avg = 0.875806274721794
+avg MM_median = 34.91939942743654 , stdev MM_median = 1.3861993376453283
+avg MM_min = -69.04122253512992 , stdev MM_min = 5.174618590937509
+avg MM_max = 95.26365309395175 , stdev MM_max = 6.698206030637278
+avg Phi_est = 0.08279310596801615 , stdev Phi_est = 0.03840359796516084
+
+Cluster 66 -
+
+cluster size =  6
+avg MM_avg = 32.50073235773627 , stdev MM_avg = 1.7726802442198757
+avg MM_median = 33.468735980862824 , stdev MM_median = 2.7730513670192476
+avg MM_min = -45.29283856871277 , stdev MM_min = 17.00618269492558
+avg MM_max = 93.88105416994163 , stdev MM_max = 5.484897370415387
+avg Phi_est = 0.08967700670977172 , stdev Phi_est = 0.017831217622463383
+
+Cluster 67 -
+
+cluster size =  6
+avg MM_avg = 39.71662428787048 , stdev MM_avg = 1.4091850781442297
+avg MM_median = 41.15554633398898 , stdev MM_median = 1.5843743703735012
+avg MM_min = -52.588832561074454 , stdev MM_min = 18.412362659895198
+avg MM_max = 96.63111834445192 , stdev MM_max = 3.969982295794382
+avg Phi_est = 0.08186340695864693 , stdev Phi_est = 0.02176085675580832
+
+Cluster 68 -
+
+cluster size =  3
+avg MM_avg = 5.393630467773399 , stdev MM_avg = 2.979029180506934
+avg MM_median = 5.08681594667159 , stdev MM_median = 4.870899683570437
+avg MM_min = -80.76185286214262 , stdev MM_min = 6.63411622764059
+avg MM_max = 91.74478153434511 , stdev MM_max = 3.4286339035930737
+avg Phi_est = 0.09225773116301163 , stdev Phi_est = 0.016104380151123775
+
+Cluster 69 -
+
+cluster size =  2
+avg MM_avg = 40.31837076894428 , stdev MM_avg = 2.663093468229243
+avg MM_median = 36.74115327046687 , stdev MM_median = 2.7428685219523103
+avg MM_min = -3.2534591956109815 , stdev MM_min = 4.60108611906051
+avg MM_max = 92.33117242345439 , stdev MM_max = 5.564970571362232
+avg Phi_est = 0.10363167818644892 , stdev Phi_est = 0.05049610606003405
+
+Cluster 70 -
+
+cluster size =  2
+avg MM_avg = 25.179100059950883 , stdev MM_avg = 0.25734737348110337
+avg MM_median = 25.696399703417228 , stdev MM_median = 1.5625111200318054
+avg MM_min = -32.01155251276043 , stdev MM_min = 3.338121839795799
+avg MM_max = 70.95219655778263 , stdev MM_max = 6.1576467732084
+avg Phi_est = 0.1025482037632988 , stdev Phi_est = 0.01224009151789566
+
+Cluster 71 -
+
+cluster size =  2
+avg MM_avg = 8.163718375675117 , stdev MM_avg = 2.231835539409776
+avg MM_median = 11.590659144505413 , stdev MM_median = 1.1626831556374657
+avg MM_min = -65.64672836410074 , stdev MM_min = 0.7685996676947373
+avg MM_max = 75.66051250424945 , stdev MM_max = 16.75278121737924
+avg Phi_est = 0.09271374928140182 , stdev Phi_est = 0.00029892914244330864
+
+Cluster 72 -
+
+cluster size =  5
+avg MM_avg = 39.65693548420275 , stdev MM_avg = 3.2062711168780655
+avg MM_median = 41.98536436771731 , stdev MM_median = 2.654667375570886
+avg MM_min = -30.317374811143882 , stdev MM_min = 3.253446450930389
+avg MM_max = 95.93065961809079 , stdev MM_max = 3.752819000476552
+avg Phi_est = 0.0926600170767887 , stdev Phi_est = 0.03671627678706019
+
+Cluster 73 -
+
+cluster size =  3
+avg MM_avg = 25.197715904185763 , stdev MM_avg = 5.261429769262179
+avg MM_median = 23.222329683787873 , stdev MM_median = 7.190233653931046
+avg MM_min = -45.747897112263104 , stdev MM_min = 4.071150280662136
+avg MM_max = 93.08719701286589 , stdev MM_max = 5.363236433845536
+avg Phi_est = 0.0806539321921557 , stdev Phi_est = 0.004515422337952982
+
+Cluster 74 -
+
+cluster size =  2
+avg MM_avg = 18.17709885248722 , stdev MM_avg = 0.6877849498500394
+avg MM_median = 17.166588226300227 , stdev MM_median = 1.6858366028758576
+avg MM_min = -52.44782604765487 , stdev MM_min = 11.183805796023707
+avg MM_max = 86.34463290040685 , stdev MM_max = 11.110819183788827
+avg Phi_est = 0.11656625595926619 , stdev Phi_est = 0.03374080006517718
+
+Cluster 75 -
+
+cluster size =  2
+avg MM_avg = 36.871742855377654 , stdev MM_avg = 1.8061458299928244
+avg MM_median = 35.184586657471066 , stdev MM_median = 0.041176975043401454
+avg MM_min = -45.45927019608819 , stdev MM_min = 13.912977880880742
+avg MM_max = 97.77433502803902 , stdev MM_max = 3.1475655886459437
+avg Phi_est = 0.09501490579963712 , stdev Phi_est = 0.01615606003125297
+
+Cluster 76 -
+
+cluster size =  2
+avg MM_avg = 41.520644506963215 , stdev MM_avg = 4.394583102044786
+avg MM_median = 50.06188314395409 , stdev MM_median = 4.650016012589546
+avg MM_min = -41.8780741159015 , stdev MM_min = 6.335867451029925
+avg MM_max = 96.35145197319432 , stdev MM_max = 5.159826102478184
+avg Phi_est = 0.087226492819905 , stdev Phi_est = 0.0024354461715343258
+
+Cluster 77 -
+
+cluster size =  2
+avg MM_avg = 27.223011889806507 , stdev MM_avg = 0.6319316966355055
+avg MM_median = 26.317534966829648 , stdev MM_median = 2.581309516218708
+avg MM_min = -28.48160497000751 , stdev MM_min = 15.526748546906356
+avg MM_max = 76.48546675769408 , stdev MM_max = 1.7885143720178807
+avg Phi_est = 0.10348245734237745 , stdev Phi_est = 0.026146527134227535
+
+Cluster 78 -
+
+cluster size =  4
+avg MM_avg = 2.527330140280674 , stdev MM_avg = 3.7571847724342335
+avg MM_median = 3.9054431149055606 , stdev MM_median = 2.9649933978799994
+avg MM_min = -81.72383018259715 , stdev MM_min = 9.809207908037182
+avg MM_max = 92.08457519110121 , stdev MM_max = 10.607823790104673
+avg Phi_est = 0.0872730342840265 , stdev Phi_est = 0.011484375855820343
+
+Cluster 79 -
+
+cluster size =  3
+avg MM_avg = 40.520244488922785 , stdev MM_avg = 1.366067015102491
+avg MM_median = 43.42060115732483 , stdev MM_median = 2.0456484324018644
+avg MM_min = -45.88784860112725 , stdev MM_min = 18.71111380876994
+avg MM_max = 97.59728516525627 , stdev MM_max = 2.483261154857661
+avg Phi_est = 0.08876907587954146 , stdev Phi_est = 0.012422750078361052
+
+Cluster 80 -
+
+cluster size =  3
+avg MM_avg = 51.799117954706176 , stdev MM_avg = 2.7467529356163034
+avg MM_median = 54.98858967989273 , stdev MM_median = 2.0025844160696855
+avg MM_min = -24.64040639115794 , stdev MM_min = 3.7251760456756724
+avg MM_max = 95.73539329129471 , stdev MM_max = 1.7769262903568201
+avg Phi_est = 0.07644724437293464 , stdev Phi_est = 0.03182276004813612
+
+Cluster 81 -
+
+cluster size =  3
+avg MM_avg = 42.56124467338417 , stdev MM_avg = 3.611230349316844
+avg MM_median = 47.63400133236926 , stdev MM_median = 2.929413865385215
+avg MM_min = -58.964100739076216 , stdev MM_min = 5.801451650976773
+avg MM_max = 96.80098597425595 , stdev MM_max = 2.7739353567166267
+avg Phi_est = 0.06821769330680713 , stdev Phi_est = 0.012583013233933378
+
+Cluster 82 -
+
+cluster size =  5
+avg MM_avg = 35.83898274927678 , stdev MM_avg = 4.3827834693642265
+avg MM_median = 37.30567132747325 , stdev MM_median = 5.977889568722789
+avg MM_min = -52.36665596414245 , stdev MM_min = 6.4305826749101
+avg MM_max = 98.00938082045059 , stdev MM_max = 2.0945553782778847
+avg Phi_est = 0.07727139482182734 , stdev Phi_est = 0.011554389657587209
+
+Cluster 83 -
+
+cluster size =  2
+avg MM_avg = 25.988241775811417 , stdev MM_avg = 0.9379913937172124
+avg MM_median = 23.968947220425115 , stdev MM_median = 0.8640966043509885
+avg MM_min = -28.815045837390223 , stdev MM_min = 9.48154299573631
+avg MM_max = 96.62804515745692 , stdev MM_max = 4.768664270034052
+avg Phi_est = 0.08073541644313037 , stdev Phi_est = 0.02820143723901448
+
+Cluster 84 -
+
+cluster size =  4
+avg MM_avg = 44.77900887816422 , stdev MM_avg = 4.600253592777525
+avg MM_median = 48.47698318233883 , stdev MM_median = 5.2733790304652715
+avg MM_min = -22.970165758441272 , stdev MM_min = 28.17506642467855
+avg MM_max = 93.92548838653049 , stdev MM_max = 5.34718594585387
+avg Phi_est = 0.09703808605959265 , stdev Phi_est = 0.04046152084401967
+
+Cluster 85 -
+
+cluster size =  3
+avg MM_avg = 11.883968269438922 , stdev MM_avg = 2.7955021155518964
+avg MM_median = 9.062443264001319 , stdev MM_median = 3.0011910623172087
+avg MM_min = -57.23109051438264 , stdev MM_min = 9.291066513208028
+avg MM_max = 90.76681223864097 , stdev MM_max = 8.391033649547307
+avg Phi_est = 0.07614685500824057 , stdev Phi_est = 0.01374432252781614
+
+Cluster 86 -
+
+cluster size =  4
+avg MM_avg = 35.970409698288314 , stdev MM_avg = 4.879973526111307
+avg MM_median = 33.04496745752085 , stdev MM_median = 5.326115957434322
+avg MM_min = -24.11172443109806 , stdev MM_min = 10.18613379344296
+avg MM_max = 99.18522404223637 , stdev MM_max = 1.6295519155272586
+avg Phi_est = 0.10341629800185177 , stdev Phi_est = 0.02579674204670377
+
+Cluster 87 -
+
+cluster size =  2
+avg MM_avg = 21.986811753421048 , stdev MM_avg = 5.443371151872049
+avg MM_median = 18.54950488843482 , stdev MM_median = 6.391121104852019
+avg MM_min = -52.423405574824834 , stdev MM_min = 34.85132927180032
+avg MM_max = 82.24253223213482 , stdev MM_max = 7.71963261219007
+avg Phi_est = 0.07657887025632451 , stdev Phi_est = 0.0024812155106528427
+
+Cluster 88 -
+
+cluster size =  5
+avg MM_avg = 27.520805097590767 , stdev MM_avg = 1.9992154111887788
+avg MM_median = 28.128026557841768 , stdev MM_median = 2.0838160202433533
+avg MM_min = -35.29700971086784 , stdev MM_min = 6.538237649853204
+avg MM_max = 89.8773380740292 , stdev MM_max = 10.983669145214154
+avg Phi_est = 0.07869630204530949 , stdev Phi_est = 0.01103813942610882
+
+Cluster 89 -
+
+cluster size =  5
+avg MM_avg = 34.828948366319196 , stdev MM_avg = 2.9765027036610174
+avg MM_median = 36.35618906548854 , stdev MM_median = 3.325327399551627
+avg MM_min = -52.19892856881834 , stdev MM_min = 13.840264668919428
+avg MM_max = 95.42851952910756 , stdev MM_max = 3.47381228932114
+avg Phi_est = 0.06814095316942287 , stdev Phi_est = 0.013509281140039863
+
+Cluster 90 -
+
+cluster size =  2
+avg MM_avg = 43.8642086486325 , stdev MM_avg = 0.006322985798088458
+avg MM_median = 47.73260464291977 , stdev MM_median = 0.1706766802337136
+avg MM_min = -35.29565350510997 , stdev MM_min = 1.2722810544118992
+avg MM_max = 95.62420189821103 , stdev MM_max = 4.753699127185943
+avg Phi_est = 0.08275052678008935 , stdev Phi_est = 0.0068496667531907935
+
+Cluster 91 -
+
+cluster size =  5
+avg MM_avg = 34.6650486027342 , stdev MM_avg = 2.157585378012713
+avg MM_median = 34.809273099990676 , stdev MM_median = 3.7532229855106336
+avg MM_min = -48.01841489750417 , stdev MM_min = 15.204149740866617
+avg MM_max = 96.78773411705579 , stdev MM_max = 3.1867117075735822
+avg Phi_est = 0.08455343751690313 , stdev Phi_est = 0.024980601342250146
+
+Cluster 92 -
+
+cluster size =  3
+avg MM_avg = 36.8368196644405 , stdev MM_avg = 2.2070992776253835
+avg MM_median = 37.47499901534408 , stdev MM_median = 2.1891881638418402
+avg MM_min = -1.9179236199663374 , stdev MM_min = 2.3486514052803744
+avg MM_max = 83.44394476293566 , stdev MM_max = 2.488991154296962
+avg Phi_est = 0.10344688307726148 , stdev Phi_est = 0.03190121731595149
+
+Cluster 93 -
+
+cluster size =  2
+avg MM_avg = 38.910781528584444 , stdev MM_avg = 3.646483610829969
+avg MM_median = 42.3383091277596 , stdev MM_median = 7.221824476326448
+avg MM_min = -36.90607350656279 , stdev MM_min = 1.4664438976983611
+avg MM_max = 96.61119419607343 , stdev MM_max = 4.792495128161629
+avg Phi_est = 0.09829714849863189 , stdev Phi_est = 0.031611124044870945
+
+Cluster 94 -
+
+cluster size =  2
+avg MM_avg = 24.444603700400165 , stdev MM_avg = 1.8034338345474268
+avg MM_median = 21.934484597608115 , stdev MM_median = 3.2037248642097014
+avg MM_min = -60.69305483772912 , stdev MM_min = 34.29610695855162
+avg MM_max = 92.5699644619977 , stdev MM_max = 5.969392970756014
+avg Phi_est = 0.09612372584980064 , stdev Phi_est = 0.016224792636475992
+
+Cluster 95 -
+
+cluster size =  3
+avg MM_avg = -2.075307643990134 , stdev MM_avg = 4.232360419632515
+avg MM_median = 1.1494483739430708 , stdev MM_median = 5.290410411457197
+avg MM_min = -87.14451188996404 , stdev MM_min = 1.652479442272252
+avg MM_max = 83.14013559356279 , stdev MM_max = 6.287800172119699
+avg Phi_est = 0.08661430878574093 , stdev Phi_est = 0.002141684402979992
+
+Cluster 96 -
+
+cluster size =  4
+avg MM_avg = 54.66308431486019 , stdev MM_avg = 2.0249497674682697
+avg MM_median = 60.998536716825626 , stdev MM_median = 1.6486822206414509
+avg MM_min = -32.26523520673458 , stdev MM_min = 12.47066654484511
+avg MM_max = 99.00742514405016 , stdev MM_max = 1.9851497118996804
+avg Phi_est = 0.09632099153837712 , stdev Phi_est = 0.027988692854493732
+
+Cluster 97 -
+
+cluster size =  2
+avg MM_avg = 22.40486809130872 , stdev MM_avg = 1.601464665386146
+avg MM_median = 19.386682767052445 , stdev MM_median = 5.4694281869208
+avg MM_min = -33.132404594923386 , stdev MM_min = 1.7305905894300992
+avg MM_max = 94.00646508772365 , stdev MM_max = 3.5620521418685356
+avg Phi_est = 0.07657013083743294 , stdev Phi_est = 0.013936912791624827
+
+Cluster 98 -
+
+cluster size =  2
+avg MM_avg = 1.8450276660980933 , stdev MM_avg = 6.592266502793273
+avg MM_median = 3.2088012835205375 , stdev MM_median = 4.537930294114939
+avg MM_min = -79.11842069171149 , stdev MM_min = 15.525596575799998
+avg MM_max = 58.67013198934701 , stdev MM_max = 1.6752981493729828
+avg Phi_est = 0.09066649614080174 , stdev Phi_est = 0.015946609287718103
+
+Cluster 99 -
+
+cluster size =  2
+avg MM_avg = 29.221744496651 , stdev MM_avg = 2.6645912657810884
+avg MM_median = 28.48467368188202 , stdev MM_median = 4.0393078854329385
+avg MM_min = -35.74499310926513 , stdev MM_min = 8.534784294214758
+avg MM_max = 100.0 , stdev MM_max = 0.0
+avg Phi_est = 0.07168788787764697 , stdev Phi_est = 0.011004960080079174
+
+Cluster 100 -
+
+cluster size =  4
+avg MM_avg = 36.79406503073749 , stdev MM_avg = 2.0837628330291618
+avg MM_median = 38.655771079908874 , stdev MM_median = 2.30360234078528
+avg MM_min = -64.32942548937694 , stdev MM_min = 8.00313146956338
+avg MM_max = 94.76718567593208 , stdev MM_max = 4.225258435645542
+avg Phi_est = 0.07682186606009167 , stdev Phi_est = 0.02287165720705345
+
+Cluster 101 -
+
+cluster size =  2
+avg MM_avg = 22.414503874021353 , stdev MM_avg = 0.27601801713366997
+avg MM_median = 21.615021692504975 , stdev MM_median = 1.5772512871286632
+avg MM_min = -28.603528709377585 , stdev MM_min = 1.524269407099104
+avg MM_max = 77.37608837538576 , stdev MM_max = 1.163716881718991
+avg Phi_est = 0.07511018279352571 , stdev Phi_est = 0.010433807205386239
+
+Cluster 102 -
+
+cluster size =  2
+avg MM_avg = 22.89022382266526 , stdev MM_avg = 1.5914201767884535
+avg MM_median = 20.9274214018376 , stdev MM_median = 1.8175279808234222
+avg MM_min = -27.721910827100803 , stdev MM_min = 0.8808520759972644
+avg MM_max = 67.86752478112457 , stdev MM_max = 2.924525944354468
+avg Phi_est = 0.1196284176589002 , stdev Phi_est = 0.015801667163292697
+
+Cluster 103 -
+
+cluster size =  5
+avg MM_avg = 39.069431659715804 , stdev MM_avg = 3.3425487462231356
+avg MM_median = 44.95344312528885 , stdev MM_median = 5.132713239456899
+avg MM_min = -55.874761383101855 , stdev MM_min = 9.273075185111857
+avg MM_max = 96.2550438583167 , stdev MM_max = 4.620808903997571
+avg Phi_est = 0.09956001002292109 , stdev Phi_est = 0.0325981944649684
+
+Cluster 104 -
+
+cluster size =  2
+avg MM_avg = 8.624105346348012 , stdev MM_avg = 1.0311547843453437
+avg MM_median = 7.851951291247273 , stdev MM_median = 2.615372342634894
+avg MM_min = -71.78273339466156 , stdev MM_min = 2.841685932412657
+avg MM_max = 85.9306097083347 , stdev MM_max = 2.9576433434588383
+avg Phi_est = 0.07633328413509437 , stdev Phi_est = 0.0035346711714371835
+
+Cluster 105 -
+
+cluster size =  2
+avg MM_avg = 26.526062073262423 , stdev MM_avg = 3.0888606543708548
+avg MM_median = 25.99384337925065 , stdev MM_median = 3.1154792483654434
+avg MM_min = -32.784562606299055 , stdev MM_min = 0.6869860518317569
+avg MM_max = 86.52107170439555 , stdev MM_max = 15.793211091493488
+avg Phi_est = 0.07996724003723915 , stdev Phi_est = 0.0187568962020533
+
+Cluster 106 -
+
+cluster size =  2
+avg MM_avg = 20.531759652849445 , stdev MM_avg = 2.680212295385682
+avg MM_median = 16.22120343066745 , stdev MM_median = 1.4084999874740751
+avg MM_min = -33.110380361482605 , stdev MM_min = 2.1055211160328935
+avg MM_max = 78.77329818972306 , stdev MM_max = 1.4183763370918547
+avg Phi_est = 0.07017528229828879 , stdev Phi_est = 0.01185482165147952
+
+Cluster 107 -
+
+cluster size =  2
+avg MM_avg = 38.80139057353601 , stdev MM_avg = 5.0411201086115875
+avg MM_median = 42.81937674388118 , stdev MM_median = 3.653589914752936
+avg MM_min = -27.854419689718043 , stdev MM_min = 12.186201827380238
+avg MM_max = 93.61727333812837 , stdev MM_max = 1.0627618257671307
+avg Phi_est = 0.1182590440376127 , stdev Phi_est = 0.058996672298900155
+
+Cluster 108 -
+
+cluster size =  3
+avg MM_avg = 30.197099867762752 , stdev MM_avg = 3.480624078013081
+avg MM_median = 30.35986290565851 , stdev MM_median = 2.693140672582447
+avg MM_min = -34.70738998215986 , stdev MM_min = 7.09520870828542
+avg MM_max = 94.82884978113827 , stdev MM_max = 4.664894034412866
+avg Phi_est = 0.08219724254453802 , stdev Phi_est = 0.01946522625692252
+
+Cluster 109 -
+
+cluster size =  7
+avg MM_avg = 31.68103744458807 , stdev MM_avg = 3.4775814264165716
+avg MM_median = 33.18702360834153 , stdev MM_median = 4.184549961823189
+avg MM_min = -69.066493927944 , stdev MM_min = 9.445296788175432
+avg MM_max = 95.25829521331863 , stdev MM_max = 5.788543116142474
+avg Phi_est = 0.08332784690536767 , stdev Phi_est = 0.019238947113782656
+
+Cluster 110 -
+
+cluster size =  5
+avg MM_avg = 32.922340333458685 , stdev MM_avg = 0.0
+avg MM_median = 35.42704132071508 , stdev MM_median = 0.0
+avg MM_min = -32.24538565544128 , stdev MM_min = 0.0
+avg MM_max = 77.10438792397048 , stdev MM_max = 0.0
+avg Phi_est = 0.08282091739122256 , stdev Phi_est = 0.0
+
+Cluster 111 -
+
+cluster size =  4
+avg MM_avg = 4.741612390025223 , stdev MM_avg = 1.9161422230829954
+avg MM_median = 6.895854364812374 , stdev MM_median = 1.4107612236137395
+avg MM_min = -77.39185131117517 , stdev MM_min = 10.558671941081698
+avg MM_max = 69.66363374624918 , stdev MM_max = 2.31700094501864
+avg Phi_est = 0.08072977048909794 , stdev Phi_est = 0.00960592737127151
+
+Cluster 112 -
+
+cluster size =  6
+avg MM_avg = 37.26385656198438 , stdev MM_avg = 3.1744393845333922
+avg MM_median = 37.01454096531446 , stdev MM_median = 3.5849850044817013
+avg MM_min = -23.523253520462248 , stdev MM_min = 7.208740794404166
+avg MM_max = 91.67608894991903 , stdev MM_max = 6.531985874367231
+avg Phi_est = 0.07971248890681104 , stdev Phi_est = 0.01598545702132987
+
+Cluster 113 -
+
+cluster size =  2
+avg MM_avg = 37.77744480382005 , stdev MM_avg = 0.26792447869128055
+avg MM_median = 36.148666262234315 , stdev MM_median = 0.3044079093435219
+avg MM_min = -14.399531152847391 , stdev MM_min = 8.467734899725931
+avg MM_max = 97.9393135324831 , stdev MM_max = 2.914250750161107
+avg Phi_est = 0.08538750217818927 , stdev Phi_est = 0.0030592191143203654
+
+Cluster 114 -
+
+cluster size =  3
+avg MM_avg = 32.080966552403005 , stdev MM_avg = 3.3826677345735807
+avg MM_median = 34.26720657534942 , stdev MM_median = 3.2453308677610138
+avg MM_min = -36.29128033292694 , stdev MM_min = 3.1899707447922774
+avg MM_max = 75.3655155544978 , stdev MM_max = 4.934739569226217
+avg Phi_est = 0.11075880808978548 , stdev Phi_est = 0.04103408378692832
+
+Cluster 115 -
+
+cluster size =  7
+avg MM_avg = 24.10124475288667 , stdev MM_avg = 2.3674612506899875
+avg MM_median = 21.53454488960586 , stdev MM_median = 2.5081804241128336
+avg MM_min = -30.992536778297428 , stdev MM_min = 7.811166333201163
+avg MM_max = 90.03065593569598 , stdev MM_max = 6.904330105657529
+avg Phi_est = 0.09288070255364263 , stdev Phi_est = 0.0024758827607315416
+
+Cluster 116 -
+
+cluster size =  7
+avg MM_avg = 54.21152567881977 , stdev MM_avg = 5.008909497680483
+avg MM_median = 57.33419432415354 , stdev MM_median = 5.699558876205147
+avg MM_min = -6.698518512218636 , stdev MM_min = 7.11701247369337
+avg MM_max = 99.72656857778574 , stdev MM_max = 0.34881893339796954
+avg Phi_est = 0.0980334285163564 , stdev Phi_est = 0.027463527797023945
+
+Cluster 117 -
+
+cluster size =  4
+avg MM_avg = 51.46368675493213 , stdev MM_avg = 4.468533003658837
+avg MM_median = 53.066725505166175 , stdev MM_median = 4.714271481923839
+avg MM_min = -4.0470563703343165 , stdev MM_min = 8.094112740668633
+avg MM_max = 98.9918007895536 , stdev MM_max = 2.01639842089282
+avg Phi_est = 0.0989885421277614 , stdev Phi_est = 0.012975587107326022
+
+Cluster 118 -
+
+cluster size =  2
+avg MM_avg = 26.617859161621666 , stdev MM_avg = 0.12080996869500439
+avg MM_median = 25.0655951455132 , stdev MM_median = 1.5464962200285064
+avg MM_min = -55.6785445406278 , stdev MM_min = 48.130070032691926
+avg MM_max = 95.77818730105545 , stdev MM_max = 5.970544776646338
+avg Phi_est = 0.06389413248814715 , stdev Phi_est = 0.003735117496873342
+
+Cluster 119 -
+
+cluster size =  2
+avg MM_avg = 22.574649359532398 , stdev MM_avg = 0.31589230537637514
+avg MM_median = 22.811095883360025 , stdev MM_median = 2.908987027400447
+avg MM_min = -58.193651834966104 , stdev MM_min = 13.493054832354558
+avg MM_max = 89.01591458501207 , stdev MM_max = 15.533842564140448
+avg Phi_est = 0.11790270911255145 , stdev Phi_est = 0.023956783230305537
+
+Cluster 120 -
+
+cluster size =  7
+avg MM_avg = 50.209713691143875 , stdev MM_avg = 2.7731023085394835
+avg MM_median = 52.014789040778545 , stdev MM_median = 5.203267444913156
+avg MM_min = -9.276873078192176 , stdev MM_min = 15.968419031103075
+avg MM_max = 96.5556334524767 , stdev MM_max = 4.341914652478228
+avg Phi_est = 0.11280552845245186 , stdev Phi_est = 0.03684795912776428
+
+Cluster 121 -
+
+cluster size =  5
+avg MM_avg = 39.53310862509405 , stdev MM_avg = 2.1266491554976072
+avg MM_median = 40.46142386151325 , stdev MM_median = 2.9641314542350194
+avg MM_min = -1.7107309486780697 , stdev MM_min = 3.825310692456868
+avg MM_max = 80.99339316307268 , stdev MM_max = 5.679444809902653
+avg Phi_est = 0.10243162961267278 , stdev Phi_est = 0.041205969321699856
+
+Cluster 122 -
+
+cluster size =  2
+avg MM_avg = 11.261115169962427 , stdev MM_avg = 0.12353108608805816
+avg MM_median = 8.365218429203686 , stdev MM_median = 0.44075447899256537
+avg MM_min = -52.938603474812766 , stdev MM_min = 3.498231349789531
+avg MM_max = 83.90992575232957 , stdev MM_max = 1.1084343921339652
+avg Phi_est = 0.08317153934632926 , stdev Phi_est = 0.004973203292296262
+
+Cluster 123 -
+
+cluster size =  3
+avg MM_avg = 39.855544237044576 , stdev MM_avg = 1.264958861981888
+avg MM_median = 45.572102995004165 , stdev MM_median = 4.45174022475835
+avg MM_min = -51.09768430040555 , stdev MM_min = 7.077974476342615
+avg MM_max = 97.87043008713027 , stdev MM_max = 3.6885232873604012
+avg Phi_est = 0.12151812606175424 , stdev Phi_est = 0.04447889462774414
+
+Cluster 124 -
+
+cluster size =  7
+avg MM_avg = 8.30381775991488 , stdev MM_avg = 0.04158245689738159
+avg MM_median = 6.3909004935373455 , stdev MM_median = 1.4719776793655555
+avg MM_min = -54.86635854268852 , stdev MM_min = 6.598489225393626
+avg MM_max = 72.9717099769945 , stdev MM_max = 0.5885704562035671
+avg Phi_est = 0.08973650151063653 , stdev Phi_est = 0.0030388762549622005
+
+Cluster 125 -
+
+cluster size =  4
+avg MM_avg = 45.093323643356214 , stdev MM_avg = 4.348717099320116
+avg MM_median = 43.061235730496904 , stdev MM_median = 4.50231084501896
+avg MM_min = -15.702470867929083 , stdev MM_min = 15.645475849105098
+avg MM_max = 97.63850239932172 , stdev MM_max = 2.7718276454879485
+avg Phi_est = 0.10071796981595668 , stdev Phi_est = 0.022637923373553352
+
+Cluster 126 -
+
+cluster size =  3
+avg MM_avg = 39.781028865630056 , stdev MM_avg = 1.2163649780071069
+avg MM_median = 36.60552146050166 , stdev MM_median = 2.629460836232161
+avg MM_min = -17.873068403676736 , stdev MM_min = 1.7443085883164022
+avg MM_max = 94.5165205834735 , stdev MM_max = 6.403615031618362
+avg Phi_est = 0.1076946585589357 , stdev Phi_est = 0.02944683830085582
+
+Cluster 127 -
+
+cluster size =  2
+avg MM_avg = 32.02561352344394 , stdev MM_avg = 1.217179754353821
+avg MM_median = 30.949162935918302 , stdev MM_median = 2.412821164999445
+avg MM_min = -27.176914855157463 , stdev MM_min = 18.663411932219223
+avg MM_max = 93.43301791768931 , stdev MM_max = 9.287115124664894
+avg Phi_est = 0.08049231225935666 , stdev Phi_est = 0.031630649550909794
+
+Cluster 128 -
+
+cluster size =  2
+avg MM_avg = 17.659396721545782 , stdev MM_avg = 1.2406190072349002
+avg MM_median = 13.706008613179009 , stdev MM_median = 1.3173035696175333
+avg MM_min = -52.85759124834662 , stdev MM_min = 10.455605983422078
+avg MM_max = 85.27170076511636 , stdev MM_max = 1.7333895960301988
+avg Phi_est = 0.09646883592070943 , stdev Phi_est = 0.01809210379847955
+
+Cluster 129 -
+
+cluster size =  2
+avg MM_avg = 15.803031185835582 , stdev MM_avg = 1.9554117468171839
+avg MM_median = 17.965203640317064 , stdev MM_median = 1.1003133800087124
+avg MM_min = -62.20542059078845 , stdev MM_min = 1.8402141995213912
+avg MM_max = 81.10566185815877 , stdev MM_max = 10.72793555150657
+avg Phi_est = 0.08266140848655557 , stdev Phi_est = 0.016175905633434323
+
+Cluster 130 -
+
+cluster size =  2
+avg MM_avg = 26.799832262930437 , stdev MM_avg = 3.221132198930215
+avg MM_median = 29.26164887035349 , stdev MM_median = 7.505143684199305
+avg MM_min = -46.02081476670734 , stdev MM_min = 5.294693369244961
+avg MM_max = 93.22848329378675 , stdev MM_max = 6.881204631130051
+avg Phi_est = 0.07408763202772278 , stdev Phi_est = 0.03056732618204704
+
+Cluster 131 -
+
+cluster size =  5
+avg MM_avg = 13.902511842965975 , stdev MM_avg = 4.324789384252334
+avg MM_median = 14.747130939578419 , stdev MM_median = 4.890607722192681
+avg MM_min = -69.55571328484031 , stdev MM_min = 9.199131827799546
+avg MM_max = 87.1220932432164 , stdev MM_max = 8.417086835165929
+avg Phi_est = 0.08914944190423967 , stdev Phi_est = 0.003901317210081986
+
+Cluster 132 -
+
+cluster size =  4
+avg MM_avg = 12.008187833834127 , stdev MM_avg = 0.9860844980180352
+avg MM_median = 12.293574963542206 , stdev MM_median = 0.7787387091644628
+avg MM_min = -50.14728961524567 , stdev MM_min = 16.154501078646938
+avg MM_max = 64.5734451972277 , stdev MM_max = 10.229712257928023
+avg Phi_est = 0.08305627062739104 , stdev Phi_est = 0.021161037303425913
+
+Cluster 133 -
+
+cluster size =  4
+avg MM_avg = 40.53967141096865 , stdev MM_avg = 2.1590535511371587
+avg MM_median = 40.62390179958605 , stdev MM_median = 1.366560724707144
+avg MM_min = -52.63927235562568 , stdev MM_min = 33.78286937769796
+avg MM_max = 96.50226335525946 , stdev MM_max = 4.052730805256994
+avg Phi_est = 0.08951523171137711 , stdev Phi_est = 0.014140638357924172
+
+Cluster 134 -
+
+cluster size =  3
+avg MM_avg = 10.001176244132475 , stdev MM_avg = 0.2599052796687303
+avg MM_median = 6.50479889135602 , stdev MM_median = 1.308916073431418
+avg MM_min = -39.98009413612359 , stdev MM_min = 5.759658211196739
+avg MM_max = 74.10363190618997 , stdev MM_max = 2.9045888816097007
+avg Phi_est = 0.10584633599384527 , stdev Phi_est = 0.02069942008687274
+
+Cluster 135 -
+
+cluster size =  4
+avg MM_avg = 45.55193038712293 , stdev MM_avg = 1.684201665843832
+avg MM_median = 51.3356892715231 , stdev MM_median = 4.28819991881541
+avg MM_min = -25.790114641514155 , stdev MM_min = 11.830068141770598
+avg MM_max = 96.7599612742371 , stdev MM_max = 3.275034225851225
+avg Phi_est = 0.09677853745005673 , stdev Phi_est = 0.034829581918157326
+
+Cluster 136 -
+
+cluster size =  3
+avg MM_avg = 10.727050746669313 , stdev MM_avg = 1.7503759415796105
+avg MM_median = 10.947390825429492 , stdev MM_median = 1.6256390480589291
+avg MM_min = -73.41342522973181 , stdev MM_min = 7.979742108084774
+avg MM_max = 86.91270537173003 , stdev MM_max = 6.023800896644468
+avg Phi_est = 0.08984708597457977 , stdev Phi_est = 0.015973032257525846
+
+Cluster 137 -
+
+cluster size =  2
+avg MM_avg = 22.667328922718077 , stdev MM_avg = 4.282977948248753
+avg MM_median = 21.273740263510742 , stdev MM_median = 6.627400886850172
+avg MM_min = -53.89658254224965 , stdev MM_min = 1.09790915842231
+avg MM_max = 96.79184692571624 , stdev MM_max = 4.5370135878210185
+avg Phi_est = 0.09307725929803545 , stdev Phi_est = 0.02417335013880047
+
+Cluster 138 -
+
+cluster size =  2
+avg MM_avg = 0.9417955937295197 , stdev MM_avg = 2.129171967709118
+avg MM_median = 0.5728374241563412 , stdev MM_median = 0.810114454276767
+avg MM_min = -72.63176234177641 , stdev MM_min = 21.11860327757686
+avg MM_max = 88.34203763544892 , stdev MM_max = 9.527256996377105
+avg Phi_est = 0.0808488046912403 , stdev Phi_est = 0.009930584960180556
+
+Cluster 139 -
+
+cluster size =  2
+avg MM_avg = 40.247493800705556 , stdev MM_avg = 0.002331353141108295
+avg MM_median = 45.872805299706854 , stdev MM_median = 0.11908520960277935
+avg MM_min = 0.0 , stdev MM_min = 0.0
+avg MM_max = 76.10414604160917 , stdev MM_max = 1.5436701467084466
+avg Phi_est = 0.12942578290090337 , stdev Phi_est = 0.06630841444689138
+
+Cluster 140 -
+
+cluster size =  2
+avg MM_avg = 38.60892259119801 , stdev MM_avg = 0.0538267527771672
+avg MM_median = 46.37827814302127 , stdev MM_median = 0.6782512251933411
+avg MM_min = -63.129722817655136 , stdev MM_min = 0.5083476943690107
+avg MM_max = 97.58765446697804 , stdev MM_max = 3.4115717699298127
+avg Phi_est = 0.11763696634716657 , stdev Phi_est = 0.04809450305142101
+
+Cluster 141 -
+
+cluster size =  2
+avg MM_avg = 23.46588592206166 , stdev MM_avg = 0.3838573986146354
+avg MM_median = 26.389472047100178 , stdev MM_median = 0.18465579065508342
+avg MM_min = -67.63795470710751 , stdev MM_min = 0.35886874312760775
+avg MM_max = 83.04135053915734 , stdev MM_max = 0.8229815982411723
+avg Phi_est = 0.07721599979564475 , stdev Phi_est = 0.009346838379757428
+
+Cluster 142 -
+
+cluster size =  2
+avg MM_avg = 29.17246672007508 , stdev MM_avg = 1.3005235149063008
+avg MM_median = 27.712986467798018 , stdev MM_median = 1.8558512744879065
+avg MM_min = -54.551007788168675 , stdev MM_min = 6.401288096226567
+avg MM_max = 90.48834488367214 , stdev MM_max = 1.078402321177108
+avg Phi_est = 0.10137278856500823 , stdev Phi_est = 0.025047639888064497
+
+Cluster 143 -
+
+cluster size =  2
+avg MM_avg = 35.78412230994077 , stdev MM_avg = 1.4993987279831649
+avg MM_median = 39.74877871007264 , stdev MM_median = 1.9916950571631997
+avg MM_min = -34.521473848534725 , stdev MM_min = 2.624546182572402
+avg MM_max = 92.73256981446625 , stdev MM_max = 8.58977415970677
+avg Phi_est = 0.08620678872567708 , stdev Phi_est = 0.0026568815528358923
+
+Cluster 144 -
+
+cluster size =  2
+avg MM_avg = 34.97590593592733 , stdev MM_avg = 3.8478546098906627
+avg MM_median = 38.64957952800823 , stdev MM_median = 0.5573326562435152
+avg MM_min = -66.43100113816675 , stdev MM_min = 19.02994825806579
+avg MM_max = 95.22425249169434 , stdev MM_max = 6.753926896715375
+avg Phi_est = 0.10695228504866917 , stdev Phi_est = 0.0340910781425951
+
+Cluster 145 -
+
+cluster size =  2
+avg MM_avg = 18.567137100446427 , stdev MM_avg = 1.9005885442786483
+avg MM_median = 19.884905990189893 , stdev MM_median = 1.8721518614854198
+avg MM_min = -63.41395345120467 , stdev MM_min = 2.9123620300865047
+avg MM_max = 93.05254245710057 , stdev MM_max = 0.5193299808279386
+avg Phi_est = 0.08551331436191174 , stdev Phi_est = 0.003501046184726121
+
+Cluster 146 -
+
+cluster size =  3
+avg MM_avg = 30.880265073123194 , stdev MM_avg = 3.9506885268098
+avg MM_median = 31.915192350691754 , stdev MM_median = 4.1364670659944425
+avg MM_min = -33.39388701091027 , stdev MM_min = 4.553427531400101
+avg MM_max = 85.82613918127929 , stdev MM_max = 4.460969215102807
+avg Phi_est = 0.0872016686258837 , stdev Phi_est = 0.0082937266153779
+
+Cluster 147 -
+
+cluster size =  2
+avg MM_avg = 36.72168495326851 , stdev MM_avg = 0.766926442348266
+avg MM_median = 37.35403129115919 , stdev MM_median = 1.1120847792661388
+avg MM_min = -34.354483635382486 , stdev MM_min = 21.22631147564377
+avg MM_max = 90.61426770421247 , stdev MM_max = 13.273429905505886
+avg Phi_est = 0.06960063327221924 , stdev Phi_est = 0.014839942336958678
+
+Cluster 148 -
+
+cluster size =  2
+avg MM_avg = 40.92737551442397 , stdev MM_avg = 0.41108343116978996
+avg MM_median = 46.00202370025964 , stdev MM_median = 2.656640298162117
+avg MM_min = -25.284389824188402 , stdev MM_min = 2.8468206683307895
+avg MM_max = 86.02119407607161 , stdev MM_max = 6.085731290713833
+avg Phi_est = 0.09600095761748315 , stdev Phi_est = 0.04061742413254621
+
+Cluster 149 -
+
+cluster size =  3
+avg MM_avg = 22.278105557108788 , stdev MM_avg = 2.743642252025711
+avg MM_median = 23.275753642780288 , stdev MM_median = 6.724749397407638
+avg MM_min = -59.90412411206234 , stdev MM_min = 1.586222096924682
+avg MM_max = 85.12802774669561 , stdev MM_max = 12.955676350444895
+avg Phi_est = 0.08680408498744603 , stdev Phi_est = 0.0058311955222530645
+
+Cluster 150 -
+
+cluster size =  2
+avg MM_avg = 31.753615905793563 , stdev MM_avg = 1.6912152200989292
+avg MM_median = 32.424189840355524 , stdev MM_median = 3.768683800702326
+avg MM_min = -53.5027307350426 , stdev MM_min = 1.7499413356311637
+avg MM_max = 89.78288752594311 , stdev MM_max = 0.000219578182443823
+avg Phi_est = 0.0893073921967434 , stdev Phi_est = 0.02756321200662849
+
+Cluster 151 -
+
+cluster size =  2
+avg MM_avg = 26.476856949653367 , stdev MM_avg = 4.0532609687850805
+avg MM_median = 23.22079332663641 , stdev MM_median = 4.6268158383313605
+avg MM_min = -49.46651533106703 , stdev MM_min = 2.4479568035946895
+avg MM_max = 99.5618223695298 , stdev MM_max = 0.6196767477394632
+avg Phi_est = 0.07126432282161563 , stdev Phi_est = 0.00994545423356339
+
+Cluster 152 -
+
+cluster size =  3
+avg MM_avg = 42.449011230613486 , stdev MM_avg = 3.48220054393529
+avg MM_median = 46.77158481607475 , stdev MM_median = 3.0196648007381395
+avg MM_min = -3.9140508995847756 , stdev MM_min = 3.9231100288481557
+avg MM_max = 95.04500466006228 , stdev MM_max = 4.58954515878994
+avg Phi_est = 0.07047467886992037 , stdev Phi_est = 0.025573318893259037
+
+Cluster 153 -
+
+cluster size =  2
+avg MM_avg = 16.111098971998786 , stdev MM_avg = 1.7272000718542297
+avg MM_median = 15.283255501919362 , stdev MM_median = 1.417426438146018
+avg MM_min = -51.11190158322009 , stdev MM_min = 4.087600587850651
+avg MM_max = 78.57540991685335 , stdev MM_max = 0.6194685911810647
+avg Phi_est = 0.09139660087120514 , stdev Phi_est = 0.006074772314753631
+
+Cluster 154 -
+
+cluster size =  2
+avg MM_avg = 12.333894426435464 , stdev MM_avg = 3.914172760126854
+avg MM_median = 11.035292257299659 , stdev MM_median = 4.001270002819141
+avg MM_min = -79.26938178339654 , stdev MM_min = 4.783835763234994
+avg MM_max = 91.94173276136331 , stdev MM_max = 1.2538000425625264
+avg Phi_est = 0.09978763020885223 , stdev Phi_est = 0.013858854390041399
+
+Cluster 155 -
+
+cluster size =  2
+avg MM_avg = 34.17667094999695 , stdev MM_avg = 2.3506331387541475
+avg MM_median = 27.899878086787453 , stdev MM_median = 2.2559404740275086
+avg MM_min = -25.74566355995701 , stdev MM_min = 0.3493865857235818
+avg MM_max = 95.91332682417789 , stdev MM_max = 0.2566246148639307
+avg Phi_est = 0.11089109086178128 , stdev Phi_est = 0.0006515132514625193
+
+Cluster 156 -
+
+cluster size =  4
+avg MM_avg = 59.40550108132534 , stdev MM_avg = 0.7336800153196494
+avg MM_median = 64.8417108046791 , stdev MM_median = 2.592396314600427
+avg MM_min = -20.896372271402846 , stdev MM_min = 24.519786688240867
+avg MM_max = 99.81495247283598 , stdev MM_max = 0.3700950543280399
+avg Phi_est = 0.08764080506193345 , stdev Phi_est = 0.009652546228236334
+
+Cluster 157 -
+
+cluster size =  2
+avg MM_avg = 13.834146358999796 , stdev MM_avg = 4.856601413117646
+avg MM_median = 14.879235396759128 , stdev MM_median = 6.15386099544785
+avg MM_min = -40.693402775560514 , stdev MM_min = 3.9214497585532744
+avg MM_max = 61.43950939661862 , stdev MM_max = 1.607211802710858
+avg Phi_est = 0.12084929900690719 , stdev Phi_est = 0.0002660066635219832
+
+Cluster 158 -
+
+cluster size =  3
+avg MM_avg = 15.045318750011177 , stdev MM_avg = 3.1726842594927294
+avg MM_median = 18.684903176672503 , stdev MM_median = 1.636514558611857
+avg MM_min = -66.25771878027724 , stdev MM_min = 6.385446343383025
+avg MM_max = 77.68609061115822 , stdev MM_max = 1.7718146412539924
+avg Phi_est = 0.08617708800240424 , stdev Phi_est = 0.014423205652119728
+
+Cluster 159 -
+
+cluster size =  2
+avg MM_avg = 29.675875641547073 , stdev MM_avg = 0.8029434149839735
+avg MM_median = 29.002708064925656 , stdev MM_median = 3.4873409593534785
+avg MM_min = -53.5848689841263 , stdev MM_min = 0.5685393982709767
+avg MM_max = 88.93369423115874 , stdev MM_max = 15.650119703662922
+avg Phi_est = 0.08824673911760887 , stdev Phi_est = 0.023378107927516344
+
+Cluster 160 -
+
+cluster size =  4
+avg MM_avg = 17.87120904815958 , stdev MM_avg = 2.6076368137586536
+avg MM_median = 17.266095225054112 , stdev MM_median = 3.8033437692344445
+avg MM_min = -36.07401203099166 , stdev MM_min = 10.246218868702886
+avg MM_max = 69.90010167602378 , stdev MM_max = 9.218694452696594
+avg Phi_est = 0.1305713404517737 , stdev Phi_est = 0.06515145105658064
+
+Cluster 161 -
+
+cluster size =  2
+avg MM_avg = 19.705641126811933 , stdev MM_avg = 3.0945375035886906
+avg MM_median = 17.61525136804677 , stdev MM_median = 4.269521561422584
+avg MM_min = -61.778447170616126 , stdev MM_min = 8.945656924982794
+avg MM_max = 94.31302875432705 , stdev MM_max = 6.159280971275497
+avg Phi_est = 0.0918105450475461 , stdev Phi_est = 0.00677286090999639
+
+Cluster 162 -
+
+cluster size =  2
+avg MM_avg = 33.56773464190289 , stdev MM_avg = 3.4543721530758043
+avg MM_median = 34.9388773910706 , stdev MM_median = 6.192070406716667
+avg MM_min = -67.86586599898109 , stdev MM_min = 22.640736828720357
+avg MM_max = 96.59608340472612 , stdev MM_max = 4.813865014223176
+avg Phi_est = 0.06718944783431137 , stdev Phi_est = 0.016138425573617683
+
+Cluster 163 -
+
+cluster size =  2
+avg MM_avg = 16.64241043560493 , stdev MM_avg = 0.2381814356223051
+avg MM_median = 8.57818678190122 , stdev MM_median = 1.1723112510897198
+avg MM_min = -32.50128219093561 , stdev MM_min = 0.00562920443977838
+avg MM_max = 93.58697751391692 , stdev MM_max = 2.8662718258258
+avg Phi_est = 0.0942768425009981 , stdev Phi_est = 0.029135969281220024
+
+Cluster 164 -
+
+cluster size =  2
+avg MM_avg = 23.27149334915871 , stdev MM_avg = 2.7294646490177814
+avg MM_median = 26.361183242101283 , stdev MM_median = 5.861580681020482
+avg MM_min = -63.35068641694561 , stdev MM_min = 2.799203013211957
+avg MM_max = 92.00943349088269 , stdev MM_max = 0.7562148101687166
+avg Phi_est = 0.08110186163183847 , stdev Phi_est = 0.01200419080367387
+
+Cluster 165 -
+
+cluster size =  2
+avg MM_avg = 30.041481676852868 , stdev MM_avg = 0.04171397743642547
+avg MM_median = 33.55652460654473 , stdev MM_median = 0.7359296517876924
+avg MM_min = -36.36255808352079 , stdev MM_min = 7.266554115659402
+avg MM_max = 79.07826600392241 , stdev MM_max = 1.644078622971361
+avg Phi_est = 0.09222279391386634 , stdev Phi_est = 0.0014407382327895034
+
+Cluster 166 -
+
+cluster size =  2
+avg MM_avg = 48.54502632739426 , stdev MM_avg = 2.5525733970392053
+avg MM_median = 52.50333403425172 , stdev MM_median = 4.104297581826399
+avg MM_min = -26.43543523914208 , stdev MM_min = 24.319762966179958
+avg MM_max = 97.48838351374962 , stdev MM_max = 2.2270127515680214
+avg Phi_est = 0.07268793201364135 , stdev Phi_est = 0.0004973528130449462
+
+Cluster 167 -
+
+cluster size =  4
+avg MM_avg = 35.56880271281258 , stdev MM_avg = 0.8580084273105555
+avg MM_median = 32.96980578766657 , stdev MM_median = 2.0886034172779686
+avg MM_min = -17.73763470596434 , stdev MM_min = 10.493340529756384
+avg MM_max = 92.82487007897002 , stdev MM_max = 1.1797396888558285
+avg Phi_est = 0.07359684453228986 , stdev Phi_est = 0.01908110283388824
+
+Cluster 168 -
+
+cluster size =  3
+avg MM_avg = 42.06460310478437 , stdev MM_avg = 1.406977224343196
+avg MM_median = 45.81348523735188 , stdev MM_median = 3.5790477545836215
+avg MM_min = -43.91827802337732 , stdev MM_min = 12.283331699071825
+avg MM_max = 99.06142409157694 , stdev MM_max = 1.6256611601488478
+avg Phi_est = 0.09104316414545903 , stdev Phi_est = 0.01720947144987658
+
+Cluster 169 -
+
+cluster size =  2
+avg MM_avg = 34.83016445572361 , stdev MM_avg = 3.2084831678707944
+avg MM_median = 30.95623567019385 , stdev MM_median = 5.425517692681691
+avg MM_min = -25.850100218081646 , stdev MM_min = 14.519994153621736
+avg MM_max = 90.41864049273548 , stdev MM_max = 0.387491785847369
+avg Phi_est = 0.11885434663067052 , stdev Phi_est = 0.07576694185095204
+
+Cluster 170 -
+
+cluster size =  3
+avg MM_avg = 35.37666526747806 , stdev MM_avg = 1.9973119184950565
+avg MM_median = 37.561095185390336 , stdev MM_median = 2.117379963039613
+avg MM_min = -45.59261331296224 , stdev MM_min = 12.075880832457948
+avg MM_max = 95.34721192789337 , stdev MM_max = 4.212358467747328
+avg Phi_est = 0.07117537733680489 , stdev Phi_est = 0.002813988863896651
+
+Cluster 171 -
+
+cluster size =  2
+avg MM_avg = 32.24803484776261 , stdev MM_avg = 2.806853111030709
+avg MM_median = 31.114521175021324 , stdev MM_median = 2.684316964489987
+avg MM_min = -3.0938768071849716 , stdev MM_min = 1.9744795655185718
+avg MM_max = 83.38736962043393 , stdev MM_max = 1.3638600174860682
+avg Phi_est = 0.08383675843807425 , stdev Phi_est = 0.015375549696851737
+
+Cluster 172 -
+
+cluster size =  3
+avg MM_avg = 25.658230175342094 , stdev MM_avg = 1.5916615520287154
+avg MM_median = 23.72067188873141 , stdev MM_median = 0.13682042665186067
+avg MM_min = -39.42514956988017 , stdev MM_min = 14.034851828803935
+avg MM_max = 93.02404705606581 , stdev MM_max = 11.41450361208703
+avg Phi_est = 0.0923700350765379 , stdev Phi_est = 0.010305538272043738
+
+Cluster 173 -
+
+cluster size =  2
+avg MM_avg = 28.295419264101334 , stdev MM_avg = 3.6060905091227
+avg MM_median = 28.15667112941406 , stdev MM_median = 1.9724351653942975
+avg MM_min = -35.25771191623843 , stdev MM_min = 8.819275467632464
+avg MM_max = 93.47192871874958 , stdev MM_max = 1.3588428391234
+avg Phi_est = 0.057063550135965674 , stdev Phi_est = 0.009220811261387156
+
+Cluster 174 -
+
+cluster size =  2
+avg MM_avg = 50.440725770471715 , stdev MM_avg = 1.5038039369171914
+avg MM_median = 56.25383733601806 , stdev MM_median = 0.9129918282070307
+avg MM_min = -6.506727836459492 , stdev MM_min = 8.175417462186818
+avg MM_max = 97.43964102601001 , stdev MM_max = 2.6192645612016014
+avg Phi_est = 0.09544640063585073 , stdev Phi_est = 0.018101097755745362
+
+Cluster 175 -
+
+cluster size =  2
+avg MM_avg = 17.39227385826362 , stdev MM_avg = 1.230896848752077
+avg MM_median = 18.66927531074595 , stdev MM_median = 2.7565892544467943
+avg MM_min = -69.1220650462515 , stdev MM_min = 22.80935372544684
+avg MM_max = 84.02715564453194 , stdev MM_max = 0.600285593434775
+avg Phi_est = 0.08468688623281714 , stdev Phi_est = 0.011660600111689672
+
+Cluster 176 -
+
+cluster size =  2
+avg MM_avg = 23.0442141058893 , stdev MM_avg = 1.0719045545854868
+avg MM_median = 24.272751564487855 , stdev MM_median = 4.3910640298829025
+avg MM_min = -57.06099605916856 , stdev MM_min = 15.842793127372698
+avg MM_max = 82.40096377503495 , stdev MM_max = 6.221694322643744
+avg Phi_est = 0.08211875137792027 , stdev Phi_est = 0.004051305434375976
+
+Cluster 177 -
+
+cluster size =  2
+avg MM_avg = 9.405689576279219 , stdev MM_avg = 1.0371684844252218
+avg MM_median = 9.965011696835926 , stdev MM_median = 0.9528065034038996
+avg MM_min = -59.49071645492923 , stdev MM_min = 8.499292967077238
+avg MM_max = 90.15092171143351 , stdev MM_max = 5.862689542412225
+avg Phi_est = 0.08699885941003707 , stdev Phi_est = 0.010233867914637795
+
+Cluster 178 -
+
+cluster size =  2
+avg MM_avg = 28.339467975493125 , stdev MM_avg = 3.0685074768353364
+avg MM_median = 31.525838208454317 , stdev MM_median = 1.7720654986899382
+avg MM_min = -64.71708778382096 , stdev MM_min = 18.71850895718201
+avg MM_max = 87.2408403157519 , stdev MM_max = 2.966816414291309
+avg Phi_est = 0.08717874182597787 , stdev Phi_est = 0.002641637248604059
+
+Cluster 179 -
+
+cluster size =  2
+avg MM_avg = 19.889620585007076 , stdev MM_avg = 1.3429447553655125
+avg MM_median = 20.559965275297486 , stdev MM_median = 0.8967834438519883
+avg MM_min = -49.378681021232396 , stdev MM_min = 2.699468801164033
+avg MM_max = 77.14776839363319 , stdev MM_max = 0.9965485289036735
+avg Phi_est = 0.09370088306770073 , stdev Phi_est = 0.007304894152001105
+
+Cluster 180 -
+
+cluster size =  2
+avg MM_avg = 9.692811682128596 , stdev MM_avg = 0.20465188394805406
+avg MM_median = 7.5869716838110595 , stdev MM_median = 0.9106429517584678
+avg MM_min = -53.290658823756644 , stdev MM_min = 6.67116167055529
+avg MM_max = 70.0291832085704 , stdev MM_max = 6.230403362674626
+avg Phi_est = 0.09467584402988248 , stdev Phi_est = 0.004635005093830246
+
+Cluster 181 -
+
+cluster size =  2
+avg MM_avg = 38.13729237844012 , stdev MM_avg = 1.524842595368091
+avg MM_median = 42.587438156645035 , stdev MM_median = 4.159313303974317
+avg MM_min = -59.733737750587224 , stdev MM_min = 15.53768249829723
+avg MM_max = 98.04302491631466 , stdev MM_max = 0.1387203852718538
+avg Phi_est = 0.08349834641143171 , stdev Phi_est = 0.010805424458936947
+
+Cluster 182 -
+
+cluster size =  2
+avg MM_avg = 18.57860168110449 , stdev MM_avg = 0.35809375360561596
+avg MM_median = 15.837556732223556 , stdev MM_median = 1.604974007818702
+avg MM_min = -48.160810494259934 , stdev MM_min = 10.68605386093827
+avg MM_max = 96.78346054941214 , stdev MM_max = 3.0565692636417494
+avg Phi_est = 0.08388011417682921 , stdev Phi_est = 0.0061302499849461315
+
+Cluster 183 -
+
+cluster size =  2
+avg MM_avg = 34.725301232616616 , stdev MM_avg = 2.5762108042678458
+avg MM_median = 41.887512835821 , stdev MM_median = 1.7093184706332838
+avg MM_min = -56.85058691477533 , stdev MM_min = 7.018254269777421
+avg MM_max = 94.19607935506804 , stdev MM_max = 0.32073877037359044
+avg Phi_est = 0.14853847666969286 , stdev Phi_est = 0.08914085614720818
+
+Cluster 184 -
+
+cluster size =  2
+avg MM_avg = 39.25493991441611 , stdev MM_avg = 3.7928755159084226
+avg MM_median = 43.506024879312726 , stdev MM_median = 3.035631974746409
+avg MM_min = -77.7651771558995 , stdev MM_min = 3.437537360555073
+avg MM_max = 96.48792895619597 , stdev MM_max = 0.38607534383626274
+avg Phi_est = 0.0911596435357767 , stdev Phi_est = 0.002299090864664259
+
+Cluster 185 -
+
+cluster size =  2
+avg MM_avg = 5.798327396043653 , stdev MM_avg = 1.9007797360910748
+avg MM_median = 3.4325797747144464 , stdev MM_median = 0.7834988347391492
+avg MM_min = -47.32457845459818 , stdev MM_min = 11.80304022355875
+avg MM_max = 59.348972897908574 , stdev MM_max = 1.7640538991052124
+avg Phi_est = 0.08717107988867637 , stdev Phi_est = 0.005210030916657196
+
+Cluster 186 -
+
+cluster size =  2
+avg MM_avg = 44.66793254007032 , stdev MM_avg = 0.13250215736087845
+avg MM_median = 42.10981838752461 , stdev MM_median = 1.5062602830021445
+avg MM_min = -6.3087688607041565 , stdev MM_min = 8.921946484684877
+avg MM_max = 98.22994888622453 , stdev MM_max = 2.5032302911948663
+avg Phi_est = 0.09065321643811218 , stdev Phi_est = 0.013805602914517542
+
+Cluster 187 -
+
+cluster size =  2
+avg MM_avg = 45.806769275004825 , stdev MM_avg = 0.43952083014063886
+avg MM_median = 47.30388698361287 , stdev MM_median = 0.9357000895764933
+avg MM_min = -22.534324746786186 , stdev MM_min = 26.686742813476382
+avg MM_max = 88.44046207446823 , stdev MM_max = 1.2394093689070413
+avg Phi_est = 0.12226979635958252 , stdev Phi_est = 0.024981041376129626
+
+Cluster 188 -
+
+cluster size =  6
+avg MM_avg = 43.60968605347546 , stdev MM_avg = 2.4806145225911793
+avg MM_median = 45.81953644439539 , stdev MM_median = 3.426894818840573
+avg MM_min = -55.03832032892595 , stdev MM_min = 15.547861942434158
+avg MM_max = 98.58747071046464 , stdev MM_max = 3.4599760060976603
+avg Phi_est = 0.07467487209189613 , stdev Phi_est = 0.00996736724902201
+
+Cluster 189 -
+
+cluster size =  2
+avg MM_avg = 40.88940981016574 , stdev MM_avg = 0.8149761317285649
+avg MM_median = 39.41741954489738 , stdev MM_median = 0.8349436709365534
+avg MM_min = -24.668088844751423 , stdev MM_min = 1.1340006133757738
+avg MM_max = 95.78704525826618 , stdev MM_max = 4.344152693007419
+avg Phi_est = 0.10304761609047101 , stdev Phi_est = 0.0039009382374353726
+
+Cluster 190 -
+
+cluster size =  2
+avg MM_avg = 32.29919106331313 , stdev MM_avg = 1.5758687447484416
+avg MM_median = 37.80534719572338 , stdev MM_median = 0.17056801750476488
+avg MM_min = -61.91288325114775 , stdev MM_min = 19.71124634648878
+avg MM_max = 83.3941153438146 , stdev MM_max = 5.70381832840643
+avg Phi_est = 0.08303693211807411 , stdev Phi_est = 0.009705994117142736
+
+Cluster 191 -
+
+cluster size =  2
+avg MM_avg = 55.285177409951245 , stdev MM_avg = 2.559335755773234
+avg MM_median = 59.94813580315723 , stdev MM_median = 3.963407857718325
+avg MM_min = -16.807334523294934 , stdev MM_min = 10.68699291817799
+avg MM_max = 100.0 , stdev MM_max = 0.0
+avg Phi_est = 0.06970744203698019 , stdev Phi_est = 0.02615434022187623
+
+Cluster 192 -
+
+cluster size =  2
+avg MM_avg = 38.67585899419984 , stdev MM_avg = 0.0
+avg MM_median = 46.78528408587235 , stdev MM_median = 0.0
+avg MM_min = 0.0 , stdev MM_min = 0.0
+avg MM_max = 71.29606380621819 , stdev MM_max = 0.0
+avg Phi_est = 0.07626985859023447 , stdev Phi_est = 0.0
+
+Cluster 193 -
+
+cluster size =  2
+avg MM_avg = 39.7789387578313 , stdev MM_avg = 0.5254318110371716
+avg MM_median = 47.47897625861103 , stdev MM_median = 1.0979185843346244
+avg MM_min = -69.5759026616176 , stdev MM_min = 7.6784764172066495
+avg MM_max = 93.13347928384249 , stdev MM_max = 0.20208719255556828
+avg Phi_est = 0.1476680227304225 , stdev Phi_est = 0.04346364223432025
+
+Cluster 194 -
+
+cluster size =  2
+avg MM_avg = 30.474331516446284 , stdev MM_avg = 1.841274789521167
+avg MM_median = 31.688612694646352 , stdev MM_median = 0.46632885280041686
+avg MM_min = -3.9502645910034397 , stdev MM_min = 0.7092748977810976
+avg MM_max = 71.57313687005507 , stdev MM_max = 6.0472817576031535
+avg Phi_est = 0.08395252243353435 , stdev Phi_est = 0.02991255729615875
+
+Cluster 195 -
+
+cluster size =  2
+avg MM_avg = 38.20942593751619 , stdev MM_avg = 0.8106226132073203
+avg MM_median = 34.593171455903786 , stdev MM_median = 1.6511084024277285
+avg MM_min = 0.0 , stdev MM_min = 0.0
+avg MM_max = 87.9056716031624 , stdev MM_max = 1.708623355835904
+avg Phi_est = 0.09300851585614613 , stdev Phi_est = 0.0048283876256357905
+
+Cluster 196 -
+
+cluster size =  2
+avg MM_avg = 32.5335329216723 , stdev MM_avg = 0.6891119786296178
+avg MM_median = 32.39639131971018 , stdev MM_median = 5.08934735693857
+avg MM_min = -48.53345088903132 , stdev MM_min = 0.5260028476586531
+avg MM_max = 97.77405103522678 , stdev MM_max = 0.26718950901878114
+avg Phi_est = 0.07104700555550772 , stdev Phi_est = 0.0036595344093916004
+
+Cluster 197 -
+
+cluster size =  2
+avg MM_avg = 41.999675935008526 , stdev MM_avg = 0.3049532512061202
+avg MM_median = 44.65457196392088 , stdev MM_median = 0.5305259642952069
+avg MM_min = -43.51685700049188 , stdev MM_min = 16.8321194952995
+avg MM_max = 86.1913187997395 , stdev MM_max = 1.314822052636616
+avg Phi_est = 0.09375695905446174 , stdev Phi_est = 0.015773619236453217
+
+Cluster 198 -
+
+cluster size =  2
+avg MM_avg = 11.307724923694597 , stdev MM_avg = 1.7635440302874554
+avg MM_median = 10.90711986721454 , stdev MM_median = 1.4013707353128257
+avg MM_min = -43.83173405125686 , stdev MM_min = 0.21339382406125396
+avg MM_max = 60.34566624690264 , stdev MM_max = 0.9666534671471361
+avg Phi_est = 0.08677494213524989 , stdev Phi_est = 0.003919389625598671
+
+Cluster 199 -
+
+cluster size =  2
+avg MM_avg = 8.097835113413874 , stdev MM_avg = 1.0298557993795228
+avg MM_median = 8.397730190042205 , stdev MM_median = 1.7619577995534446
+avg MM_min = -52.83463265089438 , stdev MM_min = 2.5858388429099404
+avg MM_max = 61.57998926337134 , stdev MM_max = 23.078301969684855
+avg Phi_est = 0.0828718112732946 , stdev Phi_est = 0.009572184342916455
+
